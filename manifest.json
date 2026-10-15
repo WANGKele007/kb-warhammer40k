@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "repo": "kb-warhammer40k",
+  "type": "knowledge-base",
+  "topic": "warhammer-40000",
+  "answer_language": "zh",
+  "description": "战锤 40K 知识库。英文源提供权威原典,中文源提供中文原生内容;中文检索与翻译在查询时由 Hermes 完成",
+  "sources": [
+    {
+      "id": "fandom-wh40k",
+      "name": "Warhammer 40K Wiki (Fandom)",
+      "url": "https://warhammer40k.fandom.com",
+      "api": "https://warhammer40k.fandom.com/api.php",
+      "language": "en",
+      "primary": true,
+      "reachable_directly": false,
+      "blocked_reason": "SNI 阻断 (GFW)",
+      "collect_via": "github-actions",
+      "robots_txt": "ok",
+      "status": "recon pending"
+    },
+    {
+      "id": "lexicanum",
+      "name": "Lexicanum",
+      "url": "https://wh40k.lexicanum.com",
+      "language": "en",
+      "primary": false,
+      "reachable_directly": false,
+      "blocked_reason": "Cloudflare 拒绝国内机房 IP",
+      "collect_via": "github-actions",
+      "robots_txt": "unknown",
+      "status": "backlog"
+    },
+    {
+      "id": "wh40knews",
+      "name": "战锤 40K 中文站",
+      "url": "https://wh40knews.com",
+      "language": "zh",
+      "primary": false,
+      "reachable_directly": true,
+      "collect_via": "local",
+      "sitemap": "https://wh40knews.com/sitemap.xml",
+      "scope": "仅 /lore 背景设定与故事,共 132 篇;/news 与 /guides 按需求排除",
+      "robots_txt": "!! 明确 Disallow 全部 AI 爬虫 (GPTBot / ChatGPT-User / Google-Extended / CCBot / ClaudeBot / OAI-SearchBot) — 待用户决策",
+      "status": "blocked-pending-decision"
+    }
+  ],
+  "glossary": {
+    "file": "glossary/glossary.json",
+    "status": "pending",
+    "note": "中英术语对照表,驱动中文检索与翻译一致性;独立维护,可跨库复用"
+  },
+  "index": {
+    "engine": "sqlite-fts5",
+    "location": "local",
+    "status": "pending"
+  },
+  "status": "recon"
+}
