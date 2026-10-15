@@ -1,0 +1,99 @@
+---
+title: "Nostramo"
+pageid: 2962
+url: https://warhammer40k.fandom.com/wiki/Nostramo
+source: fandom-wh40k
+lang: en
+updated: 2025-06-10T15:40:58Z
+---
+
+Nostramo was the Hive World enshrouded by perpetual darkness that was the former homeworld of the Night Lords Traitor Legion of Chaos Space Marines and their primarch, Konrad Curze. 
+
+The world was ultimately destroyed by Curze himself in the early 31st Millennium during an orbital bombardment by the Night Lords' Legionary fleet that destabilised its unusual planetary core after its people betrayed his ideals of draconian order and reverted to their anarchic, criminal ways.
+
+History
+
+Origins
+
+Nostramo was a bleak Hive World that was perpetually dark due to its pollution-clogged atmosphere and the fact that it circled a slowly dying star whose light was unable to penetrate this toxic haze to reach the surface. The world was barely better lit at noon than at midnight. A shroud of perpetual darkness produced by the massive amounts of toxic smog kept the planet swathed in dull greys and deep blacks. Only the rich could afford the Nostraman idea of illumination, which was little more than dim blue illuminalion-strips that were placed in the ceilings of the ruling hierarchy's luxurious dwellings in the spires of the dark world's hive cities. 
+
+The adamantium that riddled the planet's crust, Nostramo's chief export to its neighbouring worlds, was the reason for the thousands of metalworks and chemical plants that scarred the Nostraman landscape and choked the air with noxious filth. The vast majority of the planet's people lived in abject poverty as foundry labourers, whilst the rich grew in affluence, trampling down or simply killing outright any who dared oppose the status quo. 
+
+Murder, theft and extortion were rife in Nostraman society. Crime ran unchecked, and the merest gesture towards law enforcement was the horrific brutality meted out by the ruling hierarchy's hired underhive thugs upon those who dared to oppose them. The vast majority of Nostramo's citizens were hopelessly poor, preyed upon by rampant criminal gangs and their corrupt governing aristocracy. Depression was an inescapable way of life for most Nostramans, and overpopulation was prevented not by war, disease or legislation, but by the suicide rate. Most of these unfortunate souls would die coughing up blood and black dust on a mouldering pallet, but death from lung blight, or having chemicals eat out their bones from the inside was not the worst end that could be found on Nostramo.
+
+The world had five major hive cities that straddled the habitable hub of the planet, named in sequence from Nostramo Prime to Nostramo Quintus. Each hive city functioned as a self-contained industrial system in the mining and refining of adamantium. Due to the synchronicity in the orbit of Nostramo and Tenebor, the moon interposed between Nostramo and its dying sun, these cities experienced the equivalent of a Terran night even during the middle of a Nostraman summer day. 
+
+Its cities were warrens of stone and iron. Kilometre-tall smoke stacks pointed up at the perpetual night. Bridges of black metal criss-crossed the narrow ravines of alleys and streets. Manses, cathedrals and factories grew from the forest of slums, their faces and roofs crawling with gargoyles. Smog lay over everything like a cloak drawn around a dying man, turning what little light shone from windows or lamps into sickly haloes. Dust, smoke and the reek of chemicals filled the air, and worked into the flesh of every man, woman and child, trimming away their years so that the best that life could offer was a slow decline in grinding servitude, never glimpsing the brightness of hope or the warmth of true happiness.
+
+The geology of Nostramo was nothing short of priceless, as the world's unusual crust had unprecedented amounts of naturally-occurring adamantium. The presence of such abundant quantities of this valuable metal meant that the cities of Nostramo enjoyed a very profitable commerce with their neighbouring worlds, although it is well-known that these worlds sold the metal on at a much higher price to the traders of the Imperium of Man, who were just beginning to enter this region of the galaxy. An entire strata of the planet's crust was comprised of this valuable strategic metal and it is thought that the planet had a very volatile and unstable core, hence its massive explosion following the primarch's orbital bombardment.
+
+It would be easy to say that the coming of Konrad Curze to the VIII Legion changed everything, that the fall of the Night Lords began at the moment the Emperor reunited His eighth gene-son with the Space Marine Legion created from his genome. But it would be truer to say that it was Nostramo that set both Curze and the Night Lords on the path to treachery. Curze was the gene-sire of the VIII Legion, but he had two fathers, two hands that shaped his nature and through him the fate of his Legion: the Emperor who spun the substance of Curze's life, and the planet Nostramo which had raised and taught him. What the Emperor originally intended for each His sons can never be known, but the nature of Nostramo can be.
+
+Nostramo was a bleak, sunless Hive World of suffering, pain and corruption. At the heart of a string of planets which had kept the ability to cross the stars through the Age of Strife, it was a world of sprawling cities, of smoke, industry, and the sweat of millions. Nostramo's wealth, for wealth there was, lay in the seams of adamantine ore beneath its surface. Worlds far from Nostramo fed on its output, and the mines had long wormed deep into its flesh. 
+
+The physiology and genomes of the people that lived within the Nostraman hive cities remained mostly identical to that of the baseline Humans from the Segmentum Solar, with the exception that none of the planet's people possessed irises; the visible part of their eyes consisted entirely of their pupils. The people of Nostramo were pale, and most were thin and gaunt, given by turns to distrust, dark humour and callousness. This acute form of albinism, though a recessive mutation, had become common in the Nostraman populace. 
+
+The dark owned Nostramo, body and soul, and its existence was a horror to equal any xenos enslavement or nightmare of the Dark Age of Technology. If there ever had been true laws, they had vanished long ago, eaten by the greed of a few and the desperation of many. Murder was the currency of life, and strength came from violence. Every sin great and small had its home in Nostramo's endless night. It has been said by those Remembrancers who recorded its history after its reclamation by the Imperium that during this time weeping and pleading were the sounds carried eternally on the wind, and every Nostraman child grew to know that the only law was that of the knife, and the only right belonged to the strong to do with as they willed. 
+
+Corrupt and murderous gangs, whether or not they were named as such, ruled every part of Nostramo. From the heights of nobility to the lowest alley, every inch of Nostramo was someone's domain, someone's territory or hunting ground. In the slum habitation stacks, the gangs ruled by raw fear, killing and torturing as they pleased, fighting wars with the feral packs of outcasts who were closer to animals than Humans. It was said that many of these gangs ate the dead, treating their territories as a predator might a hunting ground. 
+
+In the mines and factories which still turned the planet's wheels of industry, the gangs went by names that echo with a false authority: the "Iron Overseers", the "Hands of Coregado", the "Sons of Toil". Slab muscled and furnace-scarred, they walked the streets clanking with weaponry and reeking of murder, enforcing order that was little more than slavery. In the wealthier areas, the rakeheel sons and daughters of the corrupt nobility gathered in packs, clad in costumes like strutting peacocks, as quick to kill with blade or gun as they were to cast an insult.
+
+No matter what their station, almost all Nostraman gangs owed fealty to one of the numberless barons, counts and lords, who in turn served still more powerful men and women, many of whom styled themselves with courtly titles that echoes a long forgotten Terran nobility. Though wrapped in the trappings of birth, blood and feudal right, there was no division between the rulers of Nostramo and its criminal overlords; they were one and the same, cruel monarchs of kingdoms built on sin.
+
+Coming of the Night Haunter
+
+According to the heretical handwritten chronicle of his life, entitled simply The Dark, Konrad Curze's earliest memory was of descending from the heavens in a crackling ball of light to the night-shrouded planet of Nostramo. His embryonic form's gestation capsule, cruelly ripped through the Warp from distant Terra by the machinations of the Chaos Gods, impacted on the dense cityscape of the planet's largest hive city of Nostramo Quintus, smashing through countless levels of urban debris and mouldering architecture, through the planet's crust and into its geosphere before finally coming to a halt near the highly unstable liquid core of the planet. 
+
+His descent left a scar in the virtually inviolable adamantium strata of Nostramo, the result of the supernaturally resilient primarch's violent birth into a world that knew no light. The cratered pit his descent had carved into the planet was closed over and later regarded with fear and suspicion. Theoretically, the only way the primarch could have reached the surface was to have swum through molten metal or had his gestation capsule borne upwards through volcanic vents to the surface.
+
+Unlike the other primarchs, Curze was never adopted by a Human family, and was forced to fend for himself in the terrible underhive of Nostramo Quintus. With his genetically-enhanced body and mind, Curze quickly established himself as a major power in the hive cities of Nostramo and thanks to countless atrocities committed by him against the world's criminal gangs and corrupt nobles, a semblance of law was eventually imposed upon first Nostramao Quintus and then the other hive cities.
+
+Within a standard year of his arrival in the hive city, the crime rate of Nostramo had fallen away to nothing. Nostraman society was transformed, and the ripples were felt all over the planet. Nostramo Quintus developed a self-imposed curfew; none dared to stray out later than the early evening. The midnight streets, previously buzzing with activity, were as silent as the grave. Mothers threatened disobedient children with the depraved attentions of the "Night Haunter".
+
+Soon the name became more commonplace, used by the populace as a whole. Rumours of a hideous, dark creature that stalked the alleyways and tunnels, its filthy claws ever ready to disembowel those who strayed, abounded within the city. The citizens of Nostramo Quintus lived a half-life of fear, silent lest their words should be taken as heresy. Nostramo was ripe for the rule of the Night Haunter.
+
+Through the use of sheer brutality, Curze was eventually recognised as the planet's benevolent dictator. It is during this period that Konrad Curze earned the name "Night Haunter" for the vicious murders of literally hundreds, if not thousands, of Nostraman criminals and corrupt aristocrats.
+
+Night Haunter became the first monarch of Nostramo Quintus, absorbing accumulated knowledge with a diligence almost akin to greed. Night Haunter ruled with temperance and reason unheard of until word came to him that some injustice had been done, whereupon he alone would hunt the offender through the hive cities' empty streets until exhaustion forced his quarry to collapse. He would then proceed to mutilate his prey, although not beyond recognition. 
+
+This unpredictable pattern of benevolent wisdom and hideous vengeance ushered the shocked Nostraman populace into new realms of efficiency and honesty. Exports of adamantium to their neighbouring worlds soon tripled as corruption was eradicated and productivity enhanced. Nostraman society came to exist in a terrible balance maintained by shared wealth and shared fear. None dared to have more than their neighbour and under the shadow of Night Haunter's rule, the hive city grew well-lit and prosperous. And as Nostramo Quintus led the way, the rest of the planet's population followed, anxious to keep the Night Haunter from their own doors.
+
+The Emperor and the Night Haunter
+
+Imperial historitors have correlated Night Haunter's rule over Nostramo Quintus and its surrounding hive cities with the time the Great Crusade reached the fringes of the galaxy where Nostramo orbited its dying sun. The Emperor of Mankind had watched the way that this world worked using His psychic auguries. The citizens were clean and efficient, working towards a common good with determination and silence. The night streets were completely empty as the entire planet slept. They may have lived in ignorance of the glory of the Imperium of Man, but their king, undoubtedly possessing great authority and able to command unquestioning respect, had moulded Nostraman society into a model of productivity, matchless efficiency, and self-imposed conformity through total obedience.
+
+When the Emperor finally met Nostramo's king as His expeditionary fleet came into contact with the shrouded world, He immediately recognised Konrad Curze as one of His long lost gene-sons and spirited him away to the Imperial fleet to be reunited with his own genetic sons in the VIII Legion of Space Marines, whom Curze was to name the Night Lords. 
+
+Night Haunter quickly adapted to the teachings of the Imperium, though his manner remained dour and silent, even when introduced to his brother primarchs. With the primarch of the Emperor's Children, Fulgrim, as his tutor, Curze learned the complex doctrines of the Legiones Astartes and the Imperial Truth perfectly, committing them to memory with consummate ease. He often referred to Terra as a paradise, and his physique adapted to the natural diurnal cycles of Mankind that were so unusual to the people of his home planet. Soon, Night Haunter was fully accepted as the spiritual and military leader of the Night Lords Legion, his genetic progeny. They were an entire legion of sons to whom the prodigal father had returned.
+
+Fall of Nostramo
+
+The glimpse of hope given to the citizens of Nostramo by the arrival of the Emperor was ripped cruelly away from them when the Emperor left with their monarch to continue the Great Crusade. Many were at first overjoyed that the Night Haunter had been taken from their midst, so that they could talk and act freely once more without fear of gory retribution. But despite the nominal presence of the bureaucrats of the Imperial Administratum, Nostraman society soon degenerated once more into a seething morass of corruption and crime.
+
+In the wider galaxy, as the Great Crusade wore on, Curze's erratic behaviour was looked upon with more and more suspicion by his brother primarchs. The scars left by his former life on Nostramo ran deep. Despite the fact that he spent much time with his less dour peers, the primarch kept himself at a distance, never able to join in their camaraderie or share their joy. He still fell into convulsions, plagued by prophetic visions of his own death, of his Night Lords fighting war after war with the other Legions of Astartes. But despite the concern of his companions, he would not reveal any more than dark hints of the cause of his tormented spirit. This feeling of isolation gradually grew into true paranoia, and the gulf between Curze and the brotherhood of the primarchs only widened.
+
+Just before the Horus Heresy erupted, the Night Haunter had been continually plagued by various terrible visions, including Astartes fighting Astartes, himself dying at the hands of the Emperor, and worst of all the destruction of his homeworld Nostramo at the hands of his father. After confiding in his mentor Fulgrim of the terrible visions he had foreseen, the shocked Emperor's Children primarch confided in his brother primarch Rogal Dorn. Dorn took exception to Curze's slight of the Emperor's good name with such terrible deeds and confronted him. 
+
+The exact events of what occurred between the two primarchs is not recorded in detail, but Dorn was found severely wounded and the Night Haunter's personal cadre of bodyguards slaughtered to a man. Curze then returned to Nostramo with his Night Lords Legion and fulfilled one of his visions. He destroyed the dark world utterly with orbital fire from his fleet that cracked through the world's crust and destabilised its volatile core, cracking it open like an egg until only fragments remained, drifting in the void. 
+
+Curze viewed this atrocity as a rightful punishment for his world's return to its corrupt ways during his long absence on the Great Crusade. This action fulfilled his vision of seeing his planet being destroyed by beams of white light that had erupted from the heavens. For this crime, Curze and the Night Lords were recalled to Terra by the Emperor to be harshly reprimanded for his use of such brutal tactics. 
+
+But the Night Lords never faced this punishment, for by this time the Warmaster Horus had already begun to plot open rebellion against the Emperor. Konrad Curze and his Night Lords had never felt truly at home in the Emperor's realm and they joined with Horus and the other Traitor Legions to bring it crashing down. Though they paid lip service to the Ruinous Powers of Chaos and certainly felt their insidious pull, in the end the Night Lords, like their primarch, truly served only their own twisted conception of justice.
+
+Remnants of the Fall
+
+Yet not all of Nostramo had been destroyed, for a planet's mass is such that it can not vanish entirely, and so, the VIII Legion retained some grasp over their former homeworld. Most importantly perhaps, Nostramo's single satellite, the fortress-moon of Tenebror, had survived the primarch's wrath. 
+
+Like many of the Legiones Astartes, the Night Lords had taken control of Nostramo's immediate vicinity. Intended as a watch-bastion to guard the Hive World from enemy actions, at the height of its might Tenebror had been a formidable stronghold, large enough to accommodate half of the Night Lords' Legion fleet and bristling with guns far in excess of any capital ship, save perhaps the legendary Phalanx of the Imperial Fists. Capable of harboring a sizeable garrison, in the wake of the Horus Heresy in 017.M31, Tenebror had been classified as a potential threat by Imperial Command and marked for immediate action. 
+
+When elements of the Blood Angels Legion arrived in the Nostramo System during the Great Scouring, they found the fortress-moon in a deep state of neglect. Only a fraction of the moon's impressive arsenal was still operational and much of its infrastructure had fallen into disrepair, the small battalion of Legion serfs unable to conduct the necessary repairs. Of the Night Lords themselves, the Blood Angels found no traces, only the telltale signs of a great calamity. Some unknown force, believed to have been Legiones Astartes (and later identified as the infamous Blackshield warband known as the Ashen Claws) had scoured the system clean of the Night Lords' remaining presence several standard years earlier in 011.M31, before the vengeful Imperials had arrived.
+
+Sources
+
+Black Crusade: The Tome of Blood (RPG), pp. 26-27
+Deathwatch: First Founding (RPG), pp. 80-81
+Index Astartes II, "Bringers of Darkness - The Night Lords Space Marine Legion," pp. 20-27
+The Horus Heresy - Book Two: Massacre (Forge World Series) by Alan Bligh, pp. 92-113, 180
+The Horus Heresy - Book Six: Retribution (Forge World Series) by Alan Bligh, pg. 132
+es:Nostramo

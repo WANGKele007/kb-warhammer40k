@@ -1,0 +1,35 @@
+---
+title: "Kutlakh"
+pageid: 37013
+url: https://warhammer40k.fandom.com/wiki/Kutlakh
+source: fandom-wh40k
+lang: en
+updated: 2016-08-12T22:10:18Z
+---
+
+Kutlakh is a Necron Overlord and the Nemesor of the Undying Legions of Maynarkh, named in fearful praise as the "World Killer" on ancient monuments raised to the honour of the Necron Maynarkh Dynasty on planets they have left as silent graveyards in their passing. Kutlakh serves as the "Maktlan" or "Extinguisher of Life" of the Maynarkh Dynasty, the title given to the commander-in-chief of its legions. He also bears the titles of "Charnel Lord" and the "God-Slayer." Kutlakh the World Killer was the Necron commander who launched the great assault upon the Imperial Orpheus Sector of the Segmentum Tempestus in 991.M41 that initiated the ongoing Orphean War.
+
+History
+
+During the ancient wars and conquests of the War in Heaven, Kutlakh was regarded as the cruellest and most brutal of all the Nemesors in his dynasty. He was a killer who took particular pleasure in the humiliation of enemy champions and generals in personal combat, be they lords of rival dynasties of warriors or the warriors and servants of the Old Ones. A warrior first and foremost, Kutlakh cared little for the intrigues of the dynasty's Royal Court, openly disdaining his high office, caring only that he was afforded the respect and glory that his conquests were due. It was so that while the reins of political power were held by others within the Maynarkh Dynasty, the overall battlefield command of its legions was Kutlakh's alone. But in truth this insularity masked a darker secret, for since the final days of destruction of the C'tan, some terrible force has haunted Kutlakh. It has marked and tainted him, turned his triumphs into empty ashes and threatened the mask of sanity he wore as both general and commander. Over time, the cloying, hungering shadows that hung about him darkened and began to impress itself even on the soulless machine-minds of those Necrons around him, making him a pariah even to his own kind.
+
+If the ancient legends are to be believed, it was by the hand of Kutlakh that the C'tan known as Llandu’gor the Flayer was betrayed to its demise, although the Maynarkh Dynasty has long scorned and refuted this claim of perfidy. Regardless, some strange and nightmarish taint or curse hangs around Kutlakh and his kin. Those unfortunate enough to draw close can feel a terrible malignance and splinter of madness radiating from Kutlakh’s machine body, which claws at their minds and threatens to overwhelm them with insanity.
+
+When Kutlakh awoke from the Great Sleep, he was both more and less than he had been, though his eye lenses now blaze with an unhallowed cold light -- a gaze that even his fellow Necron Lords cannot easily meet. In battle he is a terrifying figure whose gilded android shell is blackened as if by fire and bedecked in the skulls and bones of his victims. The once proud aristocrat and glory-hungry general has now become a nightmarish and near-silent monster, the corroded engrams of his mind driven only by a burning desire to destroy the living and re-establish the rightful supremacy of his dynasty.
+
+Notable Campaigns
+
+991.M41 - 999.M41 Orphean War – Kutlakh led the undying legions of the Maynarkh Dynasty when they first awoke from the Great Sleep, and he was swift to prosecute a sector-wide war against the Imperial forces encroaching upon his domain. Under his command, the Imperial Orpheus Sector in the Segmentum Tempestus fell swiftly until the only bastion of Imperial defence left was the world of Amarah Prime. Whilst the Maynarkh legions undertook an extermination mission on the planet’s surface, Kutlakh led the dynasty’s fleet from his capital ship, the Cairn-class Tomb Ship Dead Hand, against the Imperial Navy's Battlefleet Orpheus and the contingent of Battle Barges and Strike Cruisers contributed by the Minotaurs Chapter. When the Minotaurs' Chapter Master Asterion Moloc and his elite 1st Company teleported onto the Dead Hand in a last-ditch boarding assault after the fleet engagement, Kutlakh tore through Moloc's Terminator bodyguards and was about to deal the finishing blow to the Contemptor Pattern Dreadnought known as Ancient Geryon when Moloc intercepted and engaged him in personal combat. Though equally matched, the combat ended when the Tomb Ship was hit by a broadside of Imperial firepower, causing Moloc to fall out into the void and leaving the Necron fleet to disengage and retreat from combat.
+
+Wargear
+
+Necrodermis - Like all Necrons, Kutlakh's body is built from the self-repairing living metal known as Necrodermis. As befits one of his lofty rank, Kutlakh's body is of superior craftsmanship and richly adorned, clearly announcing his status and allowing him to repair even the most grievous of wounds in a matter of moments.
+Obsidax - The Obsidax is a unique Necron weapon currently in the hands of Kutlakh the World Killer. Since before the time of the Necrons' revolt against their C'tan masters, this specially-crafted midnight-black Hyperphase Blade has been carried by the greatest war leaders of the Maynarkh Dynasty, and has ended lives without number across the ages, and its edge is bathed in a dark, unknown radiation that has proved deadly to all living matter.
+Staff of Light – A Staff of Light is both a weapon and a symbol of Necron authority. Its haft is actually a disguised Power Generator Rod and the crest is a finely tuned focussing device which allows the wielder to unleash searing green bolts of Gauss energy at his foes.
+Phase Shifter - Using a form of unknown inter-dimensional science, a Phase Shifter is a Necron defensive device that renders its bearer's form hazy and indistinct, as though they were not completely corporeal. Shots and blows can then pass through his mechanical body, meaning that even the most powerful weapons cannot harm him. This is because a Phase Shifter flickers the very fabric of its bearer into and out of a phased state as they move in between dimensions. If improperly timed, even the most powerful blows and shots aimed at the bearer of a Phase Shifter instead pass through empty air.
+Phylactery - Often taking on the appearance of a small scarab-sized cylinder, a Phylactery is an inconspicuous charm that is actually a powerful Necron self-repair device. A Phylactery is filled with tiny, spider-like nanoscarabs that will swarm over the Necron bearer’s body and wounds at a command, or if he is severely damaged or destroyed. The nanoscarabs then proceed to reknit tears in his ravaged Necrodermis body; bolstering his own self-repair abilities so that he may continue to fight on again.
+Sempiternal Weave – A Sempiternal Weave is an advanced form of Necron technology used to augment the Necrodermis bodies of members of Necron royalty. A Sempiternal Weave threads a Necron’s exoskeleton with filaments of phase-hardened amaranthite and adamantium, vastly increasing the body’s hardiness to a level that rivals Astartes Terminator Armour.
+
+Sources
+
+Imperial Armour Volume Twelve – The Fall of Orpheus, pp. 57-58, 108-109

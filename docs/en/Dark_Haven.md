@@ -1,0 +1,60 @@
+---
+title: "Dark Haven"
+pageid: 61848
+url: https://warhammer40k.fandom.com/wiki/Dark_Haven
+source: fandom-wh40k
+lang: en
+updated: 2021-12-09T22:58:28Z
+---
+
+Dark Haven is an Imperial Knight World of the Segmentum Obscurus, mostly famed for being the ancestral home of House Orhlacc. A shadowed, twilight world circling its pale blue-white star at the very edge of its habitable zone, it constitutes an exception amongst the otherwise lifeless regions of the Cyclops Cluster, located in the northern Imperium in the Segmentum Obscurus, which quickly made it a priority target for Human colonisation that was implemented as early as the 25th Millennium.
+
+The planet was covered in a world-spanning forest of vast fungal and pseudo-coral growths which swallowed up every iota of light, casting the grey earth beneath them into deep shadow and even shrouding its cold seas into sunless deeps. Aggressive and fast-growing, the living web that covered Dark Haven was nevertheless organic, and therefore a precious resource to be used and harvested, although the planet's great toxicity for many years prevented this.
+
+This was a world of considerable hazard, as the planet presented its own predators in the shape of hulking ambulatory mycolidae and less well-understood fauna deep within its shadowed depths. During the time of Old Night, the Knight House of Orhlacc, originally of the Lucien Sector, rose to rule Dark Haven as its own. Orhlacc, previously a minor Household, flourished over the decades of its stewardship of Dark Haven before the coming of the Great Crusade in the 30th Millennium.
+
+After the Knight World was restored to the Imperium, its valuable harvest, along with certain exotic chemical compounds, were cultivated for export by legions of servitor-arachnid automata, creating a wealth which further increased the power and independence of this world.
+
+History
+
+During the Dark Age of Technology, the lonely, shadowed world that would come to be known as Dark Haven was discovered deep within a mineral rich but otherwise barren region of the void. In order to exploit and colonise this region for Humanity, it had been selected to become a Knight World. And so the House of Orhlacc first came into being, and its domain known, for reasons of literal truth as well as poetic observation, as Dark Haven.
+
+It was founded during the latter part of Humanity's first expansion across the stars during the Age of Technology; its founding ark's journey is recorded as originating from what is now known as the Forge World of Lucius. This place was indeed almost supra-abundant in life, but within solar days of the colonising ark's planetfall, a terrible truth had been discovered; the fruits of this benighted world were inimically poisonous to man.
+
+The shadowed world was at the very edge of its aged star's habitable zone, and life there had flourished millions of standard years before it ever had on distant Terra. Here the dominant form of that life was akin to fungi, but infinitely more varied and complex than that of most worlds, forming a planet-spanning web of life. Its patterns varied, from towering pseudo-coral-like structures kilometres high, comprising billions of microscopic creatures, which overshadowed the land and covered the seas, stealing the light, to colossal, ambulatory predators whose venom could sear ceramite and eat through plasteel. All of it was to Humanity virulently and fatally toxic when consumed, even given the most stringent methods available for its processing. Dark Haven was a Death World, misjudged as a paradise of life.
+
+Undeterred, the Human colonisation went ahead; keeps were built into the few jutting mountain ranges which fought to clear the vast living canopy, attempts were made to clear-cut for settlements and introduce off-world agriculture, supplies were rationed, and additional Magi Biologis (this is used here as a term of convenience based on current Imperial terminology, shrouded as the truth of such things are by time) brought in to attempt to address the difficulties with the certain hope of an eventual solution to the planet's toxicity.
+
+During Dark Haven's founding solar decades, progress was slow, and life for the settlers a continuous struggle for survival, but one which they held at bay, at least until the coming of the Age of Strife. With exterior contact and the chance of resupply lost, Dark Haven should have been doomed. As things were, matters rapidly worsened for the dozen Knight Households and their retainers who had made it their cause to dominate the strange world.
+
+Soon famine was the enemy, as stockpiled supplies dwindled or became mysteriously tainted. As if sensing the Humans' weakness, the planetary ecology itself seemed to turn on them in a violent spurt of aggressive growth unprecedented in its suddenness or speed, and whole settlements were choked and overrun in a matter of solar hours by berserk fungal growth, their inhabitants slain by ravaging predators or consumed from within by parasitic life.
+
+Knightly keeps were only preserved by great trenches and pits filled with volatiles and turned into walls of fire, and the continuous counterattack of the Knights themselves against the forest and the monstrous creatures within it. Soon, as matters worsened, the Knight Houses of Dark Haven began to turn on each other for supplies and to assuage their hunger, and it is said that the most unspeakable acts were forced on those who would survive.
+
+This age of violence and decay would last for Terran centuries and should ultimately have been the death of the Knight colony, regardless of the tenacity and bravery of its scions, save for the actions of the House of Orhlacc. This House, accounted as but one of the settlement's minor Households -- renowned more for its learning and the skill of its Sacristans than its might -- had offered sanctuary to the Magi Biologis enclave stranded on the planet once the great decay had begun, just as others had turned against them.
+
+Within Orhlacc Keep, the Magi and their acolytes had laboured long, obsessively pursuing a solution to the problem they had been given when they had first been assigned to the world, even as darkness swallowed and separated the Knight Houses and the monstrous biosphere closed in. The solution when it at last came was a radical one; rather than adapt the world to Humanity, they adapted Humanity to Dark Haven, and House Orhlacc was their canvass.
+
+It would take generations and many tragedies before their work bore fruit, but they were successful, and as the other Houses of Dark Haven dwindled and in some cases died out entirely, the Orhlacc waxed strong and slowly multiplied. Soon they fought not simply to survive but to dominate, and many of the other surviving Households looked on them as saviours and joined them through alliances of blood, while others who saw them as enemies -- as something no longer fully Human -- perished. Within a dozen generations, only House Orhlacc and its kin remained as stewards and masters of this shadowed and deadly world.
+
+Aside from its inherent hostility, Dark Haven had lived up to its name during the Age of Strife, and through this long era of trouble and torment it had endured without being subjected to serious outside attack. Such xenos and Human marauder traffic which did rarely find their way to the world suffered as badly from the local environment as they did from the bellicose Knight House's resistance, while the Orks, long a menace to the worlds of the Cyclops Cluster, avoided the planet as if it was a profound anathema to them. As a result, the House of Orhlacc's dominion of their world went all but unchallenged, while affairs of honour between them and the constant battle to master their homeworld served to hone their fighting skills.
+
+When the forerunners of the Great Crusade first contacted Dark Haven, it was by accident, but they found their Vox-hails readily answered in ancient and formal courtesy, and Imperial emissaries were both impressed as well as somewhat disturbed by the macabre and formal reception they received on the sinister planet, of which dim legends had already reached them during their exploration of the region. Despite some misgivings, initial relations went well, and Dark Haven's sealed Imperial Compliance was attained bloodlessly by the 7th Expeditionary Fleet led by Lord Commander Suleiman Grimm of the I Legion in 833.M30, during the fleet's first journey through the region, at a time when much of the Coronid Deeps were still entirely uncharted and under xenos control.
+
+To the Dark Angels Legion, it is said that Dark Haven seemed a shadowed reflection of Caliban itself in some ways, while its masters, the Orhlacc, represented a feudal culture at once familiar to them and utterly strange. What most provoked the 7th Expeditionary Fleet's interest, however, was House Orhlacc's military strength, which was largely undecayed in sophistication and extremely extensive in range, including several hundred fully operational Knight armours and a moderate but reliably independent capacity to construct and arm more; a rare jewel of discovery indeed.
+
+Mechanicum emissaries were equally impressed, but these the Orhlacc -- perhaps remembering their abandonment long ago -- politely but firmly rebuffed, extracting at best a high price in "gifts" for access to their own techno-arcana, and then only as they saw fit and with much always kept secret. Any acrimony this might have created was quickly and thoroughly forestalled by the authority of Lord Commander Grimm, who ensured the world's smooth path to Compliance and the granting of full rights and titles under the Aquila to House Orhlacc in return for a full third of the Knight House embarking directly under his command as part of the 7th Expeditionary Fleet. This first pact of arms and alliance was to last for nearly thirty standard years of service, and marked only the beginning of the House of Orhlacc's involvement with the Great Crusade.
+
+As the Horus Heresy unfolded, House Orhlacc's carefully maintained reserve and independence would see it kept out of the direct machinations of the Warmaster Horus and free of the orbit of forces that would turn Traitor, as well as distrusted somewhat by those of the local Loyalist cause which might quickly turn to it as ally. The Orhlacc in their wisdom had known that Dark Haven, alone as it was, could not be defended against a full Traitor invasion fleet or a Space Marine Legion, and this made them a sitting target; a fate they declined.
+
+House Orhlacc reluctantly abandoned its domains due to its untenable strategic position, leaving behind an untraceable token force as caretakers and sentinels of their ancestral home. The mighty fire pits and trenches which, until now, had kept the ever-creeping vegetation at bay were doused and soon the mighty keeps and fortresses of House Orhlacc disappeared under the fungal canopy. Leaving their homeworld behind, House Orhlacc would fight on valiantly throughout the Age of Heresy and even secure itself a secondary homeworld in the Agathean Domain -- the grim world of Wychval.
+
+From this point until the end of the terrible wars of the Horus Heresy that were to follow, the House of Orhlacc would remain loyal to the Imperium, but they would fight their cause on their own terms as a nomadic Knight House -- even after gaining territories within the Agathon Domain -- with an eye to their own survival and an eventual return to their shadowed home.
+
+In the collective minds of House Orhlacc's Knights, Wychval would only serve as a temporary base, their return to their original homeworld only postponed until Horus' eventual defeat. It is unclear if Dark Haven ever came under assault by traitorous forces affiliated to the Warmaster or the Dark Mechanicum after House Orhlacc's departure and its overwhelming victory against the flotilla of Rogue Trader Charid Undine at the opening of the galactic civil war.
+
+Sources
+
+The Horus Heresy - Book Four: Conquest (Forge World Series) by Alan Bligh, pp. 62-63, 66-67, 122-129
+
+es:Casa Orhlacc

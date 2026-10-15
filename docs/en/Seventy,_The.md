@@ -1,0 +1,38 @@
+---
+title: "Seventy, The"
+pageid: 73258
+url: https://warhammer40k.fandom.com/wiki/Seventy,_The
+source: fandom-wh40k
+lang: en
+updated: 2019-01-29T09:30:20Z
+---
+
+"The Seventy" was the colloquial name given to those Loyalist Astartes of the Death Guard Legion who made up a portion of Captain Nathaniel Garro's 7th Great Company and the single Loyalist Astartes of the Sons of Horus Traitor Legion, Iacton Qruze, who escaped aboard the Imperial frigate Eisenstein during the Istvaan III Atrocity.
+
+The Seventy brought word of the Warmaster Horus' betrayal of the Emperor of Mankind to Terra. This group of Loyalist Astartes was referred to by this moniker even after their numbers began to dwindle as a result of the casualties incurred during the conflagration that was the Horus Heresy.
+
+Notable Members of The Seventy
+
+Nathaniel Garro - Garro was the Terra-born Captain of the 7th Great Company of the Death Guard Legion. After his arrival on Terra, Garro was recruited by Malcador the Sigillite, the Regent of Terra, to become the Agentia Primus of his Knights-Errant, the precursors to the Grey Knights Chapter that later served the Inquisition.
+Solun Decius - Decius was a Death Guard Legionary, a member of Garro's Great Company and the youngest Astartes to serve in his Command Squad. He succumbed to Nurgle's Rot after the initial assault by Traitor Death Guard during the Eisenstein 's escape from the Istvaan System and was possessed by the daemon of Nurgle called the "Lord of Flies" in the Sisters of Silence's Somnus Citadel on Luna after the Eisenstein made it safely to the Sol System. He was slain by Garro after a battle on the arid surface of Luna.
+Tollen Sendek - Sendek was a Death Guard Legionary who served in the Command Squad of the 7th Great Company commanded by Nathaniel Garro. Sendek remained loyal to the Emperor at the start of the Horus Heresy and survived the perilous journey of the Eisenstein to Luna, but was killed by the Nurgle-possessed Solun Decius at the Somnus Citadel. He was one of the very few Death Guard Astartes born on the world of Barbarus to remain loyal to the Imperium after the Heresy began.
+Andus Hakur - Hakur was a Veteran Sergeant of the Death Guard Legion who served under Captain Nathaniel Garro in that Legion's 7th Great Company. Like most Loyalist members of the Death Guard, Hakur was born on Terra rather than Barbarus and had tense relations with figures within his own Legion such as Calas Typhon and Ignatius Grulgor. Hakur frowned upon the existence of the Warrior Lodges, and scolded his fellow Astartes Meric Voyen when he learned that Voyen was a member of the one that existed within the Death Guard. Hakur was among the Loyalist forces betrayed during the Battle of Istvaan III, but he survived the virus-bombing of the planet and managed to board the Eisenstein with Garro. Hakur also managed to survive the Eisenstein 's turbulent trip back to Terra.
+Meric Voyen - Meric Voyen was the Apothecary for Nathaniel Garro's 7th great Company in the Death Guard Legion. Shortly before the campaign in the Istvaan System, Garro was furious when Voyen confessed that he was a member of the secret Warrior Lodge forming among the Death Guard's elite warriors. Garro silenced the outrage of his fellow Astartes in the 7th Great Company, but confronted Voyen on his choice in private. Garro said he would not censure Voyen for belonging to the lodge, but made it clear that Voyen would keep no further secrets from his captain. Voyen, shaken but relieved by the continued trust that Garro showed in him, agreed to this. When Garro was wounded during the battle on Istvaan Extremis, Voyen was anxious to attend to him, but another Apothecary reached Garro's side first -- Fabius of the Emperor's Children Legion. Voyen was reluctant to allow Fabius to attend to Garro, but let the matter go. Garro's injury ultimately required the replacement of his leg with a bionic implant, the procedure for which was overseen by Voyen. Before the Death Guard embarked on its planned campaign on Istvaan III, Garro was enraged when Voyen and the other Apothecaries refused to pronounce him battle-ready. Ironically, this proved to be Garro's salvation when the Traitors sprang their trap on the Loyalist Astartes fo their Legions at Istvaan III. Instead of making planetfall, Garro and the 7th Great Company were assigned to the frigate Eisenstein, along with Captain Ignatius Grulgor. From aboard the warship, Garro witnessed the virus-bombing of Istvaan III by the Traitors, and narrowly escaped assassination by Grulgor and his men. Voyen, shaken, admitted that the lodges had been planting seeds of treason among the Death Guard, stirring up their resentment at the Emperor's abrupt departure from the Great Crusade and the subordination of the Astartes Legions to the Council of Terra. During the Eisenstein 's voyage to Terra, Voyen questioned Garro's actions at several times, never more angrily than when Garro ordered that the frigate's Warp-Engines be detonated, in a forlorn hope of signalling a nearby voidship. Voyen even drew his weapon on his captain to prevent this, before Garro stared him down. The Eisenstein was in fact found by the Imperial Fists Legion's Phalanx, and carried back to Luna Inside the Somnus Citadel, Voyen and the surviving Death Guards of the 7th Great Company witnessed a final horror when Solun Decius succumbed to Nurgle's Rot, forcing Garro to destroy him on Luna's forlorn surface. Afterward, Voyen told Garro that he was renouncing his oath as an Astartes, deciding that he had proven himself unreliable to his Battle-Brothers. Garro encouraged him to stay, but Voyen declared that he was a healer first and a warrior second, and so was going to dedicate his life to finding a cure for the Rot that claimed Decius. Voyen eventually returned from his mission only to confront Garro over his decisions.
+Hellig Gallor - Gallor was a member of the Death Guard Legion's 7th Great Company under the command of Nathaniel Garro who was recruited alongside his Battle-Brother Bajun Kyda after the arrival of the Eisenstein in the Sol System to serve as one of Malcador the Sigillite's Knights-Errant by the Sister of Silence Amendera Kendel.
+Bajun Kyda - Kyda was a member of the Death Guard Legion's 7th Great Company under the command of Nathaniel Garro who was recruited alongside his Battle-Brother Hellig Gallor after the arrival of the Eisenstein in the Sol System to serve as one of Malcador the Sigillite's Knights-Errant by the Sister of Silence Amendera Kendel. Kyda was slain soon after on his first mission to the world of Proxima Majoris as a Knight-Errant.
+Iacton Qruze - Qruze was the only non-Death Guard Loyalist Astartes among The Seventy. He had been the Cthonia-born Captain of the 3rd Company of the Sons of Horus Legion despite having also served in the Unification Wars on Terra. In the moments just before the unleashing of the Istvaan III Atrocity, he had realised that his Primarch, Horus, intended to massacre all of the civilians travelling with his Legion fleet aboard the flagship Vengeful Spirit. As such, he rescued the Remembrancers Mersadie Oliton and Euphrati Keeler, as well as the Senior Iterator Kyril Sindermann, fleeing with them to the Eisenstein. After the vessel arrived in the Sol System, Qruze was also recruited by Malcador the Sigillite to become one of his Knights-Errant.
+
+See Also
+
+Grey Knights
+Crusader Host
+Knights-Errant
+Blackshields
+
+Sources
+
+The Flight of the Eisenstein (Novel) by James Swallow
+Galaxy in Flames (Novel) by Ben Counter
+Garro: Ashes of Fealty (Audio Drama) by James Swallow
+Ghosts Speak Not (Short Story) by James Swallow
+Garro (Anthology) by James Swallow

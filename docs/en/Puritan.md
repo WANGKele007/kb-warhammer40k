@@ -1,0 +1,51 @@
+---
+title: "Puritan"
+pageid: 88103
+url: https://warhammer40k.fandom.com/wiki/Puritan
+source: fandom-wh40k
+lang: en
+updated: 2024-08-07T20:04:32Z
+---
+
+A Puritan is an Inquisitor or other agent of the Inquisition who adheres strictly to official Imperial political and religious doctrine and seeks to uphold and enforce those doctrines across Imperial space. 
+
+They typically will persecute or seek to eliminate even their more unorthodox brethren Inquisitors and other Imperial agents and servants when given the chance, as they are most concerned with maintaining the Imperium of Man's status quo in the 41st Millennium. 
+
+Puritans generally believe that maintaining Humanity in its present state is crucial since it upholds what they believe to be the God-Emperor's will, even if this results in simply perpetuating the political repression, extreme inequality, ignorance and long period of technological and cultural stagnation that has afflicted Mankind for much of the time since the end of the Horus Heresy over ten standard millennia ago. 
+
+Puritan Philosophies
+
+Puritans more or less believe the tenets of the Imperial Creed as it is handed down to the Imperium of Man's citizens in the 41st Millennium -- the Emperor of Mankind is an embodied god, the dark forces of the Warp are unutterably evil, intelligent xenos species always represent a threat to the divinely-ordained Human dominance over the galaxy, and mutants, Heretics and witches must not be tolerated. Furthermore, Puritans tend to believe in maintaining the status quo of the Imperium, since despite all its many flaws it is still the primary instrument of the Emperor's will and the embodiment of His great dream to unite the Human species. 
+
+Puritans are mostly young and full of fire, eager to prove themselves to their peers and their Emperor by hunting down Humanity's traditional foes and preserving the stability of the Imperium. Many Acolytes and Throne Agents also share this zeal, particularly as they are often at the sharp end of any engagement with Chaos Cultists, mutants and other such scum. 
+
+Even if they do not entirely agree with this view of the Imperium, an Inquisitor will often encourage Puritan ideals within their servants, knowing that this will help them expedite the task of rooting out corruption with great gusto.
+
+Notable Puritan Factions
+
+The most well-known of the different philosophies currently practiced by Puritan Inquisitors within the Holy Ordos include the following named factions.
+
+Amalathianism - The conservative philosophy that currently dominates the Puritan faction of the Inquisition, an Amalathian advocates for unity between Imperial organisations in the pursuit of the Emperor's will and for a lack of tumultuous social and political change to maintain the Imperial status quo. The Amalathians are thus the currently largest sect within the Inquisition. Amalathian Inquisitors oppose the Inquisition's division into political and philosophical factions and sects. Ironically, their idealism marks the Amalathians as their own faction in the Inquisition. It was at the birth of this philosophy in the early 41st Millennium, on the world of Gathalamor, at Mount Amalath, that Lord Solar Macharius was spurred on to his grand conquest of nearly a thousand new worlds for the Imperium during what became known as the Macharian Crusade.
+
+Anomolian Beholders - While other incarnationist Inquisitors like the Thorians believe that it is their duty to bring about the rebirth of the Emperor Incarnate, the Anomolian Beholders believe that such thoughts skirt with hubris and heresy. Instead, they are perhaps the most conservative of all the incarnationist factions, their goal being not to create the Emperor Incarnate, but to observe Humanity and await His arrival. They see it as their job to prepare for this momentous event and to stand ready to offer whatever assistance may be needed at that great time. The predominant activity of the Anomolian Beholders is locating potential Divine Avatars who can serve as the physical vessel of the Emperor Reborn and observing them. Only if they are convinced that the vessel is tainted will they destroy it. Much like the original Thorians they are content to examine and research remarkable individuals for signs of potential or corruption. They are more zealous than most to follow up any sign or omen of a possible Divine Avatar, and are amongst some of the most travelled Inquisitors in the galaxy. Anomolian Beholders tend to be pragmatic, down-to-earth individuals, after a lifetime of seeking wisdom and enlightenment, only to have their hopes thwarted time and again. They tend to take a longer view of matters, and despite numerous setbacks to achieving their goals, are always optimistic that the future may hold the answers. This has garnered them a reputation for being level-headed and reliable, and other Inquisitors will often happily overlook their foibles in return for these better qualities. 
+
+Ardentism - Though not truly following a philosophy of resurrectionism or incarnationism, the Ardentites are best discussed alongside such factions that do like the Thorians. Their somewhat quirky belief is not widespread amongst the members of the Inquisition but had been persistent in various guises for several millennia, either within the broader Thorian ideals or as a distinct faction in its own right. The Ardentites firmly believe in the basic principles of the Emperor Incarnate, in which the Emperor can be brought back to play an actual physical role in Human life once more, but there the similarity with the Thorians end. Rather than a single Divine Avatar who will serve as a physical vessel for the soul of the reincarnated Emperor, the Ardentites feel it is more likely that the power of the God-Emperor is likely to manifest through a group of people, or more likely the entirety of Mankind. Given Humanity's evolution towards being a psychic species, evidenced by a gradual but perceptible increase in mutation and psychic ability, it is the belief of the Ardentites that the ultimate plan of the Emperor to protect Mankind during this vulnerable stage was to disseminate His power throughout Humanity. So it is that the Ardentites do not concern themselves merely with remarkable individuals who may be a Divine Avatar, but rather attempt to locate evidence of the Emperor's presence in any person expressing proof of exceptional talent or psychic ability. This is a vague, unsure process, for none can say what defines evidence of the Emperor's presence, though certainly there is no end of accounts of miraculous events that might be accounted for by intervention by the Emperor. Known sometimes by the rather derogatory title of "miracle-chasers," much of the disdain for Ardentites stems from the erratic behaviour of Inquisitor Voragian Thex, who spent two standard centuries during the 39th Millennium attempting to prove the Ardentite theorems, but was unable to produce a shred of evidence. Having presented his findings at a conclave of his fellow Inquisitors, he was censured for dereliction of duty for devoting time and resources to his baseless beliefs. It is perhaps this defiance of defeat and a rebellious streak that still characterises many Ardentites. They are widely regarded as eccentric individuals who see the work of the Emperor everywhere, but they also make great investigators for they will often delve deeper and for longer than others, unwilling to make obvious conclusions from their discoveries but to seek inner meanings and hidden motives in what they encounter. 
+
+Monodominance - Next to the Amalathians and Thorians, the Monodominants are counted among the most powerful of the Inquisitorial factions. Certainly this Puritan faction is believed to be the oldest, tracing its origins back to the 33rd Millennium. Monodominants are the most hard-line of all the Puritans, believing in the complete destruction of all non-Humans (including those actual Humans they simply consider inhuman, such as mutants and psykers) and those not willing to swear eternal allegiance to the God-Emperor. Of course, they understand that this lofty goal will take time and, in the interim, though they might despise them, the Imperium must make use of mutants and psykers for its survival. Monodominants are also well-known for their excessive use of force and high civilian casualties when purging corrupted worlds, even resorting to Exterminatus rather than risk leaving even the barest hint of heresy behind.
+
+Thorianism - Born of the fire and ruin of the Age of Apostasy in the 36th Millennium, the Thorian Inquisitors are a Puritan faction who believe that the will of the Emperor can manifest in the hearts of pure individuals and in times of great need His physical avatar will appear to vanquish the foes of Humanity, a doctrine they refer to as the "Emperor Incarnate." They take their name from the great prophet, saint and reforming religious leader of the 36th Millennium, Sebastian Thor, who during that dark time led the movement against corruption within the Imperial Cult and was ultimately responsible for its cleansing, reformation and the restoration of the Imperium that followed. This is the most "Radical" of the Inquisitorial ideologies still classified as Puritan due to the possible galactic upheaval that could result should the Thorians actually be able to summon the Emperor into a new physical form, as believers and unbelievers in the reborn Emperor's divinity and identity might then turn upon each other.
+
+Sources
+
+Codex: Inquisition (6th Edition) (Digital Edition), pp. 33, 53-54, 65-66
+Dark Heresy: Ascension (RPG), pp. 161-163
+Dark Heresy: Blood of Martyrs (RPG), pg. 47
+Dark Heresy: Core Rulebook (RPG), pg. 320
+Dark Heresy: Disciples of the Dark Gods (RPG), pp. 175-177, 180, 183
+Dark Heresy: The Radical's Handbook (RPG), pp. 100, 113
+Dark Heresy: Core Rulebook (2nd Edition) (RPG), pp. 193, 315-316, 318, 320
+Dark Heresy: Enemies Within (2nd Edition) (RPG), pp. 7, 11
+The Inquisition - An Illustrated Guide to the Secretive Protectors of the Imperium (Background Book) by Nick Kyme, Lindsey Priestley and George Stirling, pp. 30-32, 54-55, 85
+Inquisitor - The Thorians (Background Book) by Gav Thorpe
+Xenos (Novel) by Dan Abnett
+es:Puritano

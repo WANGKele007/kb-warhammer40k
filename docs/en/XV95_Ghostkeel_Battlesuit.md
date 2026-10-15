@@ -1,0 +1,73 @@
+---
+title: "XV95 Ghostkeel Battlesuit"
+pageid: 67108
+url: https://warhammer40k.fandom.com/wiki/XV95_Ghostkeel_Battlesuit
+source: fandom-wh40k
+lang: en
+updated: 2023-02-04T19:47:23Z
+---
+
+The XV95 Ghostkeel Battlesuit is the pinnacle of T'au stealth technology, a battlesuit created specifically for use behind enemy lines in the most gruelling conditions. 
+
+These mighty battlesuits loom several times the height of a Fire Warrior, and mount a full array of repulsor jets. They are equipped with an arsenal of heavy weaponry, and are supported by a wealth of high-technology hardware and counter-sensory warfare suites. XV95 Ghostkeel Battlesuits can tear apart entire armoured squadrons and massacre rank upon rank of enemy infantry in sudden ambushes. The firestorm of their onslaught is such that the foe often believes a whole army must be attacking them from an unexpected quarter.
+
+History
+
+Until recently, the deployment of the XV95 Ghostkeel Battlesuit was restricted to covert missions. In truth, development of these potent battlesuits was completed around the beginning of the Third Sphere Expansion, but it was decreed by the Ethereals that these new weapons should remain hidden until their unveiling held the greatest inspirational value. 
+
+Pilots were chosen from pre-vetted candidates who were extracted from Stealth Team operations and transported to a secret facility on J'ka'vo station, on the fringes of the abandoned sept of N'dras. From here, following orders from the Ethereal Supreme Aun'Va himself, the first generation of Ghostkeel Battlesuits performed a range of deep-cover operations, ranging from the Vadenfall Station sabotage to the assassination of Cardinal Bocsh. 
+
+With the current success of the XV104 Riptide Battlesuit, the time has been judged ripe to reveal the freshly named "Ghosts of N'dras." Suddenly, this insular band of warriors has been thrust into the light, their existence changing from a secret to a propaganda exercise virtually overnight. Recruitment of XV95 Ghostkeel pilots has now begun across the T'au Empire, as has production of the Battlesuits themselves; soon enough the armies of every Sept will possess XV95 Ghostkeel wings of their own.
+
+Tactical Role
+
+The tactical applications of the Ghostkeel are many and varied, ranging from unleashing devastating strikes behind enemy lines to ambush-hunting alongside Hunter Cadres. XV95 Ghostkeel Battlesuits can be seen as the epitome of the Tau Mont'ka "Killing Blow" stratagem -- striking precisely where they need to with unerring accuracy and overwhelming force. Used to sow confusion and destruction in the enemy ranks, the XV95 is a terror weapon designed to leave the enemy in a state of panic and disorder as they search in vain for their mysterious attacker. Enveloped by overlapping stealth fields projected by its attendant Drone, the XV95 Ghostkeel is virtually invisible even in open terrain. Targeting arrays and scopes simply slide off its holophoton projectors, while scanners and Auspexes are baffled by the Battlesuit's electrowarfare suite, pinging back false readings and contradictory data.
+
+Each Ghostkeel is piloted by single, highly trained Shas'vre, a former XV25 Stealthsuit Team veteran. This focused warrior is supported by an integrated artificial intelligence (AI) that assists him in operating the Ghostkeel's many complex systems and monitors his physical and psychological well-being during extended operations. As Ghostkeel pilots spend long periods of time isolated in enemy territory, many form unusually strong bonds with their Battlesuit AI. Indeed, in some cases these eccentric warriors become so introverted that they prefer the company of their suit's AI to that of other Tau. XV95 Ghostkeel Battlesuits are typically deployed in squads of one to three Battlesuits. Pilots in squads consisting of multiple members are usually ritually bonded to one another according to the Tau custom of Ta'lissera, which is symbolised by a knife design painted onto the squad leader's armour.
+
+Known Formations
+
+Heavy Retribution Cadre - Heavy Retribution Cadres consist of a squad of XV95 Ghostkeel Battlesuits working in tandem with two units of KV128 Stormsurge Ballistic Suits, with the Ghostkeels acting as invisible forward spotters that feed targetting data back to the Stormsurges. Thus, when a Heavy Retribution Cadre opens fire, the blinding firestorm produced is truly terrifying. Even the most colossal enemies stand little chance when caught amid this sudden monsoon of destruction.
+
+Armament
+
+The XV95 Ghostkeel Battlesuit stands more than three times the height of a Space Marine, even higher than an XV88 Broadside Battlesuit, its armoured body sharing a similar design to the experimental XV22 Stealthsuit worn by Commander Shadowsun. XV95 Ghostkeel Battlesuits incorporate many of the standard features shared by most Tau Battlesuits, including a powerful and sophisticated Tau Jetpack, which combines anti-gravitic and jet propulsion technology. The Jetpack allows the Battlesuit to maintain a stable platform from which to fire its weapons, even when on the move, and provides a great deal of mobility to the user. The Jetpack also allows for an XV95 Ghostkeel Battlesuit to be deployed from high altitudes by Tau transports such as Orcas and Mantas, where the Jetpack will be used to safely slow the Battlesuit's descent. In addition to the Jetpack, an XV95 Ghostkeel Battlesuit also incorporates advanced sensors common to all Tau Battlesuits which are built into the helmet. These sensors and systems allow for the user to gather more accurate battlefield data which can assist informed decision-making on where to best deploy themselves to maximise their tactical effectiveness. All XV95 Ghostkeels are also equipped with a Blacksun Filter, which is an advanced optical system that enhances and magnifies a warrior's low-light vision whilst simultaneously filtering bright flares of light that could blind him in battle, and a Multi-Tracker, which assists Battlesuit pilots in engaging enemy threats by using multiple armaments at once, making them formidable opponents in a wide variety of battle conditions. As with all Tau Battlesuits, XV95 Ghostkeel Battlesuits are constructed out of a lightweight yet strong nano-crystalline alloy called Fio'tak in the Tau Lexicon, which is light, malleable, impact resistant and corrosive-resistant, reducing the weight of the Battlesuit whilst also providing excellent protection. Even the armour's shape helps deflect solid projectiles, while a reflective liquid metal coating can reflect medium-grade laser fire. A full medical suite and nutrient reservoirs are also built into every XV95 Ghostkeel Battlesuit to help aid their pilots in the field.
+
+Like its smaller cousin the XV25 Stealthsuit, an XV95 Ghostkeel Battlesuit also possesses the capability of camouflaging its wearer through the use of its stealth technologies. The suit's integrated holographic disruption field achieves its effects through a number of disruptor emitter nodes arrayed all over the Battlesuit's armour. This holographic disruption field can operate in two modes. The default, passive mode utilises a range of technologies to dampen the suit's electromagnetic signature so that enemy scanners are far less likely to detect it. This mode is called "passive" because its use cannot be detected, as rather than attempting to interfere with enemy sensor systems, it simply masks the suit itself. In active mode, however, the suit's stealth field generator comes online. The suit's matte finish ripples and blurs, resolving itself into a nigh-perfect representation of the terrain that lies behind it, making the suit and its wearer all but transparent -- even to visual identification. In this way, the Stealthsuit's form is blended into the background as if its wearer was a Terran chameleon. Layers of audio and sensory dampening technologies serve to further hide the Stealthsuit. In addition, when operating in active mode, the Stealthsuit's systems are actively interfering with and jamming enemy sensor devices. In so doing, the jamming itself may give away the fact that a Stealthsuit is present somewhere on the battlefield, but it will make the detection of its actual location nearly impossible; thus allowing the Stealthsuit-clad warriors to move untracked, blending in with their surrounding environment before they strike. Because it is hard to focus on their location, a Stealth Team can hide to at least some degree even when standing in open territory. In areas of cover, such as forests or the rubble of an embattled city, they effectively fade into the background, making themselves extremely difficult targets for enemies to mark out or lock on to effectively.
+
+To aid in covering the XV95 Ghostkeel's large size, the Battlesuits are deployed accompanied by two MV5 Stealth Drones. These Drones project overlapping stealth fields which help support the XV95's own internal stealth field generators. While some Drones are seen as expendable assets, these two are invaluable to the Ghostkeel's Shas'vre, who often forms an unnaturally strong bond with them while on extended missions behind enemy lines.
+
+XV95 Ghostkeels also feature an AI Electrowarfare Suite and Holophoton Countermeasures for use in active combat against the enemy. The Ghostkeel's Electrowarfare Suite, mounted on the Battlesuit's left arm, aggressively scans enemy targetting spectrums and invades the foe's sensor arrays, filling them with false information and scrap-data that makes it almost impossible to effectively fire upon the Battlesuit at range. The Holophoton Countermeasures, mounted between the Battlesuit's secondary weapon systems, are triggered by AI-assisted threat-warning protocols and take the form of a targetted barrage of holo-decoys, friendly target simulacra and stroboscopic blasts. This confounds enemy weapons, causing safety switches to engage and Machine Spirits to rebel while their operators are left bewildered and blinded by the overwhelming sensory overload. Together with the Battlesuit's stealth field generator, an XV95 Ghostkeel becomes a near impossible target for enemies to engage from range.
+
+In terms of weapon systems, all XV95 Ghostkeel Battlesuits are armed with either a Cyclic Ion Raker or Fusion Collider. Where the Cyclic Ion Raker is designed for atomising large blocks of infantry with a stream of high-impact energy projectiles, the Fusion Collider employs sub-atomic agitation to superheat its targets, vaporising living creatures and turning armoured vehicles into molten slag; a silent weapon for a silent killer. The XV95 Ghostkeel also mounts a secondary weapon system on its shoulders, which can either be a set of twin-linked Burst Cannons, Flamers or Fusion Blasters, and is able to fit two Battlesuit Support Systems to boost its combat effectiveness.
+
+Available X95 Ghostkeel Battlesuit Support Systems
+
+Below is a list of the most common available Battlesuit support systems that an XV95 Ghostkeel Battlesuit can be armed with:
+Advanced Targeting System – An Advanced Targeting System is a specialised target acquisition system that enables the Battlesuit pilot to automatically identify and pick out priority targets in the midst of combat.
+Counterfire Defence System – A Counterfire Defence System is a valuable artificial intelligence (AI) sensor suite first designed to counter the threat of charging Ork hordes. It incorporates logic circuits to ensure that assaulting enemies are met with a withering curtain of unerringly accurate Battlesuit firepower.
+Drone Controller - A Drone Controller acts as a hub for communications and interface between an operator and the AI battle programs of a number of Tau Drones. The Drone Controller device gives the user the ability to relay any additional targetting data they receive to their Drones, thus directing those automatons' fire more accurately at the target.
+Early Warning Override – An Early Warning Override sensor suite is calibrated to detect the electronic signatures of teleport beams and orbital-entry jump systems, and jolt the Battlesuit's weapon systems to lock-on status before the target has a chance to react.
+Positional Relay - A Positional Relay digitally records detailed battlefield data and relays it in a tight encrypted radio burst to assets in orbit and squads held in reserve. Information sent usually includes battlefield terrain and status reports to allow the incoming units to make a better decision on where to deploy onto the battlefield and coordinate their actions as part of the overall combat strategy.
+Shield Generator - Battlesuit Shield Generators project cohesive energy fields around the Battlesuit that can deflect weapons fire and melee blows that would otherwise destroy the Battlesuit outright, whether such incoming fire be shots from heavy ordnance or anti-tank weapons.
+Stimulant Injector - A Battlesuit with Stimulant Injectors is fitted with advanced life support systems that are able to flood the Battlesuit pilot's body with painkillers, analgesic drugs, and other life-sustaining stimulants should he become badly wounded in combat.
+Target Lock - A Target Lock is a specialised target acquisition system that enables the user to engage different targets from the rest of the squad.
+Velocity Tracker – The advanced motion detection and infra-red sensor systems built into a Velocity Tracker allows Battlesuit pilots to track the movements of airborne targets and effectively engage them with the Battlesuit's weapons.
+
+Sources
+
+Codex: Tau Empire (7th Edition), pp. 30, 49, 89, 106, 116-124
+War Zone DamoclesL Kauyon, pp. 65-70, 73-74
+Games Workshop - XV95 Ghostkeel Battlesuit
+White Dwarf Weekly Magazine #89 (10 Oct. 2015) " XV95 Ghostkeel Battlesuit", pp. 5-9
+
+Gallery
+
+XV95 Ghostkeel Battlesuit.png|An XV95 Ghostkeel Battlesuit
+Ghostkeel model.jpeg|A Tau Ghostkeel Battlesuit accompanied by 2 T'au Drones.
+Blood Angels Vs XV95 Ghostkeel Battlesuit.png|An XV95 Ghostkeel appears out of nowhere among the Blood Angels Space Marines.
+Imperial Guard vs Tau.png|An Imperial Guard line is infiltrated by the XV95 Ghostkeel Battlesuit during a battle.
+Ghostkeel2.jpg|A XV95 Ghostkeel Battlesuit armed with a Fusion Collider and twin-linked Burst Cannons; the white helmet denotes a shas'vre pilot who is a veteran of countless stealth operations; the team markings on the armour denote this battlesuit as operating in a Ghostkeel wing with other XV95 Ghostkeels.
+Ghostkeel1.JPG|Shas'vre Dasir of the T'au Sept, one of the first recruits for Aun'Va's "Ghosts of N'dras" program, wearing combat fatigues and a battlesuit harness.
+
+ES:XV95 Fantasma

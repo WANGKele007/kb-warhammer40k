@@ -1,0 +1,32 @@
+---
+title: "Zarabek"
+pageid: 90921
+url: https://warhammer40k.fandom.com/wiki/Zarabek
+source: fandom-wh40k
+lang: en
+updated: 2023-06-29T18:44:47Z
+---
+
+Zarabek was a watch fortress of the Deathwatch Chapter that was also the location of the last stand of the Muhlari, a xenos species exterminated by the Ordo Xenos and the Deathwatch in a series of actions culminating in the Purgation of Zarabek. The Deathwatch burnt Zarabek clean, slaying the Muhlari's den mothers and destroying their sacellum of knowledge. Crushing all their data crystals, mixing them with the powdered ash of their people and firing them into the heart of a star, the Muhlari were consigned forever to the Book of Extinctions.
+
+Zarabek is now the domain of Watch Captain Ska Mordentodt, a Deathwatch Black Shield of an unknown parent Chapter, who launches the kill-teams of his Watch Company against Hrud migrations, Necron Tomb Worlds, Xenarch raids, Malgreth sightings and Genestealer infestations. Zarabek proved to be both strong and well-hidden, a perfect location for a new watch fortress, so it was cleansed of its xenos taint and taken over by the Deathwatch.
+
+Notable Personnel
+
+Watch Captain Ska Mordentodt (Deathwatch Black Shield) - Mordentodt was a watch captain who served as the commander of one of the Watch Companies of Zarabek. He was known to be a distant and forbidding figure, even to the battle-brothers under his command.
+
+Kill-team Courlanth
+
+Watch Sergeant Courlanth (Howling Griffons) - Courlanth was one of the Astartes stationed at Zarabek when it was discovered by the Ordo Xenos that Human pirates operating in the Teramus System somehow had access to functional Aeldari lance weapons mounted on their voidships. In a debate between the Space Marines present over the issue, Courlanth persuaded Watch Captain Ska Mordentodt to allow him to assemble a kill-team and lead a mission into the Teramus System. Their objective was to uncover the source of the xenos weapons and eliminate them. Courlanth led the kill-team in infiltrating the pirates' asteroid base and discovered that the pirate leader, Arlon Buke, had entered into a pact with the Drukhari of the Kabal of the Crimson Blossom to obtain Aeldari technology. When Courlanth saw that the pirates were trading captured Human slaves to the sadistic xenos in exchange for these alien weapons and Drukhari combat drugs, Courlanth abandoned stealth and ordered an all-out assault on the kabal and the pirates alike. In the ensuing combat, two Astartes of the kill-team were killed or severely wounded and Courlanth was almost killed by Gharax, the archon of the kabal. The watch sergeant's life was saved, however, by the sudden arrival of Ska Mordentodt, who teleported into the pirates' base with his retinue of Deathwatch Terminators using the Teleport Homers that had been carried by Kill-team Courlanth and proceeded to turn the tide of the battle, killing the pirates and much of the leadership of the kabal.
+
+Deathwatch Techmarine Felbaine (Novamarines) - Felbaine was one of the Astartes stationed at Zarabek who was selected by Watch Sergeant Courlanth to serve on the kill-team deployed to the Teramus System. In the resulting battle aboard Arlon Burke's asteroid base with the Human pirates and the Drukhari of the Kabal of the Crimson Blossom, Felbaine was crippled by the Drukhari's splinter weapons.
+
+Gottrand (Space Wolves) - Gottrand was originally a Blood Claw in the Space Wolves. He was one of the Astartes stationed at Zarabek who was selected by Watch Sergeant Courlanth to serve on the kill-team deployed to the Teramus System. In a debate between the Space Marines present over how to deal with the Human pirates in the system, Gottrand favoured a direct assault on the pirates to the point of accusing his battle-brothers of cowardice, only backing down when the Imperial Fists Veteran Thucyid rebuked him. Although Gottrand objected to the stealth-based nature of the initial stages of the mission, he was chosen by Watch Sergeant Courlanth to serve on the kill-team deployed to Teramus. Gottrand survived the resulting fight aboard Arlon Burke's asteroid base with the Human pirates and the Drukhari of the Kabal of the Crimson Blossom with only minor injuries sustained in combat with a Clawed Fiend present during the assault. Gottrand was armed with Hjormir, a chainsword edged with kraken teeth that had been borne by the warriors of his Great Company since the days of Leman Russ.
+
+Maxillus (Ultramarines) - Maxillus was one of the Astartes stationed at Zarabek who was selected by Watch Sergeant Courlanth to serve on the kill-team deployed to the Teramus System. At some point, Maxillus and Courlanth had served on the same kill-team and participated in a Gaunt purge on the planet Masali, exterminating one of the frequent splinter fleets of Tyranids that continued to assault worlds of the Imperium in the wake of the destruction of Hive Fleet Behemoth during the First Tyrannic War. Maxillus was selected by Courlanth for the mission to Teramus partly because of this shared history between them. In the resulting battle aboard Arlon Burke's asteroid base with the Human pirates and the Drukhari of the Kabal of the Crimson Blossom, Felbaine was crippled by the Drukhari's poisoned splinter weapons. Maxillus was armed with a rare Crusade Pattern Boltgun.
+
+Thucyid (Imperial Fists) - Thucyid was originally a Veteran of the Imperial Fists who was one of the Astartes stationed at Zarabek who was selected by Watch Sergeant Courlanth to serve on the kill-team deployed to the Teramus System. In a debate between the Space Marines present over how to deal with the Human pirates in the system, Thucyid rebuked the Space Wolf Gottrand, who favoured a direct assault on the pirates to the point of accusing his battle-brothers of cowardice. Gottrand backed down when faced with Thucyid's opposition in part because of Thucyid's long years of service and use of heavy weapons, which Gottrand equated with making him equal in stature to one of his parent Chapter's Long Fangs. In the resulting battle aboard Arlon Burke's asteroid base with the Human pirates and the Drukhari of the Kabal of the Crimson Blossom, Thucyid was wounded by the Drukhari's splinter weapons, but survived. Thucyid was armed with the relic Heavy Bolter Iolanth, which made use of the Deathwatch's special-issue ammunition, including Inferno and Kraken Rounds.
+
+Sources
+
+The Alien Hunters (Short Story) by Andy Chambers

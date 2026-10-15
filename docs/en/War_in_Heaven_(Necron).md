@@ -1,0 +1,201 @@
+---
+title: "War in Heaven (Necron)"
+pageid: 73896
+url: https://warhammer40k.fandom.com/wiki/War_in_Heaven_(Necron)
+source: fandom-wh40k
+lang: en
+updated: 2025-01-31T19:18:00Z
+---
+
+The War in Heaven, also known as the War of Aeons among the Necrons, was an ancient and devastating conflict fought between the humanoid Necrontyr xenos later known as the Necrons, their C'tan allies and the Old Ones. The war was fought over sixty million Terran years before the 41st Millennium. 
+
+With the power granted by the C'tan, the Necrons ultimately proved victorious over their hated Old One adversaries, relegating that ancient species to extinction or to flight from the galaxy. 
+
+But the suffering and destruction unleashed by the war cascaded through the Immaterium, ultimately destabilising it and unleashing the plague of Enslavers that almost destroyed all sentient life. At the same time, the ancient Aeldari -- a psychically powerful species created by the Old Ones during the war -- began their rise to galactic mastery. 
+
+After overthrowing the rule of their C'tan masters, the Necrons chose to retire to their Tomb Worlds and enter the Great Sleep, waiting until the plague had passed, their own divisions and discord had faded into irrelevance and the Aeldari civilisation had passed its peak. 
+
+Only then would the galaxy be ripe once more for conquest and their Great Awakening commence.
+
+History
+
+Birth of the Star Gods
+
+The birth of the entities called the C'tan and later known as the "Star Gods" occurred at the same time as the moment of Creation itself, as they formed from the vast, insensate energies first unleashed by that churning mass of cataclysmic force. In that anarchic interweaving of matter and energy, the sea of stars began to swirl into existence and for an eon the universe was nothing more than hot hydrogen gas and light elemental dust ruled over by the gravitic force of billions of newborn suns. 
+
+Long before the first planets had formed and cooled, the very first truly self-aware beings emerged into the universe, their thoughts encased within the lines of force produced by the plasma and electromagnetic flares of the stars themselves. In later times, these entities would become known as the C'tan by the Necrons, but early in their existence they were nothing like the malevolent beings they would eventually become. They were little more than monstrous energy parasites that suckled upon the solar energies of the stars that had brought them into existence, shortening the lives of otherwise main-sequence stars by millions of standard years. 
+
+In time, these star vampires learned to move along the lines of the universe's electromagnetic flux, leaving their birthplaces to drift through the cosmic ether to new stellar feeding grounds and begin their cycle of stellar destruction once more. Beings of pure energy, they paid no mind to the hunks of solid matter they passed in the vacuum of space, the blazing geothermal fires and weak geomagnetic fields of these nascent planets insufficient to be worth feeding even their ravenous hunger.
+
+Old Ones
+
+Just as the stars gave birth to their children so the planets of the newborn Milky Way Galaxy eventually gave birth to lifeforms composed of matter which began the long evolutionary climb to self-awareness. The first intelligent beings of the galaxy known to have developed a civilisation technologically advanced enough to cross the stars was a reptilian species of beings later called the "Old Ones" by the Aeldari, who knew them best of all their creations. 
+
+The Old Ones possessed a slow, cold-blooded, but still deep wisdom, having long studied the stars and raised astronomy and physics to such a level that their science and technology appear now to Humanity like an arcane art. Their understanding of the workings of the universe were such that they could manipulate alternate dimensions and undertake great works of psychic engineering. 
+
+The Old Ones were potent psykers who routinely used the powers of the Warp for a wide variety of technological applications. This included the construction of a system of instantaneous faster-than-light portals through Warpspace. These portals connected all of the Old Ones' colony worlds, allowing them to cross the vast gulfs of space with only a single step through the myriad Warp Gates they built to connect the worlds of the galaxy. This was a vast interdimensional network much like the Webway of today which is its direct descendant, though on a much larger and more advanced scale. 
+
+Through this network the Old Ones spread their spawn to many places in the galaxy, but they also knew that all life was precious. Where they passed, they seeded new intelligent species and reshaped thousands of worlds to make them their own according to their predetermined environmental and geographic criteria. It is believed by some in the Adeptus Mechanicus that even Terra felt the Old Ones' touch long before Humanity's rise to self-awareness, though this notion is considered heretical at best by the Ecclesiarchy, as the Imperial Creed teaches that Mankind was made in the image of the God-Emperor before His spirit was incarnated in physical flesh millennia ago.
+
+The Old Ones' civilisation reached its height in excess of 60 million standard years ago. The Old Ones were responsible for the creation or genetic advancement of most of the currently active intelligent species of the galaxy, including the Aeldari, the Krork (the Orks' precursors), the Slann and the Jokaero, though it is unknown if they played any direct role in the evolution of Humanity.
+
+The Necrontyr and the Wars of Secession
+
+The humanoid species that would become the Necrons began their existence under a fearsome, scourging star in the far reaches of the galaxy known as the Halo Stars region, billions of standard years before Humanity evolved on Old Earth. Assailed at every moment by solar winds and intense radiation storms, the flesh and blood species known as the Necrontyr became a morbid people whose precarious life spans were riven by constant loss. What little information the Imperium of Man has recovered on the Necrontyr tells that their lives were short and uncertain, their bodies blighted and consumed at an early age by the terrible cancers and other illnesses linked to the high levels of ionising radiation given off by their sun. 
+
+Necrontyr cities were built in anticipation of their inhabitants' early demise, as the living were only brief residents scratching their daily livelihoods in the shadow of the vast sepulchres and tombs of their ancestors. Likewise, their ruling dynasties were founded on the anticipation of an early death, and the living were thought of as no more than temporary residents hurrying through the more permanent and lasting structures raised to honour the dead. On the Necrontyr homeworld, the greatest monuments were always built for the dead, never the living. 
+
+Driven by necessity, the Necrontyr escaped their crucible-prison and struck out for the stars, hopeful of carving out an empire in which they could realise their species' freedom from the lethal energies of their birth star. Using stasis crypts and slow-moving, antimatter-powered torch-ships that were clad in the living metal known as necrodermis to resist the millennia-long journeys through the void, the Necrontyr began to colonise distant worlds. 
+
+Little by little, the Necrontyr dynasties spread ever further, until much of the ancient galaxy answered to their rule. From the earliest days, the rulers of individual Necrontyr dynasties were themselves governed by the Triarch, a council composed of three Necron dynasty monarchs known as phaerons. The head of the Triarch was known as the Silent King, for he addressed his subjects only through the other two phaerons who ruled alongside him. Nominally a hereditary position, the uncertain life spans of the Necrontyr ensured that the title of Silent King nonetheless passed from one royal dynasty to another many times. The final days of the Necrontyr Empire occurred during the reigns of the Szarekhan Dynasty, the last of the Silent Kings.
+
+Sometime during their slow interstellar expansion, the Necrontyr encountered an ancient species far older than any other in existence in the known galaxy. These beings were the Old Ones, and they were absolute masters of forms of energy the Necrontyr could not even conceive of, yet alone wield. The Old Ones had long ago conquered the secrets of immortality, yet they refused to share the gift of eternal life with the Necrontyr, who yet bore the genetic curse of the bitter star they had been born under. 
+
+The colonisation of much of the galaxy by the reptilian mystics had been immeasurably swifter and more expansive than that of the Necrontyr because of their Warp Gates and mastery of the Immaterium. That, and the Old Ones' incredibly long, if not downright immortal lifespans, kindled a burning, jealous rage in the Necrontyr, which ate at their culture spiritually as much as physical cancers consumed their bodies. The Necrontyr were astonished to learn that another intelligent species enjoyed such long lives while their own were cut so brutally short.
+
+But as time wore on, further strife came to the Necrontyr. Each dynasty sought to claim its own destiny and soon the great houses were engaged in all-out conflicts known as the "Wars of Secession." Had circumstances remained as they were for but a generation more, it is possible that the Necrontyr would have wiped themselves out, as so many species had before them and shall do in the future. As their territory grew ever wider and more diverse, the unity that had made them strong was eroded, and bitter wars were waged as entire realms fought to win independence. 
+
+Ultimately, the Triach realised that the only hope of unity for their people lay in conflict with an external enemy, but there were few who could prove a credible threat to the technologically advanced Necrontyr. Only the Old Ones were a prospective foe powerful enough to bind the feuding Necrontyr dynasties to a common cause. Such a war was simplicity itself to justify, for the Necrontyr had ever rankled at the Old Ones' refusal to share the secrets of eternal life. 
+
+So it was that the Silent Kings of the Szarekhan Dynasty, in a typically bitter act of jealousy and resentment for the Necrontyr species, declared war on the Old Ones. At the same time, he offered amnesty to any secessionist Necrontyr dynasties who willingly returned to the fold of the Triarch. Thus lured by the spoils of victory and the promise of immortality, the separatist Necrontyr realms abandoned their Wars of Secession and what was later known as the "War in Heaven" began. A conflict unlike any fought before erupted across the stars, yet while the Silent King and the Triarch had succeeded in uniting their hateful people, it was a war the Necrontyr could not win. Not on their own.
+
+The War in Heaven
+
+The terrible wars between the Old Ones and the Necrontyr that followed, known later in Aeldari myth as the "War in Heaven," would fill a library in their own right, but the Necrontyr could never win. Their superior technology was consistently outmanoeuvred by the Old Ones thanks to their mastery of the Webway portals and Warp Gates. The Necrontyr were pushed back until they were little more than an irritation to the Old Ones' dominance of the galaxy, a quiescent threat clinging to their irradiated world among the Halo Stars, exiled and forgotten. The Necrontyr's fury was cooled by their long millennia of imprisonment on their homeworld, slowly transforming into an utter hatred towards all other forms of intelligent life and an implacable determination to avenge themselves upon their seemingly invincible enemies.
+
+But in the face of defeat, the always fragile unity of the Necrontyr began to fracture once more. No longer did the prospect of a common enemy have any hold over the disparate dynasties. Scores of generations had now lived and died in the service of an unwinnable war, and many Necrontyr dynasties would have gladly sued for peace with the Old Ones if the ruling Triarch had permitted it.
+
+Thus began the second iteration of the Wars of Secession, more widespread and ruinous than any that had come before. So fractured had the Necrontyr dynasties become by then that, had the Old Ones been so inclined, they could have wiped out their foes with ease. Faced with the total collapse of their rule, the Triarch searched desperately for a means of restoring order. In this, their prayers were answered, though the price for their species would be incalculably high.
+
+It was during the reign of the Szarekhan Dynasty's Silent Kings that the godlike energy beings known as the C'tan first blighted the Necrontyr. It is impossible to say for certain how the Necrontyr first made contact with the C'tan, though many misleading, contradictory and one-sided accounts of these events exist. The dusty archives of the Tomb World of Solemnace claim it was but an accident, a chance discovery made by a stellar probe during the investigation of a dying star. The Book of Mournful Night, held under close guard in the Aeldari Black Library's innermost sanctum, tells rather that the raw hatred that the Necrontyr held as a species for the Old Ones sang out across space, acting as a beacon that the C'tan could not ignore.
+
+Another account claims that from the earliest days of their civilisation, Necrontyr scientists had been deeply engaged in stellar studies to try to understand and protect themselves from their own sun's baleful energies. After long, bitter centuries of searching for some power to unleash upon the Old Ones, the Necrontyr researchers used stellar probes to discover unusual electrodynamic anomalies in the oldest, dying stars of the galaxy. In the complex skeins of the energetic plasma of these suns, the Necrontyr found an intelligence that was more ancient than that of any of the corporeal species in Creation, including the Old Ones, entities of pure energy that had spawned during the birth of the stars eons before. 
+
+These entities had little conception of what the rest of the universe entailed when the Necrontyr first found them, feeding upon the solar flares and magnetic storms of these bloated red giants. Here was the weapon the Necrontyr had long sought to bring about the downfall of the Old Ones, beings they believed were the progeny of the death-god they had long worshipped. Howsoever first contact occurred, the shadow of the C'tan fell over the oldest Necrontyr dynasties first.
+
+The power of these star-born creatures was incredible, the raw energy of the stars made animate, and the Necrontyr called them the C'tan or "Star Gods" in their own tongue. The C'tan were dispersed across areas larger than whole planets, their consciousnesses too vast for humanoids to comprehend. How the Necrontyr ever managed to communicate with them is unknown to the Adeptus Mechanicus. Understanding that such diffuse minds could never perceive the material universe without manifesting themselves in a material form, some Necrontyr actively sought the C'tan's favour and oversaw the forging of physical shells for the C'tan to occupy, cast from the living metal called necrodermis that they had once used for their colony torch-ships. 
+
+Fragmentary Aeldari legends tell of translucent streamers of electromagnetic force shifting across space as the star vampires coiled into their new bodies in the physical realm across an incorporeal bridge of starlight. Thus clad, the C'tan took the physical shapes of the Necrontyr's half-forgotten gods, hiding their own true desires beneath cloaks of obsequious subservience.
+
+Incomprehensible forces were compressed into the living metal of the necrodermis bodies which the Necrontyr had forged as the full power of the C'tan at last found form. As the C'tan focused their consciousnesses and became ever more aware of their new mode of existence, they came to appreciate the pleasures available to beings of matter and the other realities of corporeal life. The deliciously focused trickles of electromagnetic energy given off by the physical bodies of the Necrontyr all about them awakened a new hunger in the C'tan very unlike the one they had once sated using the nourishing but essentially tasteless energies of the stars.
+
+So it was that one of the C'tan came before the Silent King Szarekh, the last of his line, acting as forerunner to the coming of his brothers. Amongst his own kind, this C'tan was known as Mephet'ran, the "Deceiver," for he was willfully treacherous. Yet the Silent King did not know this C'tan's true nature, and instead granted the creature an audience. The Deceiver spoke of a war, fought long before the birth of the Necrontyr, between the C'tan and the Old Ones. It was a war, he said, that the C'tan had lost. In the aftermath, and fearing the vengeance of the Old Ones, he and his brothers had hidden themselves away, hoping one day to find allies with whom they could finally bring the Old Ones to account. 
+
+In return for this aid, the Deceiver assured, he and his brothers would deliver everything that the Necrontyr craved. Unity could be theirs once again, and the immortality that they had sought for so long would finally be within their grasp. No price would there be for these great gifts, the Deceiver insisted, for they were but boons to be bestowed upon valued allies.
+
+Thus did the Deceiver speak, and who can say how much of his tale was truth? It is doubtful whether even the Deceiver knew, for trickery had become so much a part of his existence that even the C'tan could no longer divine its root. Yet his words held sway over the Silent King who, like his ancestors before him, despaired of the divisions that were once again tearing his people apart. For long solar months he debated the matter with the other two phaerons of the Triarch and the nobles of his Royal Court. 
+
+Through it all, the only dissenting voice was that of Orikan, the court astrologer of the Triarch, who foretold that the alliance between the Necrontyr and the C'tan would bring about a renaissance of glory, but destroy forever the soul of the Necrontyr people. Yet desire and ambition swiftly overrode caution, and Orikan's prophecy was dismissed. A Necrontyr year after the Deceiver had presented his proposition, the Triarch agreed to the alliance, and so forever doomed their species.
+
+For their part, the Necrontyr soon fell into awe of their discoveries and the C'tan moved to take control over their benefactors. The powers of the C'tan manifested in the physical world were indeed almost god-like and it was not long before the C'tan were being worshiped as the Star Gods the Necrontyr had named them. 
+
+Perhaps they had been tainted by the material universe they had become a part of, or perhaps this had always been their nature even when they were bound to the suns they fed upon, but the C'tan proved to be as cruel and capricious as the stars from which they had been born. They soon revelled in the religious worship of the Necrontyr and feasted upon the electromagnetic life energies of countless mortal slaves.
+
+Biotransference and the Rise of the Necrons
+
+Armed with weapons of god-like power and starships that could cross the galaxy in the blink of an eye through the use of quantum phase technology, the Necrontyr stood ready to begin their war against the Old Ones anew. But the C'tan had another gift for their mortal subjects. They offered the Necrontyr a path to immortality and the physical stability their species had always craved. Their diseased flesh would be replaced with the living metal of necrodermis that made up their Star Gods' own physical forms. Their discarded organic husks would be consumed and their cold, metal forms would then be free to pursue their great vengeance against the Old Ones and the rest of a hateful universe, freed forever from the weaknesses of their hated flesh.
+
+With the pact between Necrontyr and C'tan sealed, the Star Gods revealed the form that immortality would take for the Necrontyr, and the great biotransference process began. Vast bio-foundries were constructed, and into these the Silent King Szarekh's peoples marched according to the terms of the pact he had made with the C'tan. What blasphemous procedures the Necrontyr were subjected to within the raging bio-furnaces cannot be known, but certainly, each was stripped of flesh and of soul, their body replaced by a shell of living metal necrodermis much like the C'tan themselves animated by what remained of their guttering self.
+
+Above each furnace swooped and dove the ethereal true-forms of the C'tan as they glutted themselves on the spiritual and electromagnetic detritus of an entire species. It was only when the Silent King himself emerged from the biotransference process and looked upon what had become of his people that he saw the awful truth of the pact he had made. Though immortality and nigh-godlike strength and vigour were his, it had come at the cost of his soul, the aetheric remains of which had already been sucked down the gullet of a circling C'tan.
+
+As Szarekh watched the C'tan feast on the life essence of his people, he realised the terrible depth of his mistake. In many ways he felt better than he had in Necrontyr decades, the countless aches and uncertainties of organic life now behind him. His new machine body was far mightier than the frail form he had tolerated for so long, and his thoughts were swifter and clearer than they had ever been. 
+
+Yet there was a terrible emptiness gnawing at his mind, an inexpressible hollowness of spirit that defied rational explanation. In that moment, he knew with cold certainty that the price of physical immortality had been the loss of his soul. With great sorrow the Silent King beheld the fate he had brought upon his people: the Necrontyr were now but a memory, and the soulless, undying Necrons had been reborn in their place.
+
+Yet if the price had been steep, biotransference had fulfilled all of the promises that the C'tan had made. Even the lowliest of the Necrontyr was now blessed with immortality -- age and hard ionising radiation could little erode their new mechanical bodies, and only the most terrible of injuries could destroy them utterly. 
+
+The biotransference process had embedded engrammatic command protocols in every Necron mind, granting Szarekh the unswerving loyalty of his subjects. At first, the Silent King embraced this unanimity, for it was a welcome reprieve from the chaos and fractiousness that had consumed the Necrontyr Empire in recent years. The entire species was now his to command, and so it fell upon the Necrons to honour their side of their terrible bargain. However, as time wore on Szarekh grew weary of his burden but dared not sever the command protocols, lest his subjects turn on him seeking vengeance for the terrible curse he had visited upon them.
+
+Biotransference had left behind only the ghostly echoes of the Necrontyr's consciousnesses. Only a few of the most strong-willed Necrontyr among the nobility and the military retained their intellect and self-awareness and even they were but shadows of their former selves. They had been purged of so much of what had made them unique individuals. But unlike the Silent King, most of the Necrons at first cared not at all for their loss; all that mattered to them was that they would live forever without disease or death as their Star Gods had promised.
+
+Renewed and empowered as never before by their devouring of the souls of an entire species, the C'tan were now unstoppable, and with the undying legions of the Necrons marching in their wake, the Old Ones were doomed. Only one thing truly remained of the old Necrontyr -- their burning hatred for all the other living, intelligent species of the universe. 
+
+Legions of the undying living metal warriors set out into the galaxy in their Tomb Ships and the stars burned in their wake. The Old Ones' mastery of the Warp was now countered by the C'tan's supremacy over the physical universe and the ancient enemies of the Necrons suffered greatly in the interstellar slaughter that followed.
+
+Necrons Ascendant
+
+With the C'tan and the Necrons fighting as one, the Old Ones were now doomed to defeat. Glutted on the life force of the Necrontyr, the empowered C'tan were able to unleash forces beyond comprehension. Planets were razed, suns extinguished and whole star systems devoured by black holes called into being by the reality-warping powers of the Star Gods. Necron legions finally breached the Webway and assailed the Old Ones in every corner of the galaxy. They brought under siege the fortresses of the Old Ones' many allies amongst the younger intelligent species of the galaxy, harvesting the life force of the defenders to feed their voracious C'tan masters.
+
+In the closing years of the War in Heaven, one of the primary factors that led to the Necrons' ascendancy was their ability to finally gain access to the Old Ones' Webway. The C'tan known as Nyadra'zath, the Burning One, had long desired to carry his eldritch fires into that space beyond space, and so showed the Necrons how to breach its extradimensional boundaries. Through a series of living stone portals known as the Dolmen Gates, the Necrons were finally able to turn the Old Ones' greatest weapon against them, vastly accelerating the ultimate end of the War in Heaven.
+
+The portals offered by the Dolmen Gates are neither so stable, nor so controllable as the naturally occurring entrances to the Webway scattered across the galaxy. Indeed, in some curious fashion, the Webway can detect when its environs have been breached by a Dolmen Gate and its arcane mechanisms swiftly attempt to seal off the infected spur from the rest of the Labyrinth Dimension until the danger to its integrity has passed. Thus, Necrons entering the Webway must reach their intended destination through its shifting extradimensional corridors quickly, lest the network itself bring about their destruction.
+
+Of course, in the present age, aeons have passed since the Necrons used the Dolmen Gates to assault their archenemies. The Old Ones are gone, and the Webway itself has become a tangled and broken labyrinth. Many Dolmen Gates were lost or abandoned during the time of the Necrons' Great Sleep, and many more were destroyed by the Aeldari, the Old Ones' successors as the guardians of the Webway. Those that remain grant access to but a small portion of the immense maze that is the Webway, much of that voluntarily sealed off by the Aeldari to prevent further contamination. 
+
+Yet the Webway is immeasurably vast, and even these sundered skeins allow the Necrons a mode of travel that far outpaces those of the younger races. It is well that this is so. As a species bereft of psykers as a result of the loss of their souls during the biotransference process, the Necrons are also incapable of Warp travel, and without access to the Webway, they would be forced to rely once more on slow-voyaging stasis-ships, dooming them to interstellar isolation.
+
+In the wake of these victories, the C'tan and their undying Necron servants now dominated the galaxy. The last planetary bastions of the Old Ones were besieged and the intelligent species they had once nurtured became cattle for the obscene hunger of the C'tan. To the younger intelligent species of the galaxy, the Necrons and their Star Gods were cruel masters, callously harvesting their populations at will to feed the C'tan's ceaseless hunger for life energies. The C'tan were figures of terror who demanded mortals' adoration and fear in equal measure. 
+
+For unknown reasons, but probably because their individual hungers for mortal life energies knew no bounds, the C'tan ultimately began to fight amongst themselves for both sport and out of spite. Among the Aeldari, an ancient myth holds that their Laughing God tricked the C'tan known as "the Outsider" into turning on its brothers and beginning their long war for ascendancy. 
+
+In the course of the C'tan's struggle against one another, whole planets were razed, stars were extinguished and entire solar systems were devoured by unleashed black holes. New cities were built by the efforts of millions and then smashed down once more. As the "red harvests" of the C'tan and their Necron servants grew thin, C'tan eventually devoured C'tan, until only a few were left in the universe and they competed amongst themselves for a long age.
+
+Eventually, even the Old Ones, who had once been defined by their patience and unstoppable will, became desperate in the face of the Necron assault. They used their great scientific skills to genetically engineer intelligent beings with an even stronger psychic link to the Warp, hoping to create servants with the capability of channeling psychic power to defend themselves. 
+
+They nurtured many potential warrior species, among which are believed to be the earliest members of the Aeldari species and many other xenos races, including the Rashan, the K'nib, the Krork and many others. Terran millennia passed as the Old Ones' creations and experiments finally bore fruit even as the C'tan and their Necron servants continued to extinguish life across the galaxy.
+
+The Tide Turns
+
+The Old Ones' psychically-empowered servant species spread across the galaxy, battling the advanced Necron technology with the psychic power of their Warp-spawned "magic." Facing this new onslaught, the C'tan's empire was shattered, as the psychic forces of the Immaterium were anathema to soulless entities whose existence was wholly contained within purely physical patterns of electromagnetic force. For all the destruction they could unleash, they were unable to stop the Old Ones and the younger races' relentless advance across the stars.
+
+The remaining C'tan, unified by this great threat for the first time in millions of Terran years, sought a way to defeat the soul-fuelled energies of the younger species. They initiated a great warding, a plan to forever defeat the psychic sorceries of the Old Ones by sealing off the material universe from the Warp, a plan whose first fruits could once be found on the Imperial Fortress World of Cadia in the form of the great pylons that littered the surface of that world in intricate networks and create the area of space-time stability near the Eye of Terror known as the Cadian Gate.
+
+With their god-like powers, it was only a matter of time until the C'tan succeeded. But before their great work was complete, the seeds of destruction the Old Ones had planted millennia before brought about an unforeseen cataclysm. The growing pains and collective psychic flaws of the younger species threw the untapped, psychically-reactive energies of the Immaterium into disorder.
+
+War, pain and destruction were mirrored in the bottomless depth of the Sea of Souls that was the Warp. The maelstrom of souls unleashed into the Immaterium by the carnage of the War in Heaven coalesced in the previously formless energies of the Warp. Older entities that had existed within the Immaterium transformed into terrifying psychic predators, tearing at the souls of vulnerable psykers as their own environment was torn apart and reforged into the Realm of Chaos.
+
+Enslaver Plague
+
+The denizens of the Warp, stirred into a frenzy by the conflict in the Materium, clustered voraciously at the cracks between the Immaterium and the material universe, seeking new ways to enter the physical realm. The Old Ones brought forth new genetically-engineered warrior species to defend their last strongholds, including the technology-mimicking Jokaero and the formidable, green-skinned Krork who were the ancestors of the present day Orks, but it was already too late. The Old Ones' intergalactic Webway network was breached from the Immaterium and lost to them, several of their Warp Gates were destroyed by their own hands to prevent the foul entities of the Warp from spreading to uncorrupted worlds and the Old Ones' greatest works and places of power were overrun by the horrors their own creations had unleashed. 
+
+The most terrifying of these horrors were the Enslavers, Warp entities whose ability to dominate the minds of the younger species and create their own portals into the material realm using mutated, possessed psykers brought them forth in ever greater numbers. For the Old Ones, this was the final disaster as the Enslavers took control of their servants. The Pandora's Box unleashed by the creation of the younger species finally scattered the last of the Old Ones and broke their power over the galaxy once and for all. Life had stood at the edge of an apocalypse during the War in Heaven between the Old Ones and the C'tan. Now as the Enslavers breached the Materium in epidemic proportions, the survivors looked doomed.
+
+Ultimately, beset by the implacable onset of the C'tan and the calamitous Warp-spawned perils they had themselves mistakenly unleashed, the Old Ones were defeated, scattered and finally destroyed. Whether the species went extinct or simply fled the galaxy to seek a new haven elsewhere is unknown.
+
+Silent King's Betrayal
+
+Throughout the final stages of the War in Heaven, Szarekh bided his time, waiting for the moment in which the C'tan would prove most vulnerable. 
+
+Though the entire undying Necron species was now his to command, the Silent King could not hope to oppose the C'tan at the height of their power, and even if he did and met with success, the Necrons would then have to finish the War in Heaven against the Old Ones and their increasingly potent allied warrior species alone. No, the Old Ones had to be completely and utterly defeated before the C'tan could be brought to account for the horror they had wrought among the Necrontyr.
+
+And so, when the C'tan finally won their great war, their triumph was short-lived. With one hated enemy finally defeated, and the other spent from hard-fought victory, the Silent King at last led the Necrons in revolt. In their arrogance, the C'tan did not realise their danger until it was too late. 
+
+The Necrons focused the unimaginable energies of the living universe into weapons, god-killing hypercannons devised by the finest Crypteks in the galaxy, too mighty for even the Star Gods to endure. Not even the great overlords of the Necron crownworlds well remember the battles against the Star Gods, for causality itself was damaged by the forces unleashed to dismember the C'tan, and the Silent King was wont to remove the knowledge of the dreadful weapons employed from his warriors after the fact in fear of what might later be done with them.
+
+Alas, the C'tan were immortal star-spawn, part of the fundamental fabric of reality and therefore nigh-impossible to destroy. So was each C'tan instead sundered into thousands of smaller and less powerful energetic fragments each with the personality of the whole entity, yet this outcome was sufficient to the Silent King's goals. 
+
+Indeed, he had known the C'tan's ultimate destruction to be impossible and had drawn his plans accordingly; each newborn "C'tan Shard" was bound within a multidimensional Tesseract Labyrinth, as tramelled and secured as a legendary Terran djinn trapped in a bottle. Though the cost of victory was high -- millions of Necrons had been destroyed as a consequence of their rebellion, including all of the members of the Triarch save the Silent King himself -- the Necrons were once more in command of their own destiny.
+
+Great Sleep
+
+The Necrons had been vindicated in their pursuit only of science and control over the material realm and certainly took pleasure in seeing the Old Ones' civilisation collapse as a result of their over-indulgence of psychic power and the end of the C'tan's domination over their species. Yet even with the defeat of the Old Ones and the C'tan alike, the Silent King saw that the time of the Necrons in the galaxy was over -- for the moment, at least. They would allow the Enslavers to take what was left of the intelligent life in the galaxy and let it become an interstellar wasteland; the psyker swarm would then die away and in time the galaxy would evolve new lifeforms who would be less sophisticated and easier to dominate. 
+
+In addition, the Necrons understood that the mantle of galactic dominion was soon to pass to the Aeldari, one of the psychically-potent species that had fought alongside the Old Ones throughout the War in Heaven and had thus come to hate the Necrons and all their works with the burning passion that is the defining characteristic of that species. The Aeldari had survived where the Old Ones had not and the Necrons, weakened by their expenditure of lives and resources in overthrowing the rule of the C'tan, could not stand against them. 
+
+Yet the Silent King knew that the time of the Aeldari would eventually pass, as it must pass for all those beings still cloaked in flesh. It would take millions of Terran years for the Aeldari's power to fade, but what mattered is that the Necrons would be there to take advantage of it.
+
+So it was that the Silent King ordered the remaining Necron cities to be transformed into great tomb complexes threaded with stasis-crypts. Let the Aeldari shape the galaxy for a time -- they were but ephemeral, whilst the Necrons were undying and eternal. The Silent King's final command to his people was that they must sleep for the equivalent of 60 million standard years but awake ready to rebuild all that they had lost, to restore the Necron dynasties to their former glory. 
+
+This was the Silent King's final order, and as the last Tomb World sealed its subterranean vaults, Szarekh destroyed the engrammatic command protocols by which he had controlled his people for so long, for he had failed them utterly. Without a backward glance, Szarekh, the last of the Silent Kings of the Triarch, took ship into the starless void of intergalactic space, there to find whatever measure of solace or penance he could.
+
+Meanwhile, aeons passed and the Necrons slept on, their machine slaves and constructs guarding them while they slept on Tomb Worlds that had been purged of all life to keep the Enslavers from their door. This plan worked with an amazing degree of success until the Necrons were awakened by the forces of the Imperium of Man in the 41st Millennium to plague the galaxy once more. They discovered a new and unexpected age of interstellar civilisation and war much like the one they had left behind 60 million standard years before. 
+
+The galaxy is blossoming with life once more but is still overrun with latent psykers and worshippers of the infernal Chaos Warp energies first unleashed during the War in Heaven. It will take time and a great many machinations for the Necron dynasties to regain their rightful place as the rulers of the galaxy; the agents of Chaos must be overthrown; the dangerous Aeldari, inheritors of the Old Ones' mantle, eliminated; Humanity subjugated and the great work cutting off the material universe from the Warp completed before a new age of Necron dominion can truly begin. 
+
+But the Necrons are ageless and undying, their technology still unmatched by any of the younger starfaring species. And time is always on their side...
+
+Videos
+
+File:Warhammer 40,000 Grim Dark Lore Part 36 – The Great Devourer
+
+Sources
+
+Codex: Necrons (3rd Edition), pp. 24-25
+Codex: Necrons (5th Edition), pp. 6-7
+Codex: Necrons (7th Edition), pp. 9, 15, 40, 54, 230, 236, 238, 256
+Codex: Necrons (8th Edition), pp. 69, 100, 113
+The Infinite and The Divine (Novel) by Robert Rath
+White Dwarf 450 (January 2020), "Last of the Silent Kings," pp. 28-33
+
+es:Guerra en el Cielo

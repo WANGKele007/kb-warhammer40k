@@ -1,0 +1,39 @@
+---
+title: "Exorcised"
+pageid: 74137
+url: https://warhammer40k.fandom.com/wiki/Exorcised
+source: fandom-wh40k
+lang: en
+updated: 2017-03-01T05:47:42Z
+---
+
+An Exorcised is a person who has been subjected to a full and invasive possession by a creature of the Warp and then had that entity ripped out of him by the power of faith and ritual. People who have had their body and mind enslaved to a thing from beyond -- and then had that parasite ripped from them -- are left with the withered remnants and deep scars in both mind and soul, and are never the same again. Many die from the shock, and more take their own lives shortly after rather than live with the relics of the possession. However, those who do survive being exorcised and can endure the scars they bear are steeled against the corrupting influences of the Warp, their minds and bodies fortified against further possession. Many who have been exorcised claim to be able to see the smeared traces of corruption around them, to feel the ebb and flow of the Warp nearby, and to hear the thoughts of daemons as maddening whispers in their minds.
+
+Even in a galaxy where the natural order is routinely mocked by warping influences from beyond and rendered near-meaningless to those who suffer each cruel twist of fate, some circumstances have outcomes that are seemingly immutable. Possession by a daemon is such a doom, perhaps the most terrible of any imagined. Though possession nearly always results in the death and eternal damnation of the mortal who is dominated by the daemon, it is not always the case. Some few -- perhaps fortunately, perhaps not -- are freed from their torment as the daemon is cast out of them, only to face lifetimes of horrors remembered from the experience. These rare mortals are constant reminders of the terrors that await Mankind should the Ordo Malleus fail and Chaos triumph.
+
+Role
+
+The process of exorcism is not one commonly undertaken. Instances of full bodily possession are usually so dangerous and potentially corrupting to others that the possessed is simply executed. On occasion members of the Inquisition break with this wisdom and take the risk of performing an exorcism on a possessed subject. Accompanied by Black Priests and chanting choirs of blind and deaf monks, the subject is restrained in a hallowed place amongst symbols of the Emperor's divinity. The exorcism itself is a ritual in which the Exorcists command the daemon to leave by the power of the God-Emperor, and compel the daemon further by naming it with its true name. It is an undertaking fraught with risk to both the Exorcists and the possessed subject: the daemon within will use any means to prevent being cast out, and many who have attempted an exorcism of a powerful daemon have perished or been possessed themselves in the process.
+
+Weakness of spirit, corruption of character, misuse of psychic powers, and befoulment of the body are among the myriad of causes for a crack to appear in a mortal man's defences against the predations of the Warp and those malign entities that dwell therein -- and a crack is all that is needed. Through the veil of the Immaterium, they spy the shadows of the soon-to-be-damned and reach forth into reality to pry apart the crack, widening it until the creatures can spill their foulness wholly into their victims. The process of possession can take solar seconds or standard years. The effects last from a lifetime to an eternity.
+
+A mortal possessed by a daemon is torment made flesh. Destruction surrounds this poor soul and misery follows in his wake. Family, loyalty, and even love of the Emperor are cast aside for the amusement of the daemon. Some daemons delight in blazing a path of destruction as wide and hot as possible. Others attempt to sow the seeds of sorrow through subtle manipulation. Most possessing daemons are banished back to the Warp when found, but some face a different fate -- exorcism. Even should the soul of one who was possessed be reclaimed from Chaos, the horrific process almost always entails a succession of suffering and pain that ends in the blessed release of death. A few do, however, survive the rituals and must begin to walk a dark new path.
+
+Freed from the shackles of subservience to a daemonic master, the Exorcised often finds himself bound by lifelong service to a new cause, short though that life may be. A lucky few select this cause for themselves. They may turn their weakness into a new strength by spending their remaining days as a hunter of daemons and other corrupted souls, or by filling volumes with their knowledge of the malefic so that others might learn to better combat the denizens of the Warp.
+
+For others, the option to choose their own path is denied them. Some are caged and studied, probed psychically and physically in order to find out what flaw left them open to domination. Still others are conscripted to fight against horrors that would terrify any mortal who had not already experienced such a harrowing assault. A few with sufficient strength of will or other useful abilities are indentured to the one who banished the daemon and reclaimed their souls, often an Inquisitor. These are prized Acolytes for some within the Ordo Malleus, especially those of a more Radical bent.
+
+The Exorcised often have insights into the workings of the Warp and its denizens that no other beings have. They have more than stared into the abyss: they have been fused with it, consumed by it, and dragged back from its bowels by the indomitable will of the mightiest of Imperial servants. Secrets known only to daemonkind are theirs to share; concealed plots whispered in their ears are theirs to speak aloud to any who will listen.
+
+This drives many Exorcised mad. The knowledge of their own weakness, a failing that allowed them to be possessed in the first place, competes with memories of the atrocities they committed against cherished loved ones as well as their Emperor -- each vying to be the reason that Exorcised hurl themselves from the highest pinnacle they can find.
+
+Some, their minds comparatively stable, wander the galaxy, using their secret knowledge to their advantage, though always taking care to not reveal its source. They might work as guides for Rogue Traders, revealing hidden paths through dangerous Warp Storms that not even a Navigator may know of. They could act as dowsers for Faceless Traders, verifying the presence of Warp-taint in items. Others might become Witch Hunters, scouring any who display psychic talents before others can invite possession, or use their personal knowledge of the Ruinous Powers to become expert scholars of the malefic.
+
+Some Exorcised can even draw remnants of the daemonic power that inhabited their bodies to probe weak minds, gleaning knowledge that they can sell to interested parties. Many simply seek out a righteous death, throwing themselves into battle as part of Ecclesiarchical penitent forces or Penal Legions.
+
+In the end, though, often their sin threatens to consume them. Their spirits desperate for redemption, they throw themselves into the service of the Emperor they betrayed. These are the Exorcised who make the best candidates to serve the needs of an Inquisitor, but their fervour can make them unreliable. Their need to cling to even the faintest of praise that lets them deaden their pain also leads them to invent mysteries and relate imagined tales of betrayal. An Inquisitor must discern truth from well-meaning lies. He must be able to pluck the essence from the ravings of an Exorcised and put the knowledge gained to use in the purging of Heretics. In the end, he must know when the time has come to utterly sever the lingering connection between mortal shell and otherworldly influence, through hammer, Bolter shell, or flame.
+
+Sources
+
+Dark Heresy: Enemies Beyound (2nd Edition) (RPG), pp. 32-33
+Dark Heresy: Radical's Handbook (RPG), pg. 70
