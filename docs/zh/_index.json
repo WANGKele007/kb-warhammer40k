@@ -1,0 +1,932 @@
+{
+  "source": "wh40knews",
+  "count": 132,
+  "generated_at": "2026-10-15T08:04:55Z",
+  "pages": [
+    {
+      "title": "战锤40k同人小说求大佬轻喷",
+      "slug": "warhammer-remembrancer-vengeful-spirit-lore",
+      "url": "https://wh40knews.com/lore/warhammer-remembrancer-vengeful-spirit-lore",
+      "chars": 3302,
+      "bytes": 8175
+    },
+    {
+      "title": "幻想知乎问题-假如你穿越《战锤40K》，你是什么心情？想法？怎么做？（二版）",
+      "slug": "guilliman-warhammer-40k-alternate-heresy",
+      "url": "https://wh40knews.com/lore/guilliman-warhammer-40k-alternate-heresy",
+      "chars": 2692,
+      "bytes": 6583
+    },
+    {
+      "title": "战锤40K小说剧情硬核解构：太空野狼死斗与修女血肉悲歌",
+      "slug": "warhammer-40k-spacewolves-deathguard-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-spacewolves-deathguard-lore",
+      "chars": 11665,
+      "bytes": 32718
+    },
+    {
+      "title": "《战锤40K：螺旋黎明教派》第十四章解构：神庙血战与救赎星死局",
+      "slug": "warhammer-40k-spiral-dawn-ch14",
+      "url": "https://wh40knews.com/lore/warhammer-40k-spiral-dawn-ch14",
+      "chars": 9727,
+      "bytes": 27207
+    },
+    {
+      "title": "《战锤40K：双鹰》硬核解构：凡人飞行员向死而生的血肉空战",
+      "slug": "warhammer-double-eagle-lore",
+      "url": "https://wh40knews.com/lore/warhammer-double-eagle-lore",
+      "chars": 12301,
+      "bytes": 34526
+    },
+    {
+      "title": "战锤40K小说《黑心：大漩涡之爪》剧情硬核解构：休伦的血肉图腾与虫群绞肉机",
+      "slug": "warhammer-40k-blackheart-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-blackheart-lore",
+      "chars": 6869,
+      "bytes": 18928
+    },
+    {
+      "title": "战锤40K小说解读：帝皇之子血肉狂降与卡舍津绝命跳帮的绝望死斗",
+      "slug": "warhammer-40k-kasrkin-emperors-children",
+      "url": "https://wh40knews.com/lore/warhammer-40k-kasrkin-emperors-children",
+      "chars": 15663,
+      "bytes": 44804
+    },
+    {
+      "title": "战锤40K《卡舍津》小说剧情硬核解构：凡人血肉抗击混沌终结者的绝命悲歌",
+      "slug": "warhammer-40k-kasrkin-chaos-novel",
+      "url": "https://wh40knews.com/lore/warhammer-40k-kasrkin-chaos-novel",
+      "chars": 17430,
+      "bytes": 50410
+    },
+    {
+      "title": "战锤40K灰骑士小说硬核解构：大教堂异化觉醒与亚空间血肉狂欢",
+      "slug": "warhammer-40k-grey-knights-cathedral",
+      "url": "https://wh40knews.com/lore/warhammer-40k-grey-knights-cathedral",
+      "chars": 17203,
+      "bytes": 48793
+    },
+    {
+      "title": "战锤40K小说剧情硬核解构：卡舍津绝地抗击混沌终结者与加韦恩的血肉悲歌",
+      "slug": "warhammer-40k-kasrkin-chaos-battle",
+      "url": "https://wh40knews.com/lore/warhammer-40k-kasrkin-chaos-battle",
+      "chars": 14531,
+      "bytes": 41749
+    },
+    {
+      "title": "《战锤40K：螺旋黎明教派》第十二章硬核解构：封戍要塞陷落与绝命血战",
+      "slug": "warhammer-40k-spiral-dawn-ch12",
+      "url": "https://wh40knews.com/lore/warhammer-40k-spiral-dawn-ch12",
+      "chars": 2832,
+      "bytes": 7188
+    },
+    {
+      "title": "战锤40K小说解读：太空野狼绝地死斗与高层背刺",
+      "slug": "warhammer-spacewolves-lore",
+      "url": "https://wh40knews.com/lore/warhammer-spacewolves-lore",
+      "chars": 10522,
+      "bytes": 29724
+    },
+    {
+      "title": "[战锤40k][小说翻译] 阿里曼：术士 (12.4)",
+      "slug": "warhammer-40k-ahriman-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-ahriman-lore",
+      "chars": 5533,
+      "bytes": 14753
+    },
+    {
+      "title": "《战锤40K：阿萨海姆之血》第22章剧情硬核解构：纳垢神选死斗与亚空间反噬",
+      "slug": "warhammer-blood-of-asaheim-chapter-22",
+      "url": "https://wh40knews.com/lore/warhammer-blood-of-asaheim-chapter-22",
+      "chars": 9878,
+      "bytes": 27643
+    },
+    {
+      "title": "战锤40K：螺旋黎明教派（二）",
+      "slug": "warhammer-genestealer-spiral-dawn-lore",
+      "url": "https://wh40knews.com/lore/warhammer-genestealer-spiral-dawn-lore",
+      "chars": 3988,
+      "bytes": 10170
+    },
+    {
+      "title": "战锤40K小说剧情硬核解构：星际战士极限空降与钢铁勇士要塞死斗",
+      "slug": "warhammer-40k-spacemarine-drop-assault",
+      "url": "https://wh40knews.com/lore/warhammer-40k-spacemarine-drop-assault",
+      "chars": 3524,
+      "bytes": 9030
+    },
+    {
+      "title": "【战锤40k小说翻译】比约恩·断手 序章",
+      "slug": "warhammer-40k-ghost-ship",
+      "url": "https://wh40knews.com/lore/warhammer-40k-ghost-ship",
+      "chars": 7330,
+      "bytes": 18875
+    },
+    {
+      "title": "战锤40K小说解读：兽人氏族内斗与高夫军阀的血肉狂欢",
+      "slug": "warhammer-40k-ork-clan-infighting",
+      "url": "https://wh40knews.com/lore/warhammer-40k-ork-clan-infighting",
+      "chars": 5311,
+      "bytes": 14449
+    },
+    {
+      "title": "【战锤40k】太空野狼小说翻译《阿萨海姆之血》第二十四章",
+      "slug": "warhammer-40k-space-wolves-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-space-wolves-lore",
+      "chars": 7784,
+      "bytes": 21304
+    },
+    {
+      "title": "【战锤40k饮魂者战团小说】饮魂者SOUL DRINKER 第六章（一）",
+      "slug": "warhammer-40k-souldrinkers-lore-breakdown",
+      "url": "https://wh40knews.com/lore/warhammer-40k-souldrinkers-lore-breakdown",
+      "chars": 4066,
+      "bytes": 10574
+    },
+    {
+      "title": "战锤40K螺旋黎明小说终局解构：基因窃取者血肉狂欢与星界军绝地悲歌",
+      "slug": "warhammer-40k-genestealer-novel-ending",
+      "url": "https://wh40knews.com/lore/warhammer-40k-genestealer-novel-ending",
+      "chars": 3169,
+      "bytes": 7906
+    },
+    {
+      "title": "战锤40K小说《史塔肯：英雄之死》剧情解构：卡塔昌硬汉的底巢突围与政委的血肉悲歌",
+      "slug": "warhammer-40k-straken-death",
+      "url": "https://wh40knews.com/lore/warhammer-40k-straken-death",
+      "chars": 3354,
+      "bytes": 8380
+    },
+    {
+      "title": "战锤40K太空野狼比约恩梦境硬核解构：万年无畏的绝望悲歌",
+      "slug": "warhammer-40k-bjorn-dreadnought-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-bjorn-dreadnought-lore",
+      "chars": 3253,
+      "bytes": 8009
+    },
+    {
+      "title": "战锤40K灰骑士小说剧情硬核解构：大教堂觉醒与亚空间血肉狂欢",
+      "slug": "warhammer-40k-grey-knights-lore-5722",
+      "url": "https://wh40knews.com/lore/warhammer-40k-grey-knights-lore-5722",
+      "chars": 9993,
+      "bytes": 27959
+    },
+    {
+      "title": "战锤40K小说解析：圣所101的机械教背刺与墓穴血肉死斗",
+      "slug": "warhammer-40k-sanctuary-101-betrayal",
+      "url": "https://wh40knews.com/lore/warhammer-40k-sanctuary-101-betrayal",
+      "chars": 13573,
+      "bytes": 37488
+    },
+    {
+      "title": "战锤40K每日异端：撕裂审判庭底线的亚空间视觉污染狂欢",
+      "slug": "warhammer-40k-daily-heresy-visuals-7652",
+      "url": "https://wh40knews.com/lore/warhammer-40k-daily-heresy-visuals-7652",
+      "chars": 1562,
+      "bytes": 2970
+    },
+    {
+      "title": "战锤40K小说解析：阿米吉多顿丛林剥皮者与凡人血肉异化",
+      "slug": "warhammer-40k-armageddon-flayers",
+      "url": "https://wh40knews.com/lore/warhammer-40k-armageddon-flayers",
+      "chars": 9584,
+      "bytes": 26788
+    },
+    {
+      "title": "战锤40K小说剧情解构：阿米吉多顿丛林绞肉机与星界军异化悲歌",
+      "slug": "warhammer-40k-flayers-novel-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-flayers-novel-lore",
+      "chars": 3938,
+      "bytes": 10320
+    },
+    {
+      "title": "战锤40K死亡守望小说尾声解构：星际战士的混血悲歌与原团隔阂",
+      "slug": "warhammer-40k-deathwatch-epilogue",
+      "url": "https://wh40knews.com/lore/warhammer-40k-deathwatch-epilogue",
+      "chars": 3725,
+      "bytes": 9540
+    },
+    {
+      "title": "《战锤40K》死亡守望小说尾声解析：星际战士的混血异化与绝命归乡",
+      "slug": "warhammer-40k-deathwatch-epilogue-analysis",
+      "url": "https://wh40knews.com/lore/warhammer-40k-deathwatch-epilogue-analysis",
+      "chars": 3600,
+      "bytes": 9253
+    },
+    {
+      "title": "战锤40K小说《饮魂者》海战硬核解构：亚空间死局与降维打击",
+      "slug": "warhammer-40k-souldrinkers-space-battle",
+      "url": "https://wh40knews.com/lore/warhammer-40k-souldrinkers-space-battle",
+      "chars": 10198,
+      "bytes": 27767
+    },
+    {
+      "title": "战锤40K《饮魂者》小说硬核解构：亚空间绝地救援与审判庭的傲慢代价",
+      "slug": "warhammer-souldrinkers-rescue-lore-analysis",
+      "url": "https://wh40knews.com/lore/warhammer-souldrinkers-rescue-lore-analysis",
+      "chars": 9968,
+      "bytes": 27584
+    },
+    {
+      "title": "战锤40K小说饮魂者剧情解构：审判庭傲慢死局与亚空间舰队反杀",
+      "slug": "warhammer-souldrinkers-rescue-lore",
+      "url": "https://wh40knews.com/lore/warhammer-souldrinkers-rescue-lore",
+      "chars": 10527,
+      "bytes": 28775
+    },
+    {
+      "title": "战锤40K硬核小说解构：领航者暗网博弈与邪教血肉狂欢",
+      "slug": "warhammer-40k-navigator-chaos-cult",
+      "url": "https://wh40knews.com/lore/warhammer-40k-navigator-chaos-cult",
+      "chars": 4699,
+      "bytes": 12425
+    },
+    {
+      "title": "战锤40K小说解析：领航者权斗与邪教的血肉狂欢",
+      "slug": "warhammer-40k-navigator-cult-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-navigator-cult-lore",
+      "chars": 4519,
+      "bytes": 11852
+    },
+    {
+      "title": "战锤40K硬核剧情解构：领航者权斗背刺与亚空间邪教血肉狂欢",
+      "slug": "warhammer-40k-navigator-warp-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-navigator-warp-lore",
+      "chars": 5065,
+      "bytes": 13448
+    },
+    {
+      "title": "【战锤40k】LEX翻译：掠夺者",
+      "slug": "warhammer-40k-harpax-swarmer",
+      "url": "https://wh40knews.com/lore/warhammer-40k-harpax-swarmer",
+      "chars": 1959,
+      "bytes": 4168
+    },
+    {
+      "title": "【战锤40k】LEX翻译：剥皮者",
+      "slug": "warhammer-flayed-ones-lore",
+      "url": "https://wh40knews.com/lore/warhammer-flayed-ones-lore",
+      "chars": 2264,
+      "bytes": 5312
+    },
+    {
+      "title": "【战锤40k】LEX翻译：灾祸魔机",
+      "slug": "warhammer-40k-woe-machine",
+      "url": "https://wh40knews.com/lore/warhammer-40k-woe-machine",
+      "chars": 2120,
+      "bytes": 4844
+    },
+    {
+      "title": "【战锤40k】LEX翻译：追踪坦克",
+      "slug": "warhammer-40k-stalk-tank-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-stalk-tank-lore",
+      "chars": 2240,
+      "bytes": 5095
+    },
+    {
+      "title": "【战锤40k】LEX翻译：乌尔夫海姆之战",
+      "slug": "warhammer-40k-ulvheim-battle",
+      "url": "https://wh40knews.com/lore/warhammer-40k-ulvheim-battle",
+      "chars": 2272,
+      "bytes": 5334
+    },
+    {
+      "title": "【战锤40k】LEX翻译：虚无立场",
+      "slug": "warhammer-40k-null-field-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-null-field-lore",
+      "chars": 3083,
+      "bytes": 6179
+    },
+    {
+      "title": "【战锤40k】LEX翻译：斯维诺塔尔侦查摩托",
+      "slug": "svenotar-scout-trike-necromunda",
+      "url": "https://wh40knews.com/lore/svenotar-scout-trike-necromunda",
+      "chars": 2464,
+      "bytes": 5674
+    },
+    {
+      "title": "【战锤40k】 - 猛禽战团（Raptors）",
+      "slug": "warhammer-40k-raptors-chapter-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-raptors-chapter-lore",
+      "chars": 3336,
+      "bytes": 8270
+    },
+    {
+      "title": "【战锤40k】LEX翻译：日冕爆炎枪",
+      "slug": "solar-atomiser-cawl-weapon",
+      "url": "https://wh40knews.com/lore/solar-atomiser-cawl-weapon",
+      "chars": 1813,
+      "bytes": 3833
+    },
+    {
+      "title": "战锤40K第二军团硬核解构：泯灭者军团的无情杀戮与亚空间狂欢",
+      "slug": "warhammer-40k-second-legion",
+      "url": "https://wh40knews.com/lore/warhammer-40k-second-legion",
+      "chars": 2315,
+      "bytes": 5335
+    },
+    {
+      "title": "战锤40K红海盗短篇《吾辈曾同袍》硬核解构：巴达布背刺与血肉狂欢",
+      "slug": "warhammer-40k-we-were-brethren",
+      "url": "https://wh40knews.com/lore/warhammer-40k-we-were-brethren",
+      "chars": 15208,
+      "bytes": 43536
+    },
+    {
+      "title": "战锤40K灵魂研磨者硬核解构：撕裂现实的混沌钢铁巨兽",
+      "slug": "warhammer-40k-soul-grinder",
+      "url": "https://wh40knews.com/lore/warhammer-40k-soul-grinder",
+      "chars": 2154,
+      "bytes": 5030
+    },
+    {
+      "title": "战锤40K电弧鞭硬核考据：撕裂载具的火星电磁绞肉机",
+      "slug": "warhammer-40k-arc-scourge",
+      "url": "https://wh40knews.com/lore/warhammer-40k-arc-scourge",
+      "chars": 2194,
+      "bytes": 4476
+    },
+    {
+      "title": "战锤40K死灵战镰硬核解构：活金属重构近战神话与人死镰存的黑色幽默",
+      "slug": "warhammer-40k-necron-warscythe",
+      "url": "https://wh40knews.com/lore/warhammer-40k-necron-warscythe",
+      "chars": 1847,
+      "bytes": 4093
+    },
+    {
+      "title": "战锤40K埃松重型哨兵硬核解构：大远征时代的凡人重甲狂飙悲歌",
+      "slug": "warhammer-40k-aethon-sentinel",
+      "url": "https://wh40knews.com/lore/warhammer-40k-aethon-sentinel",
+      "chars": 2015,
+      "bytes": 4440
+    },
+    {
+      "title": "战锤40K赫尔墨斯轻型哨兵硬核解构：大远征时代的凡人机动绞肉机",
+      "slug": "warhammer-hermes-sentinel-lore",
+      "url": "https://wh40knews.com/lore/warhammer-hermes-sentinel-lore",
+      "chars": 1854,
+      "bytes": 3987
+    },
+    {
+      "title": "战锤40K官方小说揭秘：死亡守望的冷血任务与凡人矿工的绝望悲歌",
+      "slug": "warhammer-40k-deathwatch-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-deathwatch-lore",
+      "chars": 4769,
+      "bytes": 12759
+    },
+    {
+      "title": "战锤40K小说《火心》硬核解构：死神军与萨姆罕的惧亡者墓穴喋血",
+      "slug": "warhammer-40k-fireheart-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-fireheart-lore",
+      "chars": 13192,
+      "bytes": 37619
+    },
+    {
+      "title": "战锤40K小说剧情硬核解构：智库灵能碾压与怀言者的亚空间驯兽死局",
+      "slug": "warhammer-40k-word-bearers-lore-3273",
+      "url": "https://wh40knews.com/lore/warhammer-40k-word-bearers-lore-3273",
+      "chars": 2448,
+      "bytes": 5697
+    },
+    {
+      "title": "战锤40K小说先知第二章解析：贾克的偏执幻象与亚空间梦魇",
+      "slug": "warhammer-40k-farseer-chapter-two",
+      "url": "https://wh40knews.com/lore/warhammer-40k-farseer-chapter-two",
+      "chars": 2515,
+      "bytes": 5398
+    },
+    {
+      "title": "战锤40K星际战士贝彻腺体硬核解构",
+      "slug": "warhammer-40k-betchers-gland",
+      "url": "https://wh40knews.com/lore/warhammer-40k-betchers-gland",
+      "chars": 4827,
+      "bytes": 12455
+    },
+    {
+      "title": "战锤40K《指挥之声》第一章剧情解构与凡人绞肉机悲歌",
+      "slug": "warhammer-40k-voice-command-ch1",
+      "url": "https://wh40knews.com/lore/warhammer-40k-voice-command-ch1",
+      "chars": 11790,
+      "bytes": 30731
+    },
+    {
+      "title": "战锤40K金牛装甲运输车硬核解构：大远征与叛乱时代的凡人重甲绞肉机",
+      "slug": "aurox-armoured-transport-lore",
+      "url": "https://wh40knews.com/lore/aurox-armoured-transport-lore",
+      "chars": 1810,
+      "bytes": 3934
+    },
+    {
+      "title": "战锤40K灰骑士智库硬核设定解析",
+      "slug": "warhammer-40k-grey-knights-librarian",
+      "url": "https://wh40knews.com/lore/warhammer-40k-grey-knights-librarian",
+      "chars": 2194,
+      "bytes": 5167
+    },
+    {
+      "title": "战锤40K食肉兽坦克硬核考据：从大远征神坛到大裂隙挖坟的钢铁悲歌",
+      "slug": "warhammer-carnodon-tank-lore",
+      "url": "https://wh40knews.com/lore/warhammer-carnodon-tank-lore",
+      "chars": 1996,
+      "bytes": 4545
+    },
+    {
+      "title": "战锤40K暴君军团辅助军硬核解构：凡人躯体比肩阿斯塔特的血肉奇迹与极端美学",
+      "slug": "warhammer-tyrant-legion-lore",
+      "url": "https://wh40knews.com/lore/warhammer-tyrant-legion-lore",
+      "chars": 2426,
+      "bytes": 5724
+    },
+    {
+      "title": "战锤40K硬核战力解构：西幻暗影大帝魂穿绝望银河能活几秒？",
+      "slug": "warhammer-40k-shadow-emperor-survival",
+      "url": "https://wh40knews.com/lore/warhammer-40k-shadow-emperor-survival",
+      "chars": 1982,
+      "bytes": 4300
+    },
+    {
+      "title": "战锤40K小说《指挥之声》第二章硬核解构：亚空间蓝星下的绝地血肉绞肉机",
+      "slug": "warhammer-40k-voice-command-ch2",
+      "url": "https://wh40knews.com/lore/warhammer-40k-voice-command-ch2",
+      "chars": 9718,
+      "bytes": 26367
+    },
+    {
+      "title": "战锤40K黎曼鲁斯巨蛛考据：八足装甲巨兽的异端机械绝唱",
+      "slug": "warhammer-leman-russ-arachnos",
+      "url": "https://wh40knews.com/lore/warhammer-leman-russ-arachnos",
+      "chars": 1777,
+      "bytes": 3575
+    },
+    {
+      "title": "战锤40K转换力场硬核解构：将等离子烈焰化作致盲圣光的帝国绝命保命神装",
+      "slug": "warhammer-40k-conversion-field",
+      "url": "https://wh40knews.com/lore/warhammer-40k-conversion-field",
+      "chars": 2399,
+      "bytes": 4798
+    },
+    {
+      "title": "战锤40K瓦尔多坦克歼击车硬核解构：黑暗科技时代的残响与帝国重甲悲歌",
+      "slug": "valdor-tank-hunter-lore",
+      "url": "https://wh40knews.com/lore/valdor-tank-hunter-lore",
+      "chars": 2416,
+      "bytes": 5781
+    },
+    {
+      "title": "战锤40K天龙座装甲运输车硬核考据：凡人精锐的重甲绞肉机",
+      "slug": "warhammer-40k-dracosan-transport",
+      "url": "https://wh40knews.com/lore/warhammer-40k-dracosan-transport",
+      "chars": 2060,
+      "bytes": 4488
+    },
+    {
+      "title": "战锤40K灵族先知硬核解构：逆天改命的亚空间微操大师与晶体化悲歌",
+      "slug": "warhammer-40k-farseer-lore-5167",
+      "url": "https://wh40knews.com/lore/warhammer-40k-farseer-lore-5167",
+      "chars": 2598,
+      "bytes": 6263
+    },
+    {
+      "title": "战锤40K阿维鲁斯驳船硬核解构：撕裂帝国后勤防线的飞猪巨兽",
+      "slug": "warhammer-40k-arvus-lighter",
+      "url": "https://wh40knews.com/lore/warhammer-40k-arvus-lighter",
+      "chars": 2698,
+      "bytes": 6478
+    },
+    {
+      "title": "战锤40K乌尔夫海姆历史解构：狼矛战团的崛起与深坑血战",
+      "slug": "warhammer-40k-ulvheim-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-ulvheim-lore",
+      "chars": 1991,
+      "bytes": 4314
+    },
+    {
+      "title": "战锤40K隐私立场设定解构：帝国权贵的绝密遮羞布与大贤者的防窃听黑科技。",
+      "slug": "warhammer-40k-privacy-field-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-privacy-field-lore",
+      "chars": 1964,
+      "bytes": 4391
+    },
+    {
+      "title": "战锤40K欧姆尼赛亚之斧硬核解构：机械教的动力绞肉机与绝命信仰",
+      "slug": "warhammer-40k-omnissian-axe-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-omnissian-axe-lore",
+      "chars": 2297,
+      "bytes": 5330
+    },
+    {
+      "title": "战锤40K机械附肢硬核考据：撕裂血肉的机械教仿生触手与绝命造物",
+      "slug": "warhammer-40k-mechadendrite-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-mechadendrite-lore",
+      "chars": 2636,
+      "bytes": 6252
+    },
+    {
+      "title": "战锤40K《螺旋黎明教派》剧情解构：基因窃取者暗影渗透与修女悲歌",
+      "slug": "warhammer-40k-genestealer-cult-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-genestealer-cult-lore",
+      "chars": 4553,
+      "bytes": 11897
+    },
+    {
+      "title": "战锤40K亚空间大博弈硬核解构：混沌内耗绞肉机与黄金时代绝望挽歌",
+      "slug": "warhammer-40k-chaos-warp-great-game",
+      "url": "https://wh40knews.com/lore/warhammer-40k-chaos-warp-great-game",
+      "chars": 2526,
+      "bytes": 5900
+    },
+    {
+      "title": "战锤40K混沌大博弈与人类帝国残酷法则硬核解构",
+      "slug": "warhammer-40k-chaos-game",
+      "url": "https://wh40knews.com/lore/warhammer-40k-chaos-game",
+      "chars": 2525,
+      "bytes": 6055
+    },
+    {
+      "title": "《战锤40K》狱锤坦克硬核解构：撕裂巢都防线的帝国巷战绞肉机",
+      "slug": "warhammer-40k-hellhammer-tank",
+      "url": "https://wh40knews.com/lore/warhammer-40k-hellhammer-tank",
+      "chars": 2207,
+      "bytes": 5071
+    },
+    {
+      "title": "战锤40K阿卡西与奥米尼科佩亚硬核解构：机械教的知识梦魇",
+      "slug": "warhammer-40k-akashic-omniscopia-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-akashic-omniscopia-lore",
+      "chars": 3663,
+      "bytes": 7018
+    },
+    {
+      "title": "战锤40K每日异端视觉狂欢：撕裂帝国底线的亚空间污染大赏",
+      "slug": "warhammer-40k-daily-heresy-visual-showcase",
+      "url": "https://wh40knews.com/lore/warhammer-40k-daily-heresy-visual-showcase",
+      "chars": 1634,
+      "bytes": 3426
+    },
+    {
+      "title": "战锤40K废案解构：贤者血脉与光照会的黄金王座惊天血肉骗局",
+      "slug": "warhammer-40k-sensei-illuminati-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-sensei-illuminati-lore",
+      "chars": 2848,
+      "bytes": 6968
+    },
+    {
+      "title": "战锤40K小说《指挥之声》第三章硬核解构：卡迪亚防线崩溃与兵变危机",
+      "slug": "warhammer-voice-of-command-ch3",
+      "url": "https://wh40knews.com/lore/warhammer-voice-of-command-ch3",
+      "chars": 10785,
+      "bytes": 30198
+    },
+    {
+      "title": "战锤40K恸哭者战团硬核解构：背负血脉原罪的星海悲歌与绝命绞肉机",
+      "slug": "warhammer-40k-lamenters-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-lamenters-lore",
+      "chars": 2986,
+      "bytes": 7529
+    },
+    {
+      "title": "《战锤40K》咆哮狮鹫战团硬核解构：极限战士血脉下的誓言狂徒与亚空间血肉绞肉机",
+      "slug": "warhammer-40k-howling-griffons-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-howling-griffons-lore",
+      "chars": 3256,
+      "bytes": 7981
+    },
+    {
+      "title": "战锤40K驱魔人战团硬核解构：全员恶魔附身与帝拳血脉的绝望狂欢",
+      "slug": "warhammer-40k-exorcists-chapter",
+      "url": "https://wh40knews.com/lore/warhammer-40k-exorcists-chapter",
+      "chars": 4392,
+      "bytes": 11259
+    },
+    {
+      "title": "战锤40K赫克托耳·雷克斯考据：凡人躯体硬刚终结者训练的武装解构",
+      "slug": "warhammer-40k-hector-rex",
+      "url": "https://wh40knews.com/lore/warhammer-40k-hector-rex",
+      "chars": 2746,
+      "bytes": 6628
+    },
+    {
+      "title": "战锤40K剥皮者病毒剧情解构：星神诅咒与死灵的血肉狂欢",
+      "slug": "warhammer-40k-flayer-virus-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-flayer-virus-lore",
+      "chars": 2485,
+      "bytes": 5767
+    },
+    {
+      "title": "战锤40K小说《信仰楷模》剧情解析：玛塞拉修女的血肉救赎与狂怒博弈",
+      "slug": "warhammer-paragon-faith-marcella-lore",
+      "url": "https://wh40knews.com/lore/warhammer-paragon-faith-marcella-lore",
+      "chars": 12031,
+      "bytes": 33572
+    },
+    {
+      "title": "战锤40K马克拉格血肉绞肉机：卡尔加惨胜虫群领主的绝地悲歌与冷钢脊沦陷始末",
+      "slug": "warhammer-macragge-calgar-battle",
+      "url": "https://wh40knews.com/lore/warhammer-macragge-calgar-battle",
+      "chars": 2642,
+      "bytes": 6420
+    },
+    {
+      "title": "《战锤40K》地狱追猎者硬核解构：榨干机魂的亚空间绝命寄生体",
+      "slug": "warhammer-helstalkers-lore-analysis",
+      "url": "https://wh40knews.com/lore/warhammer-helstalkers-lore-analysis",
+      "chars": 1733,
+      "bytes": 3675
+    },
+    {
+      "title": "战锤40K火天使战团全解构：新生代的银甲狂信徒",
+      "slug": "warhammer-40k-fire-angels",
+      "url": "https://wh40knews.com/lore/warhammer-40k-fire-angels",
+      "chars": 2454,
+      "bytes": 5797
+    },
+    {
+      "title": "战锤40K处刑者战团硬核解构：背负血债的猎头狂人与原铸涅槃之路",
+      "slug": "warhammer-executioners-chapter-lore",
+      "url": "https://wh40knews.com/lore/warhammer-executioners-chapter-lore",
+      "chars": 3671,
+      "bytes": 9212
+    },
+    {
+      "title": "战锤40K风暴剑超重型坦克硬核解构：撕裂巢都防线的钢铁绞肉机",
+      "slug": "warhammer-40k-stormsword-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-stormsword-lore",
+      "chars": 2935,
+      "bytes": 6929
+    },
+    {
+      "title": "战锤40K风暴锤坦克硬核解构：碾碎死亡世界的帝国超重型钢铁巨兽",
+      "slug": "warhammer-40k-stormhammer-tank",
+      "url": "https://wh40knews.com/lore/warhammer-40k-stormhammer-tank",
+      "chars": 1829,
+      "bytes": 4093
+    },
+    {
+      "title": "战锤40K霹雳重型战斗机硬核解构：服役万年的帝国空中绞肉机与凡人悲歌",
+      "slug": "warhammer-thunderbolt-fighter-lore",
+      "url": "https://wh40knews.com/lore/warhammer-thunderbolt-fighter-lore",
+      "chars": 2254,
+      "bytes": 5307
+    },
+    {
+      "title": "战锤40K复仇者打击战斗机硬核考据：撕裂异端重甲的帝国绝地绞肉机与修女信仰之翼",
+      "slug": "warhammer-avenger-strike-fighter",
+      "url": "https://wh40knews.com/lore/warhammer-avenger-strike-fighter",
+      "chars": 2172,
+      "bytes": 4931
+    },
+    {
+      "title": "战锤40K小说剧情硬核解构：香达巴朝圣暴乱与基因窃取者暗影",
+      "slug": "warhammer-40k-arbites-riot-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-arbites-riot-lore",
+      "chars": 13229,
+      "bytes": 36921
+    },
+    {
+      "title": "战锤40K马克拉格血肉绞肉机：卡尔加死斗虫群领主与毒刃坦克陨落",
+      "slug": "warhammer-macragge-tyranid-battle-lore",
+      "url": "https://wh40knews.com/lore/warhammer-macragge-tyranid-battle-lore",
+      "chars": 2561,
+      "bytes": 6373
+    },
+    {
+      "title": "战锤40K黎曼鲁斯坦克硬核解构：帝国卫队重甲绞肉机与异端改件全考据",
+      "slug": "warhammer-40k-leman-russ",
+      "url": "https://wh40knews.com/lore/warhammer-40k-leman-russ",
+      "chars": 4163,
+      "bytes": 10142
+    },
+    {
+      "title": "战锤40K折射立场硬核解构：伪装成珠宝的微型保命神装与帝国特权",
+      "slug": "warhammer-refractor-field-lore",
+      "url": "https://wh40knews.com/lore/warhammer-refractor-field-lore",
+      "chars": 2018,
+      "bytes": 4516
+    },
+    {
+      "title": "战锤40K记忆抹消硬核解构：帝国残酷洗脑协议与凡人老兵的绝望悲歌",
+      "slug": "warhammer-40k-mind-wipe-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-mind-wipe-lore",
+      "chars": 2399,
+      "bytes": 5521
+    },
+    {
+      "title": "战锤40K小说《饮魂者》第七章硬核解构：萨尔佩冬的异变与血肉狂欢",
+      "slug": "warhammer-40k-souldrinkers-chapter7",
+      "url": "https://wh40knews.com/lore/warhammer-40k-souldrinkers-chapter7",
+      "chars": 3879,
+      "bytes": 9919
+    },
+    {
+      "title": "战锤40K小说《指挥之声》第四章剧情解构：凡人将领的后勤死局与国教神父的亚空间堕落",
+      "slug": "warhammer-40k-voice-command",
+      "url": "https://wh40knews.com/lore/warhammer-40k-voice-command",
+      "chars": 11355,
+      "bytes": 30845
+    },
+    {
+      "title": "战锤40K混沌无畏硬核解构：从帝国荣光到亚空间血肉绞肉机的绝命悲歌",
+      "slug": "warhammer-chaos-dreadnought-lore",
+      "url": "https://wh40knews.com/lore/warhammer-chaos-dreadnought-lore",
+      "chars": 2543,
+      "bytes": 6067
+    },
+    {
+      "title": "战锤40K伺服颅骨硬核解构：死后依然被压榨的帝国齿轮",
+      "slug": "warhammer-40k-servo-skull-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-servo-skull-lore",
+      "chars": 2517,
+      "bytes": 6070
+    },
+    {
+      "title": "战锤40K独眼巨人爆破载具硬核解构：撕裂帝国防线的遥控绞肉机与凡人悲歌",
+      "slug": "warhammer-cyclops-demolition-vehicle",
+      "url": "https://wh40knews.com/lore/warhammer-cyclops-demolition-vehicle",
+      "chars": 2230,
+      "bytes": 5235
+    },
+    {
+      "title": "战锤40K等离子反应堆硬核解构：帝国能源体系的绝望绞肉机与狂暴巨兽",
+      "slug": "warhammer-40k-plasma-reactor-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-plasma-reactor-lore",
+      "chars": 1737,
+      "bytes": 3870
+    },
+    {
+      "title": "战锤40K硬核解构：40种亚空间本质具现与超能力狂欢",
+      "slug": "warhammer-40k-warp-essences-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-warp-essences-lore",
+      "chars": 4158,
+      "bytes": 10231
+    },
+    {
+      "title": "战锤40K闪电战斗机硬核考据：以极高机动性撕裂苍穹的空优绞肉机与帝国王牌战机谱系。",
+      "slug": "warhammer-lightning-fighter-lore",
+      "url": "https://wh40knews.com/lore/warhammer-lightning-fighter-lore",
+      "chars": 2921,
+      "bytes": 7313
+    },
+    {
+      "title": "战锤40K毒刃坦克硬核解构：碾碎异端的帝国超重型绞肉机与亚空间死局",
+      "slug": "warhammer-40k-baneblade-tank-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-baneblade-tank-lore",
+      "chars": 4648,
+      "bytes": 12130
+    },
+    {
+      "title": "战锤40K螳螂勇士战团硬核考据：从大漩涡守卫到帝国弃子的喋血悲歌",
+      "slug": "warhammer-40k-mantis-warriors",
+      "url": "https://wh40knews.com/lore/warhammer-40k-mantis-warriors",
+      "chars": 3435,
+      "bytes": 8572
+    },
+    {
+      "title": "战锤40K鲨鱼突击艇硬核考据：撕裂星海防线的帝国绝命巨兽",
+      "slug": "warhammer-shark-assault-boat",
+      "url": "https://wh40knews.com/lore/warhammer-shark-assault-boat",
+      "chars": 1833,
+      "bytes": 4090
+    },
+    {
+      "title": "战锤40K不屈远征失败真相解构",
+      "slug": "warhammer-indomitus-crusade-analysis",
+      "url": "https://wh40knews.com/lore/warhammer-indomitus-crusade-analysis",
+      "chars": 2877,
+      "bytes": 6883
+    },
+    {
+      "title": "战锤40K考据：从混沌魔域到黄金王座的绝对理性解构",
+      "slug": "warhammer-40k-chaos-emperor-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-chaos-emperor-lore",
+      "chars": 2894,
+      "bytes": 6772
+    },
+    {
+      "title": "战锤40K战术硬核解构：全平台狂欢与阵营博弈大揭秘",
+      "slug": "warhammer-tacticus-faction-analysis",
+      "url": "https://wh40knews.com/lore/warhammer-tacticus-faction-analysis",
+      "chars": 1875,
+      "bytes": 4215
+    },
+    {
+      "title": "战锤40K小说解析：卡迪亚陷落后的防线撕裂与底巢绞肉机悲歌",
+      "slug": "warhammer-40k-voice-command-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-voice-command-lore",
+      "chars": 3386,
+      "bytes": 8303
+    },
+    {
+      "title": "星际战士：银河最强战力的血肉史诗",
+      "slug": "warhammer-40k-space-marine-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-space-marine-lore",
+      "chars": 9461,
+      "bytes": 26967
+    },
+    {
+      "title": "战锤40K咒缚军团硬核考据：火鹰战团绝境重生与亚空间绞肉机",
+      "slug": "warhammer-40k-legion-damned-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-legion-damned-lore",
+      "chars": 4740,
+      "bytes": 12748
+    },
+    {
+      "title": "火鹰战团：从忠诚派杀神到咒缚军团的血肉悲歌",
+      "slug": "warhammer-40k-fire-hawks",
+      "url": "https://wh40knews.com/lore/warhammer-40k-fire-hawks",
+      "chars": 4893,
+      "bytes": 13118
+    },
+    {
+      "title": "战锤40K考据：巴洛克音乐家巴赫如何征服机械神教与异形阵营",
+      "slug": "warhammer-40k-bach-music-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-bach-music-lore",
+      "chars": 2605,
+      "bytes": 4931
+    },
+    {
+      "title": "战锤40K战斗刀硬核考据：从凡人求生刺刀到星际战士的终极肉搏底牌",
+      "slug": "warhammer-40k-combat-blades-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-combat-blades-lore",
+      "chars": 1989,
+      "bytes": 4422
+    },
+    {
+      "title": "战锤40K风暴军刀硬核考据：装载星舰巨炮的移动要塞",
+      "slug": "warhammer-40k-stormsabre-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-stormsabre-lore",
+      "chars": 1712,
+      "bytes": 3532
+    },
+    {
+      "title": "战锤40K卡塔昌刀硬核解构：撕裂丛林的凡人血肉兵器",
+      "slug": "warhammer-40k-catachan-knives-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-catachan-knives-lore",
+      "chars": 2577,
+      "bytes": 5882
+    },
+    {
+      "title": "战锤40K跨音武器硬核考据：撕裂装甲的低频梦魇",
+      "slug": "warhammer-40k-transonic-weapons",
+      "url": "https://wh40knews.com/lore/warhammer-40k-transonic-weapons",
+      "chars": 2728,
+      "bytes": 5134
+    },
+    {
+      "title": "战锤40K禁忌造物次级考尔硬核解构：僭越AI红线的血肉通讯录",
+      "slug": "warhammer-40k-cawl-inferior-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-cawl-inferior-lore",
+      "chars": 2990,
+      "bytes": 7293
+    },
+    {
+      "title": "战锤40K硬核解构：卡迪亚领主堡主克里德的绝地悲歌与战术神话",
+      "slug": "warhammer-40k-creed-lore-analysis",
+      "url": "https://wh40knews.com/lore/warhammer-40k-creed-lore-analysis",
+      "chars": 3440,
+      "bytes": 8544
+    },
+    {
+      "title": "绝地潜兵2与战锤40K底层世界观撕裂全解构",
+      "slug": "helldivers-warhammer-lore-comparison",
+      "url": "https://wh40knews.com/lore/helldivers-warhammer-lore-comparison",
+      "chars": 3069,
+      "bytes": 7549
+    },
+    {
+      "title": "《战锤40K》天鹰终结者实锤空降，新圣典重塑禁军数值神话",
+      "slug": "warhammer-40k-custodes-terminators",
+      "url": "https://wh40knews.com/lore/warhammer-40k-custodes-terminators",
+      "chars": 2299,
+      "bytes": 5323
+    },
+    {
+      "title": "战锤40K死灵霸主与法皇设定硬核解构",
+      "slug": "warhammer-40k-necron-overlords-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-necron-overlords-lore",
+      "chars": 2188,
+      "bytes": 5055
+    },
+    {
+      "title": "战锤40K死亡守卫硬核万字解析：从黄昏突袭者到纳垢化粪池的绝望堕落史",
+      "slug": "warhammer-40k-death-guard-lore",
+      "url": "https://wh40knews.com/lore/warhammer-40k-death-guard-lore",
+      "chars": 4207,
+      "bytes": 11048
+    },
+    {
+      "title": "战锤40K网道硬核解构：撕裂亚空间与现实的时空迷宫",
+      "slug": "warhammer-40k-webway-lore-9259",
+      "url": "https://wh40knews.com/lore/warhammer-40k-webway-lore-9259",
+      "chars": 1922,
+      "bytes": 4289
+    },
+    {
+      "title": "战锤40K硬核小说巨匠揭秘：缔造绝望宇宙的幕后黑手",
+      "slug": "warhammer-black-library-authors",
+      "url": "https://wh40knews.com/lore/warhammer-black-library-authors",
+      "chars": 2324,
+      "bytes": 5435
+    }
+  ],
+  "failed": []
+}

@@ -1,0 +1,32 @@
+# https://wh40knews.com/robots.txt
+# 2026-10-15T08:02:26Z
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login/
+Disallow: /.well-known/apple-app-site-association
+Disallow: /cdn-cgi/
+
+Sitemap: https://wh40knews.com/sitemap.xml
