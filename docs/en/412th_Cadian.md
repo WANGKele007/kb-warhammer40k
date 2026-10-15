@@ -1,0 +1,28 @@
+---
+title: "412th Cadian"
+pageid: 2669
+url: https://warhammer40k.fandom.com/wiki/412th_Cadian
+source: fandom-wh40k
+lang: en
+updated: 2016-08-18T06:31:13Z
+---
+
+The 412th Cadian is a regiment of the Imperial Guard's Cadian Shock Troops raised from the Fortress World of Cadia. The 412th is the Imperial Guard regiment that fought on the Ice World of Lorn V in Dawn of War: Winter Assault under the command of General Sturnn.
+
+History
+
+The 412th Cadian Regiment participated in the Imperial campaign on Lorn V under the command of General Sturnn. General Sturnn and the 412th Regiment landed on Lorn V, an Ice World ruled by Chaos Space Marines from the World Eaters Traitor Legion's warband known as the Blood Legion of Khorne and indigenous Orks led by the Warboss Gorgutz. The 412th Cadian intended to assist the Ultramarines already on Lorn V in escorting a crew from the Collegia Titanica to recover the Imperator-class Titan Dominatus, a massive and powerful humanoid war engine from the time of the Horus Heresy. The Dominatus was a potent war machine, one powerful enough to turn the tide of an entire war single-handedly. Built over 10,000 standard years before, the construction of an Emperor Titan was an enormous undertaking requiring the efforts of many Forge Worlds, and any Titans found in the wider galaxy left from the days of the Horus Heresy were considered treasured relics of the Imperium. Though the Imperial Guard's beachhead stalled trying to retake the Planetary Defence Fortress from the Forces of Chaos, the Eldar of Craftworld Ulthwe secretly assisted the 412th and disabled the gate preventing their progress. Eventually the troops of the 412th rescued the trapped Ultramarines and the Titan crew, and began the long trek through hostile territory to reach the disabled Titan.
+
+The Ulthwe Eldar, led by their Farseer Taldeer, did everything in their power to ensure their presence remained unknown, but when an Ork Mekboy with unique technology capable of sensing their teleportation appeared, they were forced to reveal their presence, destroy the Ork, and teleport away. Too badly damaged to accomplish their original goals following their combat with the Orks, Taldeer was forced to reveal herself and openly ask Sturnn for assistance. Sturnn agreed, and the Orks were defeated by the stubborn Imperial/Eldar defence.
+
+In the aftermath of the combat against the Greenskins, Taldeer revealed that she cared little about recovering the Titan, but instead her goal was the destruction of the Necrons who hibernated underneath the planet's frozen surface, for Lorn V was also a Necron Tomb World. Over 60 million standard years before, the ancient xenos species known as the Necrons had chosen to hibernate deep beneath their Tomb Worlds across the galaxy for millions of years during the period known as the Great Sleep. Taldeer explained that she could not allow the Necrons to escape from Lorn V, because if they did, they would cause untold damage to the surrounding star systems and potentially to her own Craftworld before being stopped. The two factions allied momentarily, but both knew their different objectives would eventually lead to acrimony.
+
+General Sturnn later assisted the Ultramarines and their leader Chaplain Varnus in escorting the Titan's crew past the uneasy alliance of Orks and the World Eaters warband on Lorn V. Fighting through heavy resistance, the Imperials lead the crew to the safety of a waiting psychic shield, preventing their enemies from following them directly to the Titan. However, Taldeer and her Eldar were abandoned and trapped with the Orks and the Traitor Marines of the Blood Legion. Taldeer defiantly told Sturnn he could not defeat the Necrons without her. However, Sturnn simply laughed off the prediction of the fey xenos, unwilling to risk the lives of his men to aid the fickle Eldar. Sturnn and the 412th Cadian Regiment marched on to their goal, while the Eldar were butchered a few feet away from them by the Ork-World Eaters alliance. 
+
+Upon reaching the Titan, the alliance of the Orks and the Chaos Space Marines known as the Forces of Disorder descended on the Imperial encampment protecting the Titan. The Collegia Titanica crew worked furiously, but required a massive amount of energy to power-up the Titan's ancient systems, forcing Sturnn to protect the Titan, several Plasma Generators, and a nearby Imperial encampment full of survivors. Although the Titan was too badly damaged to move, its fully operational weapons systems easily dispatched the attacking Orks and Chaos Space Marines. However, the massive release of power caused the Necrons to fully awaken within their stasis tomb. Butchering the remaining forces of the Forces of Disorder alliance, the Necrons began their slow march to destroy the only living souls left on the planet.
+
+They very nearly succeeded. Fighting with exceptional bravery and skill, the 412th delayed the rise of the Necron Monoliths long enough for the Titan to recharge its weapons, and obliterate the entire Necron force with a massive artilery barrage. At the battle's conclusion, the 412th Cadian and the Ultramarines stood watch over the dig site while the Titan was repaired by Adeptus Mechanicus Tech-priests. The Forces of Disorder alliance collapsed immediately afterwards, with Lord Crull dead at the hands of the Ork Warboss Gorgutz. It is unknown how Farseer Taldeer managed to escape from Lorn V, but Imperial battle records lack any footage of the moment of her death. It is known that she later returned to plague the Imperium over the Tau colony world of Kronus during the campaign known as the so-called Dark Crusade.
+
+Sources
+
+Dawn of War - Winter Assault (PC Game)
