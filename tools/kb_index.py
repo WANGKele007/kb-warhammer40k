@@ -135,33 +135,113 @@ def _sanitize(q):
     return q.strip()
 
 
-def search(db_path, query, lang=None, limit=8):
+# ---------------------------------------------------------------- 术语表
+_GLOSSARY_CACHE = {}
+
+
+def load_glossary(kb_root):
+    """载入中英术语表(本库优先,兼容多库合并)。"""
+    key = os.path.abspath(kb_root)
+    if key in _GLOSSARY_CACHE:
+        return _GLOSSARY_CACHE[key]
+    entries = []
+    cands = [os.path.join(kb_root, "glossary", "glossary.json")]
+    parent = os.path.dirname(os.path.abspath(kb_root))
+    for d in (parent, os.path.expanduser("~/.hermes/kb/repos")):
+        if os.path.isdir(d):
+            for sub in os.listdir(d):
+                cands.append(os.path.join(d, sub, "glossary", "glossary.json"))
+    seen = set()
+    dedup = set()
+    out = []
+    for c in cands:
+        if not os.path.exists(c) or c in seen:
+            continue
+        seen.add(c)
+        try:
+            data = json.load(open(c, encoding="utf-8"))
+            for e in data.get("entries", []):
+                k = (e.get("zh", ""), e.get("en", ""))
+                if k in dedup or not k[0]:
+                    continue
+                dedup.add(k)
+                out.append(e)
+        except Exception:                            # noqa: BLE001
+            pass
+    _GLOSSARY_CACHE[key] = out
+    return out
+
+
+def expand_query(query, kb_root):
+    """中文查询 → 英文检索词。返回 (命中条目, 英文词列表)。"""
+    hits, en_terms = [], []
+    ql = query.lower()
+    for e in load_glossary(kb_root):
+        names = [e.get("zh", "")] + list(e.get("alias_zh") or [])
+        for n in names:
+            if n and n.lower() in ql:
+                hits.append(e)
+                for t in [e.get("en", "")] + list(e.get("alias_en") or []):
+                    if t and t not in en_terms:
+                        en_terms.append(t)
+                break
+    return hits, en_terms
+
+
+def _fts_search(db, table, q, lang, limit):
+    sql = (f"SELECT d.lang,d.title,d.url,d.path,d.source,"
+           f" snippet({table},1,'《','》','…',18) AS snip, bm25({table}) AS score "
+           f"FROM {table} JOIN docs d ON d.id={table}.rowid "
+           f"WHERE {table} MATCH ? ")
+    params = [q]
+    if lang:
+        sql += "AND d.lang=? "
+        params.append(lang)
+    sql += "ORDER BY score LIMIT ?"
+    params.append(limit)
+    return [dict(zip(("lang", "title", "url", "path", "source", "snippet", "score"), r))
+            for r in db.execute(sql, params).fetchall()]
+
+
+def search(db_path, query, lang=None, limit=8, kb_root="."):
     db = sqlite3.connect(db_path)
-    results = []
     q = _sanitize(query)
     if not q:
-        return results
+        db.close()
+        return [], []
+
+    # 1) 中文/原样检索
+    results = []
     for table, mode in (("fts_tri", "trigram"), ("fts_zh", "word")):
         try:
-            sql = (f"SELECT d.lang,d.title,d.url,d.path,"
-                   f" snippet({table},1,'《','》','…',18) AS snip, bm25({table}) AS score "
-                   f"FROM {table} JOIN docs d ON d.id={table}.rowid "
-                   f"WHERE {table} MATCH ? ")
-            params = [f'"{q}"' if mode == "trigram" else q]
-            if lang:
-                sql += "AND d.lang=? "
-                params.append(lang)
-            sql += "ORDER BY score LIMIT ?"
-            params.append(limit)
-            rows = db.execute(sql, params).fetchall()
-            if rows:
-                results = [dict(zip(("lang", "title", "url", "path", "snippet", "score"), r))
-                           for r in rows]
+            results = _fts_search(db, table,
+                                  f'"{q}"' if mode == "trigram" else q, lang, limit)
+            if results:
                 break
         except sqlite3.OperationalError:
             continue
+
+    # 2) 术语表扩展 → 英文原库检索
+    hits, en_terms = expand_query(query, kb_root)
+    if en_terms:
+        seen = {r["path"] for r in results}
+        extra = []
+        for t in en_terms[:4]:
+            try:
+                got = _fts_search(db, "fts_en", f'"{_sanitize(t)}"',
+                                  "en" if lang is None else lang, max(3, limit // 2))
+            except sqlite3.OperationalError:
+                continue
+            for r in got:
+                if r["path"] not in seen:
+                    seen.add(r["path"])
+                    r["snippet"] = f"[命中术语: {t}] " + r["snippet"]
+                    extra.append(r)
+        # 英文命中排前面(原典权威),中文命中随后
+        results = extra + results
+
     db.close()
-    return results
+    return results[:limit], hits
 
 
 def main():
@@ -171,16 +251,20 @@ def main():
     ap.add_argument("--search", default=None)
     ap.add_argument("--lang", default=None)
     ap.add_argument("--limit", type=int, default=8)
+    ap.add_argument("--glossary", action="store_true", help="打印术语表命中情况")
     a = ap.parse_args()
 
     if a.search:
-        res = search(a.db, a.search, a.lang, a.limit)
+        res, hits = search(a.db, a.search, a.lang, a.limit, a.kb_root)
+        if hits and a.glossary:
+            print("术语表命中:", ", ".join(f"{h['zh']}→{h['en']}" for h in hits))
+            print()
         if not res:
             print("(无命中)")
         for r in res:
             print(f"[{r['lang']}] {r['title']}")
             print(f"    {r['url'] or r['path']}")
-            print(f"    {r['snippet'][:220]}")
+            print(f"    {r['snippet'][:200]}")
             print()
         return
 

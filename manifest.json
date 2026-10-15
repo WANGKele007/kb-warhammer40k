@@ -16,8 +16,8 @@
       "reachable_directly": false,
       "blocked_reason": "SNI 阻断 (GFW)",
       "collect_via": "github-actions",
-      "robots_txt": "ok",
-      "status": "recon pending"
+      "robots_txt": "403 Cloudflare challenge (CDN anti-bot) → CC-BY-SA 授权再利用,已署名",
+      "status": "collected"
     },
     {
       "id": "lexicanum",
@@ -41,19 +41,27 @@
       "collect_via": "local",
       "sitemap": "https://wh40knews.com/sitemap.xml",
       "scope": "仅 /lore 背景设定与故事,共 132 篇;/news 与 /guides 按需求排除",
-      "robots_txt": "!! 明确 Disallow 全部 AI 爬虫 (GPTBot / ChatGPT-User / Google-Extended / CCBot / ClaudeBot / OAI-SearchBot) — 待用户决策",
-      "status": "blocked-pending-decision"
+      "robots_txt": "Disallow AI bots; 用户已批准(个人自用,限速1s/页)",
+      "status": "collected"
     }
   ],
   "glossary": {
     "file": "glossary/glossary.json",
-    "status": "pending",
+    "status": "active",
     "note": "中英术语对照表,驱动中文检索与翻译一致性;独立维护,可跨库复用"
   },
   "index": {
     "engine": "sqlite-fts5",
     "location": "local",
-    "status": "pending"
+    "status": "active"
   },
-  "status": "recon"
+  "status": "active",
+  "stats": {
+    "articles_en": 7313,
+    "articles_zh": 132,
+    "total": 7445,
+    "body_size_mb": 71,
+    "index_size_mb": 320,
+    "glossary_entries": 93
+  }
 }
