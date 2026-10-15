@@ -64,36 +64,57 @@ def slugify(title):
 
 
 # ---------------------------------------------------- robots.txt 合规预检
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+
+
 def preflight_robots():
     log("=" * 60)
     log("robots.txt 合规预检")
     log("=" * 60)
-    rp = urllib.robotparser.RobotFileParser()
+
     url = f"{SITE}/robots.txt"
-    try:
-        r = S.get(url, timeout=30)
-        r.raise_for_status()
-        rp.parse(r.text.splitlines())
-    except Exception as e:                           # noqa: BLE001
-        log(f"!! 无法取得 robots.txt: {e}")
-        log("!! 保守起见中止采集")
+    text = None
+    for label, ua in (("本采集器 UA", UA), ("浏览器 UA", BROWSER_UA)):
+        try:
+            r = S.get(url, timeout=30, headers={"User-Agent": ua})
+            log(f"  [{label}] HTTP {r.status_code}  ({len(r.text)} bytes)")
+            if r.status_code == 200 and r.text.strip():
+                text = r.text
+                break
+        except Exception as e:                       # noqa: BLE001
+            log(f"  [{label}] 请求失败: {e}")
+
+    if not text:
+        log("!! 两种 UA 均无法取得 robots.txt —— 无法完成合规校验,保守中止")
         sys.exit(2)
 
-    checks = [
-        f"{SITE}/wiki/Main_Page",
-        f"{SITE}/api.php?action=query&meta=siteinfo&format=json",
-    ]
+    # 留档,便于人工审计
+    with open("robots_snapshot.txt", "w", encoding="utf-8") as f:
+        f.write(f"# fetched from {url}\n# {time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())}\n")
+        f.write(text)
+    log("  → 规则已存 robots_snapshot.txt")
+    log("\n--- robots.txt 前 30 行 ---")
+    for line in text.splitlines()[:30]:
+        log("  " + line)
+    log("--- 结束 ---\n")
+
+    rp = urllib.robotparser.RobotFileParser()
+    rp.parse(text.splitlines())
+
+    checks = [f"{SITE}/wiki/Main_Page", f"{SITE}/api.php"]
     bad = []
     for u in checks:
-        ok = rp.can_fetch(UA, u)
-        log(f"  {'✅' if ok else '❌'} can_fetch: {u[:70]}")
-        if not ok:
+        ours = rp.can_fetch(UA, u)
+        star = rp.can_fetch("*", u)
+        log(f"  {'✅' if ours else '❌'} {u.replace(SITE, '')}  "
+            f"(本 UA={ours}, 通配 *={star})")
+        if not ours:
             bad.append(u)
 
-    # 显式检查 AI 爬虫是否被禁(提示用,不强制中止 —— 由站方规则对具体 UA 判定)
-    for agent in ("GPTBot", "ClaudeBot", "CCBot", "Google-Extended"):
+    for agent in ("GPTBot", "ClaudeBot", "CCBot", "Google-Extended", "OAI-SearchBot"):
         if not rp.can_fetch(agent, f"{SITE}/wiki/Main_Page"):
-            log(f"  ⚠️  robots.txt 对 {agent} 设了 Disallow(本采集器 UA 不同,按自身规则判定)")
+            log(f"  ⚠️  该站对 {agent} 设了 Disallow(本采集器 UA 不同)")
 
     if bad:
         log(f"\n!! robots.txt 不允许本采集器抓取 {len(bad)} 个路径 —— 中止")
