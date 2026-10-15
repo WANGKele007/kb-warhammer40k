@@ -38,11 +38,13 @@
       "language": "zh",
       "primary": false,
       "reachable_directly": true,
-      "collect_via": "local",
+      "collect_via": "payload-cms-api",
       "sitemap": "https://wh40knews.com/sitemap.xml",
-      "scope": "仅 /lore 背景设定与故事,共 132 篇;/news 与 /guides 按需求排除",
-      "robots_txt": "Disallow AI bots; 用户已批准(个人自用,限速1s/页)",
-      "status": "collected"
+      "scope": "网站110「战锤40K指南网」分类326「战锤40K宇宙背景设定」全部 887 篇(/news 504、/guides 366 按要求排除)",
+      "robots_txt": "前端 Disallow AI 爬虫(用户已批准);CMS 后端仅 Disallow /admin/*,/api/* 未禁",
+      "status": "collected",
+      "api": "https://thousandrealms.win/api/contents?where[and][0][websiteCategories.categories.id][in]=326&where[and][1][websiteCategories.website.id][equals]=110",
+      "note": "sitemap.xml 严重不完整(仅列132条,实际887)。站点为 Next.js+Payload,分页在客户端,?page= 无效。"
     }
   ],
   "glossary": {
@@ -58,10 +60,10 @@
   "status": "active",
   "stats": {
     "articles_en": 7313,
-    "articles_zh": 132,
-    "total": 7445,
-    "body_size_mb": 71,
-    "index_size_mb": 320,
+    "articles_zh": 887,
+    "total": 8200,
+    "body_size_mb": 85,
+    "index_size_mb": 403,
     "glossary_entries": 93
   }
 }
