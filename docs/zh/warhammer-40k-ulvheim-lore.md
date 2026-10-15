@@ -3,25 +3,54 @@ title: "战锤40K乌尔夫海姆历史解构：狼矛战团的崛起与深坑血
 url: https://wh40knews.com/lore/warhammer-40k-ulvheim-lore
 source: wh40knews
 lang: zh
+published: 2026-09-06T11:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/2
+Basic Data 技术数据
 
-在《战锤40K》那令人窒息的残酷宇宙中，没有哪个世界能凭空换来片刻安宁，乌尔夫海姆这颗干旱荒芜的星球正是帝国防线上一道鲜血淋漓的疤痕。它原本不过是星图中一个冰冷的编号——108/Beta-Kalapus-9.2，却在岁月洗礼下被迫卷入了原体回归与混沌大军的疯狂绞肉机。这里不仅见证了[不屈远征](/lore/warhammer-indomitus-crusade-analysis)最为壮烈的胜利游行，更是直接催生了星际战士新锐力量的崛起。剥开这颗星球干裂的地表，你只能闻到爆弹枪管过热的硝烟味，以及亚空间恶魔留下的腥臭焦味。
+ - 
 
-## 钢铁勇士的巢穴与原体降临的救赎
+Name:Ulvheim
 
-当这颗星球还顶着108/Beta-Kalapus-9.2这个拗口代号时，它早已沦为混沌星际战士的游乐场。钢铁勇士与怀言者这两头恶狼曾在这里结下肮脏的同盟，用凡人的血肉与钢铁残骸浇筑出亵渎神明的要塞防线。直到重生的原体罗伯特·基里曼亲自挂帅，带着复仇的怒火将这片被诅咒的土地彻底烧成白地。无数帝国将士的残肢断臂铺就了胜利的红毯，基里曼就在这片废墟之上举行了震慑星海的胜利阅兵。
+ - 
 
-那是一场足以载入帝国史册的盛大集会，刺眼的阳光穿透厚重的重金属雾霾，照耀在阿斯塔特战士沾满黑血的动力甲上。基里曼站在高台上，用不容置疑的口吻下达了一项彻底撕裂旧有编制的决断。他当场宣布解散“未计之子”这一庞大的伪军团，将这些经历过血火淬炼的精锐老兵重新打散重组。这绝非简单的兵力调动，而是原体为了填补战线窟窿祭出的一招险棋，直接决定了这颗星球未来的宿命。
+名称：乌尔夫海姆
 
-### 狼矛战团的铁血守望与深坑死斗
+ - 
 
-随着原体与远征主力舰队拔锚启航驶向更加绝望的战场，108/Beta-Kalapus-9.2并没有被帝国遗忘。这颗经历了战火洗礼的干旱世界，顺理成章地成为了全新建立的狼矛战团的家园世界。这群继承了太空野狼狂野血脉的战士，被死死钉在了劳科斯深坑的边缘。他们肩负着抵抗[混沌大博弈](/lore/warhammer-40k-chaos-game)中任何叛徒余孽入侵的重任，随后干脆用极具母团色彩的名字将其更名为“乌尔夫海姆”。
+Affiliation:Imperium (Wolfspear Chapter)
 
-**但这颗星球注定无法安宁，大贤者**[考尔](/lore/warhammer-cawl-conclave-chronalis)**的疯狂算计直接引爆了史称“深坑最后之战”的绝地死斗。**
+ - 
 
-这位不知敬畏为何物的机械教狂人，竟然妄图在乌尔夫海姆直接激活静默万年的[死灵](/lore/warhammer-40k-necron-overlords-lore)方尖碑阵列。这一逆天举动直接触怒了混沌恶魔引擎之主瓦什托尔。铺天盖地的灵魂研磨者如同潮水般撕裂现实帷幕，誓要将考尔的黑科技美梦连同这颗星球一起碾成齑粉。对于《战锤40K》的玩家而言，这颗干旱星球上的每一寸焦土，都浸透着帝国在末世中苟延残喘的绝望悲歌。
+隶属：帝国（狼矛战团）
 
-相关阅读换一换
-[战锤40K小说《炮魂》试读与硬核解析：机械教的冷血骗局与卡迪安的绝望远征](https://wh40knews.com/lore/warhammer-40k-gunheads-novel-lore)[战锤40K阿尔法军团背刺史诗：极限星域血肉绞肉机硬核解构](https://wh40knews.com/lore/warhammer-alpha-legion-lore-analysis)[战锤40K小说《染血玫瑰》：当战斗修女直面恐虐血祭，全员堕落的小镇真相](https://wh40knews.com/lore/warhammer-40k-bloodied-rose-story)[战锤40K修女传考据：医疗修女的血泪寻亲与亚空间巫术狂潮](https://wh40knews.com/lore/warhammer-sister-battle-lore)[今早10点实锤！《战锤40K：黑暗异端》Beta测试硬核解禁，深入巢都血肉绞肉机](https://wh40knews.com/lore/warhammer-dark-heresy-beta-test)[火蜥蜴智库幻象解构：达克尔的绝命试炼](https://wh40knews.com/lore/salamanders-dakir-vision-lore)[战锤40K《飞越极限》连载：当帝国宣传片甚至不仅是谎言，王牌飞行员沙德在废墟中的最后一根雪茄](https://wh40knews.com/lore/warhammer-40k-above-beyond-chapter-23-25-translation)[战锤40K阿里曼与审判官精神领域死斗硬核解构](https://wh40knews.com/lore/warhammer-ahriman-inquisitor-duel)
+ - 
+
+Class:Adeptus Astartes Homeworld, Desert World
+
+ - 
+
+类别：阿斯塔特修会家园世界，沙漠世界
+
+ - 
+
+Tithe Grade:Aptus Non
+
+ - 
+
+什一税等级：特级免税
+
+Ulvheim is the aridImperialHomeworld of the WolfspearChapter, which lies within the Pit of Raukos.
+
+乌尔夫海姆是位于劳科斯深坑内的狼矛战团的干旱帝国家园世界。
+
+## History 历史
+
+It was originally known as 108/Beta-Kalapus-9.2 and was once ruled over by a combined force of Iron Warriors and Word Bearers. However, the world was later claimed by the Imperium's Indomitus Crusade's forces, that were led by the reborn PrimarchGuilliman. A victory parade was held on 108/Beta-Kalapus-9.2 afterwards and the Primarch gave a speech to his forces. During which, Guilliman notably announced that he was dissolving the Indomitus Crusade's Unnumbered Sonspseudo-Legions. When the Primarch and the Crusade's forces left for new battlefields, 108/Beta-Kalapus-9.2 became the Homeworld of the newly established WolfspearChapter. They were then charged with protecting its system from any further Chaos incursions. Sometime later, the Wolfspear renamed the world Ulvheim.
+
+它最初被称为108/贝塔-卡拉普斯-9.2，曾经由钢铁勇士和怀言者的联合部队统治。然而，世界后来被由重生的原体基里曼领导的帝国不屈远征部队占领。随后，在108/贝塔-卡拉普斯-9.2举行了胜利游行，原体向他的部队发表了演讲。在此期间，基里曼特别宣布他正在解散不屈远征的未计之子伪军团。当原体和远征部队前往新的战场时，108/贝塔-卡拉普斯-9.2成为新建立的狼矛战团的家园世界。然后，他们被命令保护其星系免受任何进一步的混沌入侵。不久之后，狼矛将世界更名为乌尔夫海姆。
+
+During the Battle of Ulvheim, later known as the Last Battle of the Pit,Vashtorr would send an army of soulgrinders to overrun Cawl's attempt at activating the Necronpylon array on the world.
+
+在乌尔夫海姆之战中，后来被称为深坑最后之战，瓦什托尔派遣一支灵魂研磨者军队来击败考尔在世界上激活死灵方尖碑阵列的企图。

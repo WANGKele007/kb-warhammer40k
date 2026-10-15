@@ -3,37 +3,302 @@ title: "战锤40K风暴剑超重型坦克硬核解构：撕裂巢都防线的钢
 url: https://wh40knews.com/lore/warhammer-40k-stormsword-lore
 source: wh40knews
 lang: zh
+published: 2026-09-15T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/1
+The Stormsword is an Imperial Guardsuper-heavy vehicle based on the Shadowsword. Built specifically for sieges and street-fighting, the Stormsword is geared towards providing troops close-quarter support with a variety of heavy weapons.
 
-提到《战锤40K》（Warhammer 40,000）的超重型载具，无数玩家脑海里第一反应往往是毁天灭地的[毒刃坦克](/lore/warhammer-40k-baneblade-tank-lore)。但当你将视线拉入到那些血肉横飞、残垣断壁的残酷巷战中，另一头钢铁巨兽正用它那粗犷的攻城炮管教异端做人。风暴剑（Stormsword），这台脱胎于影剑底盘的移动要塞，专门为极近距离的绞肉机战场而生。它不是为了在广阔平原上对狙，而是要在拥挤的[巢都](/lore/warhammer-40k-hive-tremors)废墟里，把每一寸藏污纳垢的建筑彻底夷为平地。
+风暴剑是一种基于影剑的帝国卫队超重型载具。风暴剑是专门为攻城和巷战而制造的，旨在为部队提供各种重型武器的近距离支援。
 
-## 巢都废墟里的野路子爆改：风暴剑的血腥发家史
+Stormsword 风暴剑
 
-[机械神教](/lore/warhammer-40k-mechanicus-titans-visual)的保守派那群“机油佬”一向对非官方改装嗤之以鼻，但这台战车的诞生偏偏是一次逼上梁山的硬核背刺。在科尔达克巢都那场惨烈绝望的围城战中，前线指挥官们面对废墟中成群结队的异端，直接采取了最务实的保命手段。他们将那些在战场上回收的影剑坦克底盘进行暴力爆改，直接拆掉了原本那门高不可攀的火山炮。取而代之的，是一门口径极其骇人的大型风暴剑攻城炮。这玩意儿发射的可是带有火箭推进的特制攻城炮弹，单发重量直接飙升到180公斤以上。当这种重型炮弹砸进掩体爆开时，那种令人窒息的巨大震荡波足以把任何碳基生物震成血沫。
+## Overview 概述
 
-在战场生态里，风暴剑就是用来定点清除顽固钉子户的终极解法，它的火力能够仅凭一发炮弹就将整栋楼房直接物理超度。**具体的战术非常狂暴**：炮手们被专门训练去瞄准建筑物的一楼大厅开火。一炮下去承重墙瞬间气化，整栋高楼随之轰然崩塌，里面藏匿的敌人要么被坍塌的钢筋混凝土当场活埋，要么干脆被爆炸撕开的深坑直接吞噬。当然，这种极致的破坏力也伴随着代价，攻城炮可怜的射程和极其受限的仰角，让这台巨兽在开阔平原上几乎等于白给，但在狭窄的街道里，它就是无可争议的王。
+The Stormsword was originally a field conversion of salvaged Shadowsword chassis created during the siege of Coldarkh Hive; though such "unofficial" conversions are frowned upon by the conservative elements of the Adeptus Mechanicus, most Guard commanders take a more pragmatic view. In place of the Shadowsword's Volcano cannon is a large Stormsword Siege Cannon firing rocket-propelled siege shells, each weighing more than 180kg that detonate with a vast concussive force. While sufficiently powerful to level an entire building with a single shot, typically by destroying the ground floor and collapsing the structure, the weapon's limited range and restricted elevation severely limits its utility on the open battlefield. Gunnery crews of a Stormsword are specifically trained to fire through the ground floor, so that the enemy target is buried under a collapsing building or swallowed by a newly formed vast crater.
 
-## 刺刀见红的副武器配置：武装到牙齿的移动碉堡
+风暴剑最初是在科尔达克巢都围城期间对回收的影剑底盘进行的野外改装；尽管这种“非官方”的改装受到机械神教保守派成员的反对，但大多数卫队指挥官采取了更务实的观点。代替影剑的火山炮的是一门大型风暴剑攻城炮，发射火箭推进的攻城炮弹，每枚重量超过180公斤，爆炸伴随巨大的震荡力。虽然该武器的威力足以用一炮夷平整个建筑，通常是通过摧毁一楼并倒塌结构，但其有限的射程和高度限制严重限制了其在开阔战场上的实用性。风暴剑的炮手经过专门训练，可以开火贯穿一楼，这样敌方目标就会被埋在倒塌的建筑物下，或者被新形成的巨大坑洞吞噬。
 
-如果你以为风暴剑只有一门主炮能看，那就大错特错了，这台怪物的副武器配置简直是为了街道斗殴量身定制的。主炮旁边标配了一挺同轴重型爆矢枪，时刻准备撕碎那些企图近身的步兵。而在车体两侧的舷侧位置，两座双联装重型爆矢枪构筑了毫无死角的火力网。更变态的是，在这些爆矢枪顶部，还直接骑脸安装了炮塔式的重型火焰喷射器。想象一下那个画面：在逼仄的巷道里，重爆矢倾泻着金属弹雨，重爆燃喷吐着净化一切的火舌，任何试图靠近的异端都会在瞬间化为焦炭。
+Stormsword 风暴剑
 
-不过，装甲连队的战术从来都不是一成不变的，某些对生存率有着极度渴望的车组，会果断选择拆除那些舷侧武器，替换成更加厚重扎实的额外附加装甲板。这种牺牲部分侧射火力换取极致抗伤的改法，在那些深陷绝地的战役中往往能带来意想不到的真香体验。除此之外，这台钢铁巨兽的车长还可以根据战场环境继续“堆料”，比如在车顶加装一发用来应急的猎人杀手导弹，或者在枢轴上挂载一挺用来扫射防空的重型伐木枪乃至风暴爆矢枪。
+The Stormsword's formidable secondary armaments are also geared towards the close confines of a street brawl: a coaxial Heavy Bolter is supported by two sponson-mounted twin-linked Heavy Bolters atop which are turret-mounted Heavy Flamers. Although, some Stormswords replace their sponsons with extra armour plating. The Stormsword can also mount additional weapons such as a Hunter-Killer Missile and/or a pintle-mountedHeavy Stubber/Storm Bolter.
 
-## 铸造世界的产能妥协与微缩模型考据
+风暴剑强大的次要武器也适用于巷战的近距离范围：一个同轴重型爆矢枪由两个安装在舷侧的双联重型爆矢枪支援，其顶部是安装在炮塔上的重型火焰枪。尽管如此，一些风暴剑还是用额外的装甲板代替了他们的舷侧。风暴剑还可以安装其他武器，如猎人杀手导弹和/或枢轴式重型伐木枪/风暴爆矢枪。
 
-尽管在广袤的银河战场上，风暴剑依然是一种极其稀有且金贵的超重型载具，但它用无数场血肉横飞的胜利，硬生生在帝国卫队的装甲序列里砸出了自己的铁王座。每当爆发那种绞肉机级别的激烈城市争夺战，你总能看到这台巨兽顶在最前面，带领着步兵在绝望的战线中心发起反冲锋。甚至有小道消息在[星界军](/lore/warhammer-40k-astramilitarum-kitbash)内部疯传，部分铸造世界已经彻底放下了身段，开始在流水线上限量生产这些曾经被视为“异端改件”的战争机器。
+Stormsword 风暴剑
 
-对于咱们这些痴迷于桌面博弈的硬核胶佬来说，风暴剑的模型历史同样充满戏剧性。早在2008年，Forgeworld就非常懂行地推出过一款细节拉满的阿库里亚型（Arkurian pattern）风暴剑树脂套件，那精悍的装甲纹理至今让老玩家津津乐道。更有意思的是，他们当年还顺手搞出了一个Epic史诗比例的微缩版本，这可是连Games Workshop官方都没有供货的稀罕物件。时至今日，能在桌面上拍出一台涂装精良的风暴剑，依然是对抗那些异形和混沌玩家时最硬核的心理施压。
+While it remains a rare vehicle, the Stormsword has earned its place within the Imperial Guard, leading the charge in the heart of intense city battles, and it is rumoured some Forge Worlds have begun producing them in limited numbers.
 
-## 玩家常见疑问 (FAQ)
+虽然它仍然是一种罕见的载具，但风暴剑已经在帝国卫队中赢得了一席之地，在激烈的城市战斗的核心中领导了冲锋，据传一些铸造世界已经开始生产数量有限的它们。
 
-Q: 这种专打巷战的超重型坦克，在目前桌面上遇到[平推流](/lore/total-war-warhammer-40k-preview-5863)会不会变成纯纯的活靶子？
+Stormsword 风暴剑
 
-A: 别被那点射程劣势忽悠了。在复杂掩体极多的战区版图里，风暴剑的卡点能力是毁灭性的。只要你不把它大喇喇地开到大平原上和对面的反坦克巨兽玩对狙，利用好建筑阻挡视线，它那一炮下去的毁伤期望值绝对能让任何重甲核心瞬间蒸发。
+ - 
 
-战争的本质就是一台不讲道理的绞肉机，而风暴剑则是这台机器里最锋利的那块锯齿。当星海间再次燃起战火，那些隐藏在阴暗角落的异端终将明白，在《战锤40K》（Warhammer 40,000）的绝望宇宙里，没有什么是一发180公斤的攻城炮弹解决不了的，如果有，那就再填一发。
+Vehicle Name:Stormsword
 
-相关阅读换一换
-[战锤40K恸哭者战团硬核解构：背负血脉原罪的星海悲歌与绝命绞肉机](https://wh40knews.com/lore/warhammer-40k-lamenters-lore)[帝皇暗影下的权力博弈：《王座守望者：摄政之影》全章节索引与深度导读](https://wh40knews.com/lore/watchers-throne-regents-shadow-chapter-index)[战锤40K遇上蔚蓝档案：当克里格死亡军团魂穿基沃托斯](https://wh40knews.com/lore/warhammer-blue-archive-crossover)[战锤40K螳螂勇士战团硬核考据：从大漩涡守卫到帝国弃子的喋血悲歌](https://wh40knews.com/lore/warhammer-40k-mantis-warriors)[战锤40K长篇战报：火氏族凯斯的救赎，当上上善道直面混沌四神的终极恐怖](https://wh40knews.com/lore/warhammer-40k-fire-warrior-kais-redemption)[战锤40K前传史诗：泰图斯连长血战太空死灵，被诅咒的星神碎片与新星玛格诺尔的陷落](https://wh40knews.com/lore/warhammer-40k-titus-necron-campaign-lore)[战锤40K阴影灵族同人解构：异形亚种的血肉重铸与深渊狂欢](https://wh40knews.com/lore/warhammer-40k-shadow-eldar-lore-2245)[战锤40K小说《指挥之声》第四章剧情解构：凡人将领的后勤死局与国教神父的亚空间堕落](https://wh40knews.com/lore/warhammer-40k-voice-command)
+ - 
+
+载具名称：风暴剑
+
+ - 
+
+Forge World of Origin:Unknown, most are workshop conversions
+
+ - 
+
+起源铸造世界：未知，大多数是车间改造
+
+ - 
+
+Known Patterns:I-XII
+
+ - 
+
+已知型号：I-XII
+
+ - 
+
+Crew:Commander, Driver, Main Gunner, Remote Gunner, Comms Operator, Loader
+
+ - 
+
+乘员：指挥官，驾驶员，主炮手，远炮手，通信操作员，装弹手
+
+ - 
+
+Powerplant:MR507 V18 Multi Fuel
+
+ - 
+
+动力装置：MR507 V18多燃料
+
+ - 
+
+Weight:302 tonnes
+
+ - 
+
+重量：302吨
+
+ - 
+
+Length:13.5m
+
+ - 
+
+长度：13.5米
+
+ - 
+
+Width:8.4m
+
+ - 
+
+宽度：8.4米
+
+ - 
+
+Height:5.85m
+
+ - 
+
+高度：5.85米
+
+ - 
+
+Ground Clearance:1.2m
+
+ - 
+
+离地间隙：1.2米
+
+ - 
+
+Fording Depth:3.1m
+
+ - 
+
+涉水深度：3.1米
+
+ - 
+
+Max Speed - on road:25kph
+
+ - 
+
+最大行驶速度：25公里/小时
+
+ - 
+
+Max Speed - off road:18kph
+
+ - 
+
+最大越野速度：18公里/小时
+
+ - 
+
+Main Armament:Stormsword Siege Cannon
+
+ - 
+
+主要武器：风暴剑攻城炮
+
+ - 
+
+Secondary Armament:2 Heavy Flamers, 2 Heavy Bolters
+
+ - 
+
+次要武器：2个重型火焰枪，2个重型爆矢枪
+
+ - 
+
+Traverse:2°
+
+ - 
+
+横向：2°
+
+ - 
+
+Elevation:From -2° to +12°
+
+ - 
+
+仰角：从-2°到+12°
+
+ - 
+
+Main Ammunition:20 Rounds
+
+ - 
+
+主要弹药：20发
+
+ - 
+
+Secondary Ammunition:2000 Rounds
+
+ - 
+
+次要弹药：2000发
+
+Armour 装甲
+
+ - 
+
+Superstructure:220mm
+
+ - 
+
+上部结构：220毫米
+
+ - 
+
+Hull:210mm
+
+ - 
+
+车体：210毫米
+
+ - 
+
+Gun Mantlet:200mm
+
+ - 
+
+炮盾：200毫米
+
+ - 
+
+Vehicle Designation:0427-658-0215-SW201
+
+ - 
+
+载具编号：0427-658-0215-SW201
+
+## Known Stormswords and Regiment that include them 已知包括风暴剑的兵团
+
+ - 
+
+21st Teutonian Heavy Tank Company 第21条顿尼亚重型坦克连队
+
+ - 
+
+61st Tank Regiment — consist of Arkurian-pattern Stormsword, fought during the Vraks campaign where earned the right to bear the Imperial Eagle as an honour badge.
+
+ - 
+
+第61坦克兵团 - 由阿库里亚型风暴剑组成，在弗拉克斯战役中作战，获得了佩戴帝国天鹰作为荣誉徽章的权利。
+
+ - 
+
+143rd Siege Regiment 第143攻城兵团
+
+ - 
+
+Armageddon 8th Heavy Tank Company, 9th vehicle, unknown unit
+
+ - 
+
+阿玛吉多顿第八重型坦克连队，第九辆载具，未知单位
+
+ - 
+
+Cadian 8th Heavy Tank Regiment, one of six vehicles, possibly refitted from a Shadowsword during the 13th Black Crusade. Another one of Stormlords - Eye of Judgement
+
+ - 
+
+卡迪亚第8重型坦克兵团，六辆载具之一，可能是在第13次黑色远征期间用影剑改装的。风暴领主的另一个 - 审判之眼号
+
+ - 
+
+Cadian 12th Heavy Tank Regiment, 6th Squadron, fought during 13th Black Crusade
+
+ - 
+
+卡迪亚第12重型坦克兵团，第六中队，参加了第13次黑色远征
+
+ - 
+
+Tallarn 17th Heavy Tank Company, attached to the Tallarn 101st Armoured Regiment, fifth vehicle of the company, bears eagle's head honour badge after leading the first assault on the Palace of Tears
+
+ - 
+
+塔兰第17重型坦克连队，隶属于塔兰第101装甲兵团，是连队的第五辆载具，在领导了对泪之宫殿的第一次突击后，该连获得了鹰首荣誉徽章
+
+## Notable Individual Stormswords 著名风暴剑个体
+
+ - 
+
+Eye of Judgement - Cadian 8th Super-Heavy Armoured Regiment.
+
+ - 
+
+审判之眼号 - 卡迪亚第八超重型装甲兵团
+
+ - 
+
+The Imperial Reaver - a Death Guard Stormsword from the Horus Heresy period.
+
+ - 
+
+帝国收割者号 — 荷鲁斯叛乱时期的死亡守卫风暴剑。
+
+ - 
+
+Majestic Retribution - One of the first Stormswords constructed in the siege of Coldarkh Hive.
+
+ - 
+
+庄严报复号 - 在科尔达克巢都围城中建造的首批风暴剑之一。
+
+## Miniatures 微缩模型
+
+Forgeworld released an Arkurian pattern Stormsword in 2008 and they also produce an Epic scale version, which Games Workshop does not supply.
+
+Forgeworld在2008年发布了阿库里亚型风暴剑，他们还生产了Epic规模的版本，但Games Workshop不提供。
+
+Arkurian pattern Stormsword 阿库里亚型风暴剑

@@ -3,23 +3,226 @@ title: "战锤40K独眼巨人爆破载具硬核解构：撕裂帝国防线的遥
 url: https://wh40knews.com/lore/warhammer-cyclops-demolition-vehicle
 source: wh40knews
 lang: zh
+published: 2026-09-12T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/9/29
+The Cyclops Demolition Vehicle is used by the Imperial Guard for battlefield demolition. Basically a small remote-controlled vehicle packed with explosives and guided towards a target from a distance, it is used for breaching enemy fortifications such as pillboxes and bunkers with devastating results.
 
-在《战锤40K》那残酷无情的银河[绞肉机](/lore/warhammer-40k-baneblade-tank-lore)中，帝国卫队的战术字典里从来没有“仁慈”二字。当那些坚不可摧的异端碉堡与重型掩体横亘在冲锋的道路上时，指挥官们往往会祭出一种极度纯粹且致命的暴力美学产物——独眼巨人爆破载具。这头没有生命的钢铁猛兽，本质上是一座塞满高爆炸药的移动弹药库，专门为了撕裂敌方最坚固的阵地而生。每一次它在战场上的绝命冲锋，都伴随着震耳欲聋的轰鸣与毁灭性的烈焰，将阻挡在帝国意志前的一切障碍彻底化为齑粉。
+独眼巨人爆破载具被帝国卫队用于战场爆破。它本质上是一种装有炸药的小型遥控载具，从远处被引导到目标，用于突破敌方防御工事，如碉堡和掩体，造成毁灭性的后果。
 
-## 撕裂防线的移动弹药库
+Cyclops Demolition Vehicle 独眼巨人爆破载具
 
-作为星界军序列中极为特殊的存在，独眼巨人的体型出人意料的袖珍，完全可以被轻松塞进奇美拉装甲车或是女武神运输机的机腹中进行隐蔽机动。据说在那些规模浩大的攻坚战役里，即便是克拉苏装甲突击运输车这样庞大的巨兽，也能在其宽阔的车体内同时孕育两台这种致命的自走炸弹。操作这台毁灭机器并不需要乘员以命相搏，而是通过一套由背包式音阵发射器与小型手持终端组成的远程系统进行精准遥控。**操作员可以在绝对安全的掩体后方，冷酷地引导这头钢铁野兽悄无声息地摸向敌人的火力据点，随后按下那个决定生死的起爆按钮。**
+## Overview 概述
 
-除了拔除那些令人头疼的机枪碉堡与战壕网络，这群没有感情的自爆机器在战场上还扮演着清道夫的狠角色。无论是排布着致命陷阱的雷区，还是阻碍大部队推进的坦克拒马，甚至是巷战中盘根错节的建筑群落，在独眼巨人那当量惊人的爆炸威力面前都脆弱得如同纸糊一般。其腹中蕴藏的毁灭力量，甚至足以重创那些装甲厚重的敌方载具。暴风突击队更是将这种武器的潜能压榨到了极致，他们经常在敌后空投这些小巧的死神，仅需一名王牌操作员潜伏在阴影中，就能将敌军的指挥枢纽、补给堆积区或是咽喉桥梁瞬间送上天。
+Cyclopes are small vehicles, able to be carried in a Chimera or Valkyrie and operated through a remote control device consisting of a small handset connected to a backpack vox-caster. It is said that Chimera and Crassus armoured assault transporter can carry two Cyclopes within their hulls. Cyclops are commonly used to remove enemy strong points and bunkers but have found other uses on the battlefield, among these clearing obstacles such as minefields and tank traps or to destroy buildings during street-fighting, while the explosive charge is large enough to damage enemy vehicles. Storm Troopers have been known to use Cyclopes as sabotage weapons, landing them behind enemy lines with a single operator to target command posts, supply dumps or bridges. Cyclopes are assigned on a first-come, first-served basis and few Guardsmen have the specialised training required to pilot them, but the fact that they reduce the number of dangerous jobs they have to do makes them popular among the infantry.
 
-## 太阳辅助军的绝命重锤与现实倒影
+独眼巨人是一种小型载具，可以装在奇美拉或女武神中，并通过由一个连接到背包式音阵发射器的小型遥控器组成的远程控制装备进行操作。据说奇美拉和克拉苏装甲突击运输车可以在车体内携带两辆独眼巨人。独眼巨人通常用于清除敌人的据点和掩体，但在战场上也有其他用途，其中包括清除雷区和坦克陷阱等障碍物，或在巷战中摧毁建筑物，而爆炸物的大小足以损坏敌方载具。众所周知，风暴兵会使用独眼巨人作为破坏武器，让他们在敌后降落，由一名操作员瞄准指挥所、补给站或桥梁。独眼巨人按先到先得的原则分配，很少有卫兵受过驾驶独眼巨人所需的专业训练，但它们减少了危险工作的数量，这使他们在步兵中很受欢迎。
 
-在[人类帝国](/lore/warhammer-imperium-lore-analysis)历史上更为古老且辉煌的时期，太阳辅助军同样将独眼巨人视为撕开重装防御阵地的终极底牌。当正面强攻意味着填入无数凡人血肉的无底洞，且密集交错的复杂地形彻底锁死远程火力覆盖的可能导致[防线崩溃](/lore/warhammer-40k-ajacus-fortress-lore)的绝境下，这种自走爆破单元便成了破局的唯一希望。它们往往由天龙座装甲车或阿维鲁斯驳船秘密运抵前线，在安全距离完成卸载后，由那些经过严苛训练的专业操作员通过音阵链路引导至宿命的终点。**更令人胆寒的是，那个时代的独眼巨人不仅搭载常规高爆弹药，更能选配极度残忍的焚烧装药，甚至是用来抹杀顶尖异形巨兽的原子内爆弹。**
+Cyclops with comparison to a Krieg Guardsman 独眼巨人与克里格卫兵的比较
 
-在这片绝望的星海中，这种装备的配发往往遵循着先到先得的粗暴原则。虽然由于帝国那僵化的官僚体系，极少有普通大头兵能接受系统的驾驶培训，但它能实打实地替步兵填命的属性，依然让其在底层连队中赢得了近乎狂热的追捧。有意思的是，如果我们将视线拉回古老的泰拉历史，这款载具在设计逻辑与战场定位上，简直就是二战时期德国“歌利亚”遥控地雷的完美翻版。讽刺的是，在人命如草芥的第41个千年，《战锤40K》的高领主们居然愿意耗费珍贵的机魂与资源去制造一台注定要粉身碎骨的自杀载具，仅仅是因为某些高价值目标的突破成本连人海战术都无法承受。这种充满黑色幽默的战损交换比，或许才是这头钢铁独眼巨人身上最绝望的隐喻。
+The Solar Auxilia used the Cyclops to breach heavy fortifications and destroy important enemy positions, especially when faced with a situation, in which a direct assault would have been too costly and dense terrain would have prevented an engagement from farther out. They were transported to the frontline by Dracosans or Arvus Lighters and, after being unloaded at a safe distance from the intended target, were guided and ultimately detonated by a sufficiently trained operator by usage of vox-control. These Cyclopses carried a variety of ammunition, from demolition charges to incineration charges and even powerful atomantic imploders, which were sometimes used against apex-xeno forms and similar enemies.
 
-相关阅读换一换
-[战锤40K考据：历史真理部索拉娜的凡人史诗与阿提兰绝密档案](https://wh40knews.com/lore/warhammer-40k-solana-lore)[今早10点实锤！《战锤40K：黑暗异端》Beta测试硬核解禁，深入巢都血肉绞肉机](https://wh40knews.com/lore/warhammer-dark-heresy-beta-test)[战锤40K加拉斯帕战役考据：莫塔里安的残暴首秀与死亡守卫的血肉绞肉机](https://wh40knews.com/lore/warhammer-galaspar-mortarion-conquest)[战锤40K小说《信仰之矛》高潮：莫雯·瓦尔决战午夜领主，黑色圣堂的悲壮挽歌与暗夜之子的童年梦魇](https://wh40knews.com/lore/morvenn-vahl-spear-of-faith-novel-climax)[战锤40K密录：帝皇与华胥的跨宇宙对视，当物理法则成为抹杀亚空间的橡皮擦](https://wh40knews.com/lore/emperor-meets-huaxu-civilization-lore)[战锤40K死亡守望硬核考据：帝国之拳绝命逃生与黑甲老兵降临](https://wh40knews.com/lore/warhammer-deathwatch-lore-guide)[战锤40K隐私立场设定解构：帝国权贵的绝密遮羞布与大贤者的防窃听黑科技。](https://wh40knews.com/lore/warhammer-40k-privacy-field-lore)[战锤40K硬核战力解构：西幻暗影大帝魂穿绝望银河能活几秒？](https://wh40knews.com/lore/warhammer-40k-shadow-emperor-survival)
+太阳辅助军使用独眼巨人突破重型防御工事，摧毁重要的敌方阵地，特别是在面临直接进攻成本过高、密集的地形阻止更远的交战的情况下。它们由天龙座或阿维鲁斯驳船运送到前线，在距离预定目标安全距离处卸载后，由受过充分训练的操作员使用音阵控制进行引导并最终引爆。这些独眼巨人携带各种各样的装药，从爆破装药到焚烧装药，甚至是强大的原子内爆弹，有时用于对付顶尖的异型生物和类似的敌人。
+
+ - 
+
+Vehicle Name:Cyclops Remote Control Demolition Vehicle
+
+ - 
+
+载具名称：独眼巨人遥控爆破载具
+
+ - 
+
+Forge World of Origin:Lucius
+
+ - 
+
+起源铸造世界：卢修斯
+
+ - 
+
+Known Patterns:I-XII
+
+ - 
+
+已知型号：I-XII
+
+ - 
+
+Powerplant:HB40 491 Multi-Fuel
+
+ - 
+
+动力装置：HB40 491多燃料
+
+ - 
+
+Weight:1.5 tonnes
+
+ - 
+
+重量：1.5吨
+
+ - 
+
+Length:2.5m
+
+ - 
+
+长度：2.5米
+
+ - 
+
+Width:1.8m
+
+ - 
+
+宽度：1.8米
+
+ - 
+
+Height:1.2m
+
+ - 
+
+高度：1.2米
+
+ - 
+
+Ground Clearance:0.25m
+
+ - 
+
+离地间隙：0.25米
+
+ - 
+
+Fording Depth:0.6m
+
+ - 
+
+涉水深度：0.6米
+
+ - 
+
+Max Speed - on road:42kph
+
+ - 
+
+最大行驶速度：42公里/小时
+
+ - 
+
+Max Speed - off road:24kph
+
+ - 
+
+最大越野速度：24公里/小时
+
+ - 
+
+Main Armament:Demolition Charge
+
+ - 
+
+主武器：爆破装药
+
+Armour 装甲
+
+ - 
+
+Superstructure:30mm
+
+ - 
+
+上部结构：30毫米
+
+ - 
+
+Hull:30mm
+
+ - 
+
+车体：30毫米
+
+ - 
+
+Vehicle Designation:0427-942-2203-CY014
+
+ - 
+
+载具编号：0427-942-2203-CY014
+
+## Forge World Variations 铸造世界变体
+
+ - 
+
+Lucius - standard pattern 
+
+ - 
+
+卢修斯 - 标准型号
+
+## Regiments known to contain Cyclops Demolition Vehicles 已知控制独眼巨人爆破载具的兵团
+
+ - 
+
+Cadian 98th Armoured Regiment - Luxor Uprising
+
+ - 
+
+卡迪亚第98装甲兵团 - 卢克索叛乱
+
+ - 
+
+Catachan 146th Regiment - Yarant II
+
+ - 
+
+卡塔昌第146兵团 - 雅兰特二号
+
+ - 
+
+Kovnian 1st Armoured Regiment - during the urban fighting on the Shadow world of Adun.
+
+ - 
+
+科夫尼安第一装甲兵团 - 在亚顿阴影世界的城市战斗中。
+
+ - 
+
+Krieg 1st Heavy Tank Company - Cleansing of Radnar
+
+ - 
+
+克里格第一重型坦克连队 - 拉德纳尔清洗
+
+ - 
+
+Krieg 2nd Armoured Regiment - Third Armageddon War
+
+ - 
+
+克里格第二装甲兵团 - 第三次阿玛吉多顿战争
+
+ - 
+
+Mordian 201st Iron Guard Regiment - Hive Secundus crowd control - Vaust Hive World
+
+ - 
+
+莫迪安第201铁卫兵团 - 第二巢都人群控制 - 沃斯特巢都世界
+
+## Known Vehicles 已知载具
+
+ - 
+
+Cyclops-Delta-VI 独眼巨人-δ-6
+
+## Trivia 琐事
+
+The Cyclops has a strong resemblance and function to the real-life German Goliath remote controlled mine, which saw action during World War II.
+
+独眼巨人与现实生活中的德国歌利亚遥控地雷有着很强的相似性和功能，该地雷在第二次世界大战期间投入使用。

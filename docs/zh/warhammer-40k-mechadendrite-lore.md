@@ -3,35 +3,122 @@ title: "战锤40K机械附肢硬核考据：撕裂血肉的机械教仿生触手
 url: https://wh40knews.com/lore/warhammer-40k-mechadendrite-lore
 source: wh40knews
 lang: zh
+published: 2026-09-09T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/2
+A Mechadendrite is a catchall name that covers a variety of additional artificial limb bionic implants that are used almost universally by the Adeptus Mechanicus, as well as Techmarines of the Adeptus Astartes, and both of their Chaos or heretek aligned counterparts. This can range from servo-arms to tendril-like appendages, each designed for a specialised purpose.
 
-在《战锤40K》的冰冷宇宙里，血肉苦弱从来不是一句空洞的口号，而是被钢铁与机油焊死的生存铁律。那些盘踞在火星的狂热者们早就把脆弱的原生肢体视作进化的绊脚石，取而代之的，是名为“机械附肢”（Mechadendrite）的终极仿生造物。这种包罗万象的改装植入物，不仅是[机械神教](/lore/warhammer-40k-mechanicus-titans-visual)的标配，连阿斯塔特修会的技术军士、甚至拥抱了[混沌](/lore/warhammer-40k-chaos-game)的技术异端都对其直呼真香。从粗暴的重型伺服臂到令人头皮发麻的卷须状附属物，每一根钢铁触手都被烙印上了极其残忍且极度专业的杀戮使命。
+机械附肢是一个包罗万象的名字，涵盖了各种额外的假肢仿生植入物，这些植入物几乎被机械神教、阿斯塔特修会的技术军士以及混沌或技术异端对应普遍使用。这可以从伺服臂到卷须状附属物，每种都是为特定目的而设计的。
 
-## 神经直连的亚空间狂欢
+## Overview 概述
 
-别以为这只是些粗笨的外骨骼零件，这些泛着冷冽金属光泽的仿生植入物，直接与技术神甫的中枢神经系统粗暴相连。**只要大脑一个念头闪过，这些合金肢体就会像你天生的胳膊一样如臂使指。** 试想一下这种极端的暴力美学：一条触手正以骇人的扭矩将数十吨重的[毒刃坦克](/lore/warhammer-40k-baneblade-tank-lore)硬生生拔离地面，而另一条末端探出的微型焊枪，却在以亚毫米级的精度修复着载具侧甲上的致命伤口。这种撕裂常识的操作跨度，正是机械附肢在微观构造、实战防御与高精尖研究中大放异彩的底气所在。
+Mechadendrites assist in the manipulation of objects, micro-construction, maintenance, research and defence. A mechadendrite is connected to the central nervous system of the Techpriest, and so is controlled through thought just like a biological limb. They are powerful mechanical tools with the strength to lift entire Battle Tanks off the ground, or with the dexterity to deftly fix the smallest components or solder shut the most minute wounds in a vehicle’s flank.
 
-凝视那些被彻底改造的帝国高层，你甚至会产生一种直视克苏鲁怪物的错觉。合金骨架内嵌着密密麻麻的小型伺服电机与液压执行器，远超自然肢体长度的仿生关节像极了一窝在底巢扭动的毒蛇，将伸展性与灵活性压榨到了极致。**按照火星的严苛律法，只有达到II级或以上的技术专家，才有资格让这种高阶造物切开自己的脊椎。** 要想同时操控数条用途迥异的附肢，需要耗费数十载光阴去熬过那种神经撕裂般的同步训练。看看那些顶阶的技术神甫吧，他们身上挂满的钢铁卷须，简直就是一座移动的微型兵工厂。
+机械附肢有助于操纵物体、微观结构、维护、研究和防御。机械附肢与技术神甫的中枢神经系统相连，因此通过思维进行控制，就像生物肢体一样。它们是强大的机械工具，具有将整个战斗坦克抬离地面的力量，或者能够灵巧地固定最小的部件或焊接载具侧翼最微小的伤口。
 
-### 阶级壁垒与异端平替
+Tech-Priest Hieronomus Tezla with mechadendrites 配备机械附肢的技术神甫希罗诺默斯·特兹拉
 
-在帝国森严的等级制度下，只要你混到了工造士（Enginseer）及以上段位，基本上就能混到一条量身定制的机械附肢。理论上只要你的肉体承载力和神经突触没被烧毁，这玩意儿你想装多少就装多少。但在《战锤40K》这台疯狂运转的绞肉机面前，即便是被剥夺了自我意识的底层机仆，同样会被钉入这些机械副手。它们沦为协助工造士进行高强度作业的血肉耗材，至死都在践行着齿轮与机油的残酷教条。
+Mechadendrites are constructed from metallic alloys and have small motors and actuators within their armoured structures. They are usually longer than the Techpriest's natural limbs and are with multiple joints (simulating mechanical tentacles) to allow maximum reach and flexibility.Tech-Adepts of Grade II and above are permitted to have mechadendrites. Each limb is controlled by the mind and purpose-built. Being able to coordinate more than one mechadendrite with competence takes decades of discipline and training. Tech-Priests almost universally bear a number of mechadendrites, some so laden with additional appendages that they appear as a hive of writhing serpents.
 
-## 撕开血肉的五重绝命造物
+机械附肢由金属合金制成，在其铠装结构中具有小型发动机和执行器。它们通常比技术神甫的自然肢体长，有多个关节（模拟机械触手），以实现最大的伸展和灵活性。II级及以上技术专家允许拥有机械附肢。每一个肢体都由思维和特定目标所控制。能够熟练地协调多个机械附肢需要几十年的训练和练习。技术神甫几乎普遍携带许多机械附肢，有些带有额外的附属物，看起来像一窝扭动的蛇。
 
-机械教廷那帮疯子可不会满足于单一的工具，他们把对万机之神的狂热，全部倾注在了功能极端化的型号分类里。当你在战场上直面这台人形绞肉机时，最先招呼你的往往是那些喷吐着等离子烈焰的弹道机械附肢。这种专为毁灭而生的外挂武器，能够提供三百六十度无死角的压制火力，瞬间把成群的异形烧成灰烬。
+Members of the Adeptus Mechanicus from the Enginseer rank and above are known to have mechadendrites, and although they may often only have one fitted, one could have as many mechadendrites as the body will support.
 
-在火力的掩护下，粗壮的操纵机械附肢会如同铁钳般撕开敌人的防御装甲。那是一种能够轻松捏碎[星际战士](/lore/warhammer-40k-space-marine-lore)头骨的绝对力量，其内置的重型液压系统完全是为了暴力拆解而定制。无论是搬运沉重的弹药箱，还是在肉搏战中直接把对手撕成两半，它都好用到让人肝胆俱裂。
+众所周知，工造士及以上级别的机械神教成员都有机械附肢，虽然他们通常只有一个定做的，但一个人可以拥有身体所能支持的尽可能多的机械附肢。
 
-而在阴暗的[审判庭](/lore/warhammer-40k-daily-heresy-leak)地牢或是火星实验室里，医疗与折磨机械附肢则成了所有囚犯的终极梦魇。这些探出无数刀片、注射器和微型电锯的触手，既能用高能凝血剂缝合致命创伤，也能用最精准的切割手法把异端零碎地剥开。每一道齿轮的转动声，都伴随着血肉撕裂的绝望哀嚎。
+Servitors can also have mechadendrites to assist the enginseer they are assigned to.
 
-为了在瞬息万变的战局中抢占先机，光学机械附肢如同死神的红外复眼，将海量的战场数据强行灌入使用者的脑机接口。这种挂载着多光谱扫描仪和热成像模块的传感器，连最微弱的亚空间波动都能精准捕捉。在它的注视下，任何隐秘的暗杀企图或是掩体背后的伏兵都将无所遁形。
+机仆也可以配备机械附肢来协助他们所被分配的工造士。
 
-至于那些集成了切割焊枪、微型钻头和数据线缆的多功能机械附肢，则是维护帝国战争机器运转的万能钥匙。无论是修复受损的动力骨骼，还是暴力破解敌方终端，这套堪称赛博瑞士军刀的装备都能完美胜任。它们在炮火与机油的轰鸣声中，让残破的重装甲重新焕发出机魂的怒吼。
+## Mechadendrite Types 机械附肢类别
 
-那些刺入脊髓的冰冷管线，不过是人类在绝望银河中苟延残喘的微小缩影。在《战锤40K》这部宏大残酷的血肉史诗里，为了能在混沌与异形的围剿下多活哪怕一秒，把自己彻底改造成没有痛觉的钢铁怪物，绝对是一笔稳赚不赔的血腥买卖。
+ - 
 
-相关阅读换一换
-[战争黎明4独家前瞻：狮王莱昂首秀与革命性的动态处决系统](https://wh40knews.com/lore/dawn-of-war-4-feature-reveal)[战锤40K红衣戈博献礼：白矮人战情室发布专属战斗任务，休闲玩家的节日福音与竞技党的噩梦](https://wh40knews.com/lore/red-gobbo-white-dwarf-missions)[战锤40K暗鸦守卫血战兽人列车深度解构](https://wh40knews.com/lore/warhammer-40k-ravenguard-lore-7651)[战锤40K伪经考据：当墨菲定律击碎黄金王座，十二军团的逆转悲歌](https://wh40knews.com/lore/warhammer-40k-fanfic-false-god-legions)[战锤40K小说精读：瓦利安政委的绝境逃亡与克里格抗命始末](https://wh40knews.com/lore/warhammer-40k-commissar-escape-8209)[战锤40K短篇重铸：钢铁勇士卡卢斯的背叛之路与阿巴顿的活体囚笼](https://wh40knews.com/lore/chaos-call-black-steel-rewrite)[战锤40K泰伦虫族粘液孢子硬核考据：撕裂防空网的活体绞肉机](https://wh40knews.com/lore/warhammer-40k-mucolid-spores)[战锤40K亚空间大博弈硬核解构：混沌内耗绞肉机与黄金时代绝望挽歌](https://wh40knews.com/lore/warhammer-40k-chaos-warp-great-game)
+Ballistic Mechadendrite: Combat oriented mechadendrite mounted to the shoulder or back that has a ranged weapon attached; typically a small arms weapon like a pistol.
+
+ - 
+
+弹道机械附肢：安装在肩部或背部的面向战斗的机械附肢，附有远程武器；通常是手枪等小型武器。
+
+Ballistic Mechadendrite 弹道机械附肢
+
+ - 
+
+Exploration Mechadendrite: Functions as an auspex.
+
+ - 
+
+探索机械附肢：功能作为一个鸟卜仪。
+
+ - 
+
+Manipulator Mechadendrite: These additional artificial limbs are possibly one of the most common mechadendites seen. Often utilised by enginseers and techmarines, it aids in their battlefield repair duties. The powerful pincers allow them to both lift great weights and act as an additional brutal limb in combat. A servo-arm is effectively a more powerful and cumbersome type of manipulator mechadendrite.
+
+ - 
+
+操纵机械附肢：这些额外的假肢可能是最常见的机械附肢之一。它经常被工造士和技术军士使用，有助于他们的战场维修任务。强大的钳子使它们既能举起重物，又能在战斗中充当额外的残暴肢体。伺服臂实际上是一种更强大、更笨重的机械附肢。
+
+Manipulator Mechadendrite 操纵机械附肢
+
+ - 
+
+Mechadendrite Stabiliser: Designed to aid an individual in maintaining stability in environments with fluctuating, limited, or absent gravity.
+
+ - 
+
+稳定附肢：旨在帮助个人在重力波动、有限或缺失的环境中保持稳定性。
+
+ - 
+
+Medicae/Torture Mechadendrite: Designed for medical and surgical assistance; tipped with various needles and blades. These can alternatively be used as effective torture devices.
+
+ - 
+
+医疗/折磨机械附肢：专为医疗和手术援助而设计；尖端有各种针和刀刃。这些也可以用作有效的折磨装置。
+
+Medicae/Torture Mechadendrite 医疗/折磨机械附肢
+
+ - 
+
+Micro-mechadendrites: Small limbs that may have an assortment of different standard forms of data-tether, typically used to interact with a control unit or cogitator.
+
+ - 
+
+微观机械附肢：可能有各种不同标准形态的数据系绳的小型肢体，通常用于与控制单元或编码器交互。
+
+ - 
+
+Optical Mechadendrite: Equipped with various pict-capture, lumen, or sensory devices. It is highly flexible and designed for inspection and sensory application.
+
+ - 
+
+光学机械附肢：配备各种图像捕获、流明或传感装置。它具有高度的灵活性，专为观察和感官应用而设计。
+
+Optical Mechadendrite 光学机械附肢
+
+ - 
+
+Plasma-cutter Mechadendrite: A plasma cutter is attached. This industrial tool can cut through the thickest metals and adamantine plating with ease. It can alternatively be used as an improvised plasma weapon when overloaded.
+
+ - 
+
+等离子切割机机械附肢：附有等离子切割机。这种工业工具可以轻松切割最厚的金属和精金镀层。当过载时，它也可以用作简易等离子武器。
+
+ - 
+
+Prehensile Dataspike: A dataspike attached to the end of a mechadendrite. Often used by Legio Cybernetica Tech-Priests to forcibly plug into a variety of machines and mechanical servants. Purposes for doing so includes gaining data, wrestling control, or direct harm.
+
+ - 
+
+缠绕数据尖刺：附在机械附肢末端的数据尖刺。智控军团技术神甫经常使用它强行插入各种机器和机械机仆。这样做的目的包括获取数据、处理控制或直接伤害。
+
+ - 
+
+Utility Mechadendrite: Equipped with a wide variety of tools needed for the work of a tech-priest. As an example, this combi-tool could include: injectors, sacred unguents, incense, small chainsaws or other cutting instruments.
+
+ - 
+
+多功能机械附肢：配备技术神甫工作所需的各种工具。例如，这种组合工具可能包括：注射器、神圣软膏、熏香、小型链锯或其他切割工具。
+
+Utility Mechadendrite 多功能机械附肢

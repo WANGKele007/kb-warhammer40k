@@ -3,31 +3,62 @@ title: "【战锤40k】LEX翻译：剥皮者"
 url: https://wh40knews.com/lore/warhammer-flayed-ones-lore
 source: wh40knews
 lang: zh
+published: 2026-09-06T11:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/6
+Flayed Ones are Necrons who have succumbed to the Flayer Virus of the C'tanLlandu'gor, a process which drives them insane with hunger for blood and gore. They wear the skin and body parts of their opponents, spreading mass terror across enemy lines.
 
-如果你觉得[战锤40K](/lore/warhammer-40k-space-marine-lore)宇宙里的太空死灵只是一群莫得感情的金属排骨，那说明你还没直面过银河系里最掉SAN值的绝命梦魇——剥皮者（Flayed Ones）。这帮被星神兰度'戈尔死前摆了一道的金属骨架，彻底沦为了嗜血如命的疯子。它们披着从猎物身上活剥下来的血肉皮囊，在战场上散播着纯粹的物理与精神双重恐怖。这可不是什么底层逻辑的Bug，而是一场刻在活金属基因里的血肉狂欢。
+剥皮者是屈服于星神兰度'戈尔的剥皮者病毒的死灵，这一过程使他们对鲜血和流血的渴望变得疯狂。他们穿着对手的皮肤和身体部位，在敌人的战线上传播大规模恐怖。
 
-## 星神绝唱与同族唾弃的流放悲歌
+Necron Flayed One 死灵剥皮者
 
-当星神兰度'戈尔被生生撕裂时，它给背叛者们留下的终极“礼物”便是[剥皮者病毒](/lore/warhammer-40k-flayer-virus-lore)。这场无法逆转的诅咒直接把高贵的惧亡者后裔拉进了嗜血的深渊。别指望同胞会对它们抱有哪怕一丝同情，整个死灵社会对这帮带毒的疯子简直是避之不及。一旦某个排骨不幸感染，等待它的只有无情的流放或是就地物理超度。
+## History 历史
 
-但这帮怪物怎么可能乖乖等死？它们总能找到维度的缝隙，逃逸进那个被称为**剥皮者维度**的猩红口袋宇宙。在这个只属于堕落者的绝望死局里，它们抛弃了所有关于战术部署和阵型拉扯的理智。哪里有血腥味，哪里有屠戮的狂欢，它们就会像闻到血腥味的鲨鱼一样空降战场。对于其他死灵同胞，剥皮者勉强还能保持克制——前提是异族提供的鲜血和碎肉，足够填满它们永远无法愈合的饥饿感。
+Flayed Ones are loathed by other Necrons, fearing their virus. Due to this, any Necron infected will be exiled or destroyed, although some of them will always escape into their red pocket universe known as the Flayer Dimension to join their degenerate kind. They have no regard for strategy or tactics, just appearing on battlefields, lured by the smell of blood and carnage, and will attack anything they see, though they will tolerate the presence of other Necrons provided they have enough blood and carnage from other species.
 
-## 撕裂现实的伏击绞肉机
+剥皮者被其他死灵厌恶，害怕他们的病毒。因此，任何被感染的死灵都将被流放或毁灭，尽管他们中的一些人总是会逃到被称为剥皮者维度的红色口袋宇宙中，加入他们的堕落同类。他们不考虑战略或战术，只是出现在战场上，被鲜血和屠杀的气味所吸引，会攻击他们看到的任何东西，尽管他们会容许其他死灵的存在，只要他们有足够的其他种族的鲜血和屠杀。
 
-不要被它们披头散发、茹毛饮血的癫狂外表给骗了，剥皮者绝对不是无脑平推的低级丧尸。当这群怪物用附带活金属锐化的利爪生生撕开现实裂缝、从口袋维度中爬出时，它们展现出的是令人毛骨悚然的猎手本能。潜行跟车、长期蹲伏，它们有足够的耐心死等敌方阵线露出致命破绽的那一瞬间，果断打出毁灭性的绝命背刺。
+Flayed One 剥皮者
 
-不过，正牌的死灵将领压根儿没把这群疯子当成正规军。在高端局的排兵布阵里，指挥官绝对不会为了迎合剥皮者的突袭去强行调整战术轴。毕竟你根本没法给一群只懂得啃食血肉的疯狗下达指令。战局收尾时，指挥官下达的第一道命令往往就是把场上的剥皮者全部清理干净。讽刺的是，总有那么几只狡猾的漏网之鱼能溜回它们的口袋维度，躲在猩红的阴影里舔舐爪牙，死死盯着下一场《战锤40K》星系绞肉机的开启。
+Once an opportunity for blood has been detected a Flayed One will tear open reality with their claws and emerge from their pocket dimension. That being said, they are not stupid: Flayed Ones have been known to stalk prey and wait for long periods for an exposed weakness, giving them the perfect opportunity to attack. A Nemesor won't rely on Flayed Ones, nor change his tactics to accommodate their presence, as they are far from predictable and refuse to take orders. When a battle is over, the commander usually orders the destruction of the Flayed Ones but, just like before, some of them always escape back to their pocket dimension, waiting to once again materialize onto the battlefield to slake their eternal thirst and hunger for blood and flesh.
 
-## 德拉扎克白骨王国与高阶感染体的绝地狂欢
+一旦发现鲜血的机会，一名剥皮者就会用爪子撕开现实，从口袋维度里出来。话虽如此，他们并不愚蠢：众所周知，剥皮者会跟踪猎物，长时间等待暴露的弱点，这给了他们攻击的绝佳机会。戴冠者不会依赖剥皮者，也不会改变战术来适应他们的存在，因为他们远非可预测的，拒绝接受命令。当战斗结束时，指挥官通常会下令摧毁剥皮者，但就像以前一样，他们中的一些人总是逃回口袋维度里，等待再次出现在战场上，以满足他们对血肉的永恒渴望。
 
-把目光投向银河系的东北角，那里盘踞着剥皮者的“耶路撒冷”——**德拉扎克白骨王国**。在这个令人窒息的旧死灵国度里，除了统治者堕落领主瓦尔古尔这一个独苗，满朝文武全TM是披着人皮的变异体。每当这个鬼地方遭遇所谓的“粮食短缺”，瓦尔古尔就会大手一挥发放赏金，发动全军出去疯狂狩猎。不仅仅是这里，声名狼藉的美纳克王朝也是这个诅咒的重灾区，尽管有些硬骨头还在苦苦维持着最后一丝理智。
+Flayed One attacks Imperial Guardsman 攻击帝国卫兵的剥皮者
 
-更离谱的是，这病毒连非人单位都不放过，冥工蜘蛛和人造死灵一旦中招也得原地沦为嗜血造物。而在高端局里，如果某些[死灵霸主](/lore/warhammer-40k-necron-overlords-lore)不幸屈服于病毒，却又硬扛着没彻底丧失自我，它们就会进化成令人胆寒的**剥皮者之王**。它们保留着过去的高傲外壳，内里却是一滩翻滚的嗜血欲望。想要在战术层面精准投放这群疯狗？丢出一把血群纳米圣甲虫，就足够让它们顺着味儿撕裂目标。
+In the northeast corner of the galaxy exists an old Necron kingdom known as the Bone Kingdom of Drazak, which is a haunt for Flayed Ones; every Necron save its ruler, Valgûl the Fallen Lord, is a Flayed One. Whenever the kingdom suffers from "food shortage", Valgûl issues a time of bounty, sending his people out in search for more. The Maynarkh Dynasty is also known to suffer from the Flayer Curse, though many have still managed to retain their sense. The Flayer Virus can also infect Canoptek Spyders and False Necrons.
 
-在《战锤40K》这个从来不缺疯子和屠夫的残酷星海中，剥皮者用最极端的血肉狂欢证明了一个真理：活金属的冰冷从来不是死灵的极限，那份深渊底层的嗜血诅咒才是不可名状的终极恐惧。
+在银河系的东北角，有一个古老的死灵王国，被称为德拉扎克白骨王国，是剥皮者的常去之地；除了统治者堕落领主瓦尔古尔，每名死灵都是剥皮者。每当王国遭遇“粮食短缺”时，瓦尔古尔就会发放赏金，派他的人民出去寻找更多。美纳克王朝也被认为患有剥皮者诅咒，尽管许多人仍然设法保持了他们的意识。剥皮者病毒也可以感染冥工蜘蛛和人造死灵。
 
-相关阅读换一换
-[战锤40K小说《指挥之声》第三章硬核解构：卡迪亚防线崩溃与兵变危机](https://wh40knews.com/lore/warhammer-voice-of-command-ch3)[战锤40K绿皮兽人硬核考据：从远古绞肉机到碎骨者大远征的极致暴力美学](https://wh40knews.com/lore/warhammer-40k-ork-lore)[战锤40K小说考据：审判官贾克的泰拉绝命潜入与静滞力场生存指南](https://wh40knews.com/lore/warhammer-inquisitor-draco-terra-lore)[战锤40K设定考据：伐木世界——并非只有巢都才算帝国领土，揭秘那些被榨干的绿色血库](https://wh40knews.com/lore/warhammer-40k-lumber-worlds-lore-761)[战锤40K：吞世者卡恩突袭帝皇之子旗舰与黄金至尊号的陨落](https://wh40knews.com/lore/warhammer-40k-kharn-world-eaters-attack)[异端还是进化？解析抛弃灵能崇拜、拥抱物理飞升的方舟世界亚诺兰](https://wh40knews.com/lore/craftworld-yanolan-lore-tech)[战锤40K战术硬核解构：全平台狂欢与阵营博弈大揭秘](https://wh40knews.com/lore/warhammer-tacticus-faction-analysis)[战锤40K考据：极限战士口中的“奥特拉玛五百世界”究竟还剩多少？泰图斯为何而战](https://wh40knews.com/lore/ultramar-500-worlds-lore-titus)
+Flayed Ones can be lured to a target via Bloodswarm Nanoscarabs.Necron Lords and Overlords who succumb to the Flayer Virus but retain some semblance of their old personality are known as Flayer Kings.
+
+剥皮者可以通过血群纳米圣甲虫被引诱到目标。屈服于剥皮者病毒的死灵领主和霸主被称为剥皮者之王，保留了一些旧个性的外表。
+
+Flayed Ones 剥皮者
+
+## Notable Flayed Ones 著名剥皮者
+
+ - 
+
+Unnas - Former Phaeron of the Ithakas Dynasty. Succumbed to the Flayer Curse.
+
+ - 
+
+乌纳斯 - 伊萨卡斯王朝的前法皇。屈服于剥皮者诅咒。
+
+ - 
+
+Setekh - Former Phaeron of the Hyksos Dynasty. Succumbed to the Flayer Curse
+
+ - 
+
+塞泰赫 - 希克索斯王朝的前法皇。屈服于剥皮者诅咒。
+
+ - 
+
+Quellkah - Cryptek and former member of the Awakened Council.
+
+ - 
+
+奎尔卡赫 - 墓穴技师，苏醒议会前成员。

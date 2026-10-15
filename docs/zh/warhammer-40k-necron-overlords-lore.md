@@ -3,27 +3,432 @@ title: "战锤40K死灵霸主与法皇设定硬核解构"
 url: https://wh40knews.com/lore/warhammer-40k-necron-overlords-lore
 source: wh40knews
 lang: zh
+published: 2026-09-18T11:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/9/22
+Necron Overlords are the highest and most powerful of the Necron race, ruling many Tomb Worlds.
 
-在[战锤40K](/lore/warhammer-40k-visual-archive)的冰冷宇宙中，当一颗死寂的墓穴世界开始震颤，所有理智的帝国指挥官都明白一件事：那不可名状的金属狂潮背后，必然矗立着一位掌控万物生杀大权的死灵霸主（Necron Overlords）。他们绝非那些被时间磨损心智的低级傀儡，而是整个星海中最危险、最高傲的棋手。这些曾经用血肉之躯换取永生的怪物，如今正端坐在王座上，冷酷地俯瞰着银河系这盘残局。
+死灵霸主是死灵种族中最高、最强大的，统治着许多墓穴世界。
 
-## 算无遗策的金属暴君
+Necron Overlord 死灵霸主
 
-相比于只会执行僵化指令的死灵领主，死灵霸主的算力维度完全跨越了生物大脑的极限。他们手中的光之杖不仅仅是权力的象征，更是粉碎一切反抗者的处刑利刃。在战火燃起之前，这些极致的战略家早就推演了数以亿计的交锋可能性，确保每台恐怖的战争机器和每一门毁灭性武器都能精准卡在敌人的致命死穴上。你以为你的奇袭天衣无缝？别傻了，在霸主的逻辑矩阵里，哪怕是最荒诞的变数也早已被提前化解。只有极度绝望的境地，或者拥有碾压级伟力的逆天强者，才有一丝机会在正面战场上撼动他们那冰冷的身躯。
+## Overview 概述
 
-## 武装到牙齿的死亡宫廷
+More powerful than even a Necron Lord, at its command are uncountable legions of Necron Warriors, terrifying war machines, and a vast array of devastating weaponry. Normally equipped with a Staff of Light, Necron Overlords are brilliant strategists, capable of calculating every possible outcome in the ensuing conflict and formulating strategies to ensure that everything goes to plan. Only the most unlikely situations can outfox him and only the most potent foes have any chance of beating him in combat. The most powerful Necron Overlords are those that rise to the rank of Phaeron, ruling over an entire Sector.
 
-想要接近这些高高在上的主宰，你首先得踏过皇家督军（Royal Wardens）那令人窒息的金属防线。这帮极其忠诚的副官为霸主构筑了坚不可摧的壁垒，而霸主本人的军械库更是足以让火星机械教徒垂涎到发狂。**不管是能够切裂现实的超相位剑，还是瞬间贯穿星舰的快子箭，亦或是饮血无数的虚空刃与战镰，都被他们视作随手把玩的猎杀玩具。**如果这还不够绝望，那么请准备好面对复苏天球带来的亡者复苏奇迹，或是被锁心圣甲虫直接剥夺意志。更别提那些将星神碎片囚禁于股掌之中的超立方体迷宫了，那简直是对物理法则最赤裸裸的嘲弄与践踏。
+甚至比死灵领主更强大，它指挥着无数的死灵战士军团、可怕的战争机器和大量毁灭性武器。死灵霸主通常配备有光之杖，是出色的战略家，能够计算随后冲突中的每一个可能结果，并制定策略以确保一切按计划进行。只有最不可能的情况才能战胜他，只有最强大的敌人才有机会在战斗中击败他。最强大的死灵霸主是那些升至法皇级别的人，他们统治着整个星区。
 
-## 执掌星海的法皇之威
+Necron Overlord 死灵霸主
 
-当一位死灵霸主的权柄膨胀到极致，统治的版图覆盖整个星区时，他便会加冕为法皇（Phaeron），成为这个不死种族绝对的权力巅峰。一位法皇麾下掌控的不是区区几颗星球，而是由无数墓穴世界构成的庞大王朝，连那些心高气傲的次级霸主都只能乖乖跪伏在王庭之下听候调遣。提到这个级别，就不得不提在M41时代掀起血雨腥风的风暴领主伊莫特克。这位极其残忍又极具成就的暴君，凭借一己之力将索特克王朝的八十颗墓穴世界死死攥在手心，他的每一次怒吼都在宣告[太空死灵](/lore/dawn-of-war-necron-trailer)对银河系的终极所有权。
+Overlords are aided by powerful aid-de-camps known as Royal Wardens They are equipped with a variety of weaponry and equipment. For weaponry this includes a Warscythe, Voidscythe, Staff of Light, Hyperphase Sword, Voidblade, Tachyon Arrow, and Hyperphase Glaive. Support equipment can also include a Resurrection Orb, Translocation Shroud, Sempiternal Weave, Mindshackle Scarabs, Tesseract Labyrinth, Phylactery, and Phase Shifter.
 
-当然，冰冷的金属身躯早已剥离了凡人的性别概念，但这并不妨碍那些生前为女性的最高统治者保留她们的尊严。在死灵的森严阶级中，女性法皇被尊称为女法皇（Phaerakh），她们的手段与残忍程度相比男性同行绝对是有过之而无不及。任何敢于轻视这些女王的异族，都会被毫不留情地碾碎成亚空间里的尘埃，连带着他们的母星一起被彻底抹除。
+霸主得到了被称为皇家督军的强大营地援助，他们配备了各种武器和装备。对于武器，这包括战镰、虚空镰、光之杖、超相位剑、虚空刃、快子箭和超相位长刀。支援装备还可以包括复苏天球、移位寿衣、永恒编织、锁心圣甲虫、超立方体迷宫、命匣和移相器。
 
-正如[《无尽者与占星者》](/lore/warhammer-infinite-divine-lore)中所揭示的死灵族深层逻辑那样，浩瀚的银河战记中依然埋藏着无数声名显赫的著名死灵霸主与其他晦涩难懂的尊贵头衔。无论他们冠以何种称呼，执掌着何等诡异的禁忌科技，只要那抹惨绿色的黯淡光芒再次在星海深处亮起，就意味着《战锤40K》的宇宙将再次迎来一场没有尽头的血肉收割。准备好直面那跨越万古的绝望统治了吗？
+Necron Overlord 死灵霸主
 
-相关阅读换一换
-[战锤30K荷鲁斯之乱：太阳辅助军战史考据与凡人部队的悲歌](https://wh40knews.com/lore/solar-auxilia-lore-horus-heresy)[战锤40K沃坦联盟军火库全解：从暴走矮人到陆地列车的重金属狂潮](https://wh40knews.com/lore/leagues-of-votann-unit-roster-guide)[战锤40K小说硬核解构：太空野狼狼群裂痕与国教防线崩溃的血肉悲歌](https://wh40knews.com/lore/warhammer-40k-spacewolves-novel-lore)[战锤40K小说《卡迪亚的骨灰》选段：当纳垢瘟疫席卷巢都，乌苏拉·克里德不得不面对的最绝望人性抉择与亲卫军的致命感染](https://wh40knews.com/lore/ursula-creed-zombie-survival-horror)[战锤40K小说斩首硬核解构：万戈里奇之死与艾弗森神殿的血肉狂欢](https://wh40knews.com/lore/warhammer-beheading-vangorich-death)[战锤40K雷古勒斯剧情考据：机械教代表的背刺与血色终局](https://wh40knews.com/lore/warhammer-40k-regulus-lore)[战锤40K独眼巨人爆破载具硬核解构：撕裂帝国防线的遥控绞肉机与凡人悲歌](https://wh40knews.com/lore/warhammer-cyclops-demolition-vehicle)[战锤40K太空野狼比约恩梦境硬核解构：万年无畏的绝望悲歌](https://wh40knews.com/lore/warhammer-40k-bjorn-dreadnought-lore)
+## Phaeron 法皇
+
+Phaeron is a rank of especially powerful Necron Overlords and thus they are, in effect, the most powerful of the Necron race. Commanding an entire Necron Dynasty which includes vast empires of Tomb Worlds, a Necron Overlord who has risen to the rank of Phaeron rules over an entire Sector and has a court of lesser Overlords to do his bidding. Perhaps the most well-known and accomplished Phaeron in M41 is Imotekh the Stormlord, who rules over the eighty Tomb Worlds of the Sautekh Dynasty.
+
+法皇是一名特别强大的死灵霸主，因此他们实际上是死灵种族中最强大的。一位已经升至法皇级别的死灵霸主指挥着整个死灵王朝，其中包括墓穴世界的庞大帝国，他统治着整个星区，并有一个次级霸主王庭来执行他的命令。也许M41中最著名和最有成就的法皇是风暴领主伊莫特克，他统治着索特克王朝的八十个墓穴世界。
+
+Necron Overlord 死灵霸主
+
+A "female" Phaeron is known as a Phaerakh.
+
+“女性”法皇被称为女法皇。
+
+Necron Overlord 死灵霸主
+
+## Other Necron Overlord Titles 其他死灵霸主头衔
+
+ - 
+
+Regent 摄政王
+
+ - 
+
+Primary Overlord 原初霸主
+
+ - 
+
+Nemesor 戴冠者
+
+## Notable Necron Overlords 著名死灵霸主
+
+ - 
+
+Ahhotekh - Overlord-Regent of the Suhbekhar Dynasty
+
+ - 
+
+阿霍泰赫 - 苏贝哈尔王朝的霸主摄政王
+
+ - 
+
+Ahmontekh - Phaeron of the Suhbekhar Dynasty
+
+ - 
+
+阿霍蒙泰赫 - 苏贝哈尔王朝的法皇
+
+ - 
+
+Akanabekh - Phaeron
+
+ - 
+
+阿卡纳贝赫 - 法皇
+
+ - 
+
+Amonhotekh - Overlord of the Szarekhan Dynasty
+
+ - 
+
+阿蒙霍泰赫 - 斯扎拉坎王朝的霸主
+
+ - 
+
+Anathrosis - Phaerakh of the Ogdobekh Dynasty
+
+ - 
+
+阿纳特罗西斯 - 奥格多贝赫王朝的女法皇
+
+ - 
+
+Anrakyr - Overlord
+
+ - 
+
+安拉克尔 - 霸主
+
+ - 
+
+Aramakh - Overlord of Sautekh Dynasty. Deceased by Salamanders
+
+ - 
+
+阿拉马赫 - 索特克王朝的霸主。死于火蜥蜴
+
+ - 
+
+Amunteaph 阿蒙泰普
+
+ - 
+
+Ankra 安克拉
+
+ - 
+
+Atun - Phaeron of the Atun Dynasty
+
+ - 
+
+阿图恩 - 阿图恩王朝的法皇
+
+ - 
+
+Cephrek 塞夫瑞克
+
+ - 
+
+Galmakh 加尔马赫
+
+ - 
+
+Hapthatra - Overlord that sits on the new Triarch
+
+ - 
+
+哈普特拉 - 坐在新三圣之位上的霸主 
+
+ - 
+
+Hasist 哈西斯特
+
+ - 
+
+Hasmoteph - Phaeron
+
+ - 
+
+哈斯莫泰普 - 法皇
+
+ - 
+
+Imotekh - Phaeron of the Sautekh Dynasty
+
+ - 
+
+伊莫特克 - 索特克王朝的法皇
+
+ - 
+
+Irpekh - Phaeron
+
+ - 
+
+伊尔佩赫 - 法皇
+
+ - 
+
+Jade Overlord 翡翠霸主
+
+ - 
+
+Khyrek - Former Phaeron of the Mephrit Dynasty
+
+ - 
+
+凯雷克 - 墨菲里特王朝的前法皇
+
+ - 
+
+Korovoskh - unknown Dynasty
+
+ - 
+
+科罗沃斯赫 - 未知王朝
+
+ - 
+
+Kothorahn - unknown Dynasty
+
+ - 
+
+科图拉恩 - 未知王朝
+
+ - 
+
+Krispekh - Phaeron of the Nihilakh Dynasty
+
+ - 
+
+克利斯佩赫 - 尼希拉赫王朝的法皇
+
+ - 
+
+Krozha 克罗扎
+
+ - 
+
+Mesophet - Overlord that sits on the new Triarch
+
+ - 
+
+墨索菲特 - 坐在新三圣之位上的霸主 
+
+ - 
+
+Nakhmas 纳赫玛斯
+
+ - 
+
+Naszar - Overlord in the service of the Sautekh Dynasty. Rules over the Sautekh client dynasty, the Sekemtar Dynasty.
+
+ - 
+
+纳斯扎 - 为索特克王朝服务的霸主。统治着索特克附属王朝，即塞肯姆塔王朝。
+
+ - 
+
+Neshkafar - Szarekhan Dynasty
+
+ - 
+
+内什卡法尔 - 斯扎拉坎王朝
+
+ - 
+
+Kephrekh - Phaeron of the Nepheru Dynasty
+
+ - 
+
+凯弗雷赫 - 奈菲鲁王朝的法皇
+
+ - 
+
+Oblis - Phaeron of the Nekthyst Dynasty
+
+ - 
+
+奥布利斯 - 奈克泰斯特王朝的法皇
+
+ - 
+
+Ogdovakh - Overlord in the service of the Sautekh Dynasty. Rules over the Sautekh Fringe Worlds.
+
+ - 
+
+奥格多瓦赫 - 为索特克王朝服务的霸主。索特克边缘世界的统治者。
+
+ - 
+
+Oltyx - Briefly became Phaeron of the Ithakas Dynasty before leading them to Drazak and becoming the legendary Flayer King Valgûl.
+
+ - 
+
+欧尔提克斯 - 短暂成为伊萨卡斯王朝的法皇，然后带领他们前往德拉扎克，成为传说中的剥皮者之王瓦尔古尔。
+
+ - 
+
+Ossuaria - Phaerakh of the Rytak Dynasty. Member of the Awakened Council.
+
+ - 
+
+奥苏瑞亚 - 莱塔克王朝的法皇。苏醒议会的成员
+
+ - 
+
+Rakszan - Former Phaeron of the Khansu Dynasty
+
+ - 
+
+拉克斯赞 - 坎苏王朝的前法皇
+
+ - 
+
+Sarkoni Emperor - Overlord of the Empire of the Severed
+
+ - 
+
+萨尔科尼帝皇 - 割据帝国的霸主
+
+ - 
+
+Serevakh - Captured by Trazyn
+
+ - 
+
+塞雷瓦赫 - 被塔拉辛俘获
+
+ - 
+
+Shemvokh - Phaeron of the Nihilakh Dynasty
+
+ - 
+
+谢姆沃赫 - 尼希拉赫王朝的法皇
+
+ - 
+
+Setekh - Overlord of the Hyksos Dynasty, imprisoned by the Triarch for dabbling in time.
+
+ - 
+
+塞泰赫 - 希克索斯王朝的霸主，因涉足时间而被三圣监禁。
+
+ - 
+
+Simut - Overlord of the Szarekhan Dynasty
+
+ - 
+
+西穆特 - 斯扎拉坎王朝的霸主
+
+ - 
+
+Sylphek - Phaeron of the Nephrekh Dynasty
+
+ - 
+
+西尔菲克 - 奈夫雷赫王朝的法皇
+
+ - 
+
+Szarekh - The last Silent King of the Triarch
+
+ - 
+
+斯扎拉克 - 随后的三圣寂静王
+
+ - 
+
+Szaron - Overlord of Somonor
+
+ - 
+
+斯扎隆 - 索莫诺的霸主
+
+ - 
+
+Taranekh 塔拉内克
+
+ - 
+
+Thaszar - Phaeron of the Sarnekh Dynasty
+
+ - 
+
+塔斯扎尔 - 萨内赫王朝的法皇
+
+ - 
+
+The Undying 不死者
+
+ - 
+
+Thoekh - Phaeron of the Charnovokh Dynasty
+
+ - 
+
+托赫 - 查诺沃赫王朝的法皇
+
+ - 
+
+Trazyn the Infinite - Overlord of Solemnace
+
+ - 
+
+无限者塔拉辛 - 索勒姆纳斯的霸主
+
+ - 
+
+Vitokh - Overlord in service of the Altymhor Dynasty who enslaved the Imperial world of Aryand
+
+ - 
+
+维托赫 - 为阿尔提姆霍尔王朝服务的霸主，奴役了雅利安德帝国世界
+
+ - 
+
+Vordreska 沃德雷斯卡
+
+ - 
+
+Xun'bakyr - The *Mother of Oblivion*
+
+ - 
+
+荀'巴吉尔 - 遗忘之母
+
+ - 
+
+Zahndrekh - Overlord of Gidrim and vassal of the Sautekh Dynasty.
+
+ - 
+
+赞德拉克 - 吉德里姆的霸主和索泰克王朝的封臣
+
+ - 
+
+Zarathusa - Mephrit Dynasty
+
+ - 
+
+扎拉图萨 - 墨菲里特王朝
+
+ - 
+
+Zabareas 扎布雷斯
+
+ - 
+
+Zanatek - Szarekhan Dynasty
+
+ - 
+
+扎纳特克 - 斯扎拉坎王朝

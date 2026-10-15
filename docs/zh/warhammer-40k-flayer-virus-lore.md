@@ -3,29 +3,42 @@ title: "战锤40K剥皮者病毒剧情解构：星神诅咒与死灵的血肉狂
 url: https://wh40knews.com/lore/warhammer-40k-flayer-virus-lore
 source: wh40knews
 lang: zh
+published: 2026-09-06T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/1
+The Flayer virus, also known as the Flayer Curse or Longing Sickness, is a condition exhibited in Necrons which causes a gore-obsessed madness.
 
-在《[战锤40K](/lore/warhammer-40k-ork-visual-archive)》那令人窒息的残酷宇宙里，如果说有什么东西能让那群冷酷无情的金属骷髅感到彻骨的恐惧，那绝对是被冠以“剥皮者诅咒”之名的终极绝症。这玩意儿可不是什么普通的电子病毒，而是名为“渴望之病”的深渊梦魇，它能把最理智的[死灵](/lore/warhammer-40k-necron-overlords-lore)霸主生生逼成一群沉迷于撕裂血肉的疯子。当你看到那些曾经高傲的机械贵族，如今却像野兽一样把鲜血淋漓的脏器挂在身上时，你就会明白这种痴迷于血腥的疯狂到底有多绝望。
+剥皮者病毒，也称为剥皮者诅咒或渴望之病，是一种在死灵内部显现的疾病，会导致痴迷于血腥的疯狂。
 
-## 星神陨落的恶毒回响：诅咒的起源
+## History 历史
 
-这场堪称种族降维打击的瘟疫，其万恶之源直指那位被彻底抹杀的[星神](/lore/warhammer-ctan-shattering-lore-analysis)——剥皮者兰度'戈尔。在当年那场惨烈的死灵叛乱中，这个满怀怨恨的星神用自己那令人作呕的无尽饥饿感，狠狠地背刺了这个狂妄自大的金属种族。就在兰度'戈尔的本体被彻底撕碎、化为宇宙尘埃的最后一刻，它向全体死灵倾泻了最恶毒的诅咒。这绝不仅是一句临终的哀嚎，而是直接将疯狂的种子永远刻进了死灵一族的底层代码中，宣告了一场跨越千万年的血肉狂欢正式开场。
+The Flayer virus originated from the C'tanLlandu'gor the Flayer, who during the Necron revolt tainted the upstart race with an echo of its fearsome hunger. Before Llandu'gor was destroyed, it issued the following to the Necrons:
 
-## 披挂血肉的活体梦魇：幽灵之风与绝命狂乱
+剥皮者病毒起源于星神剥皮者兰度'戈尔，在死灵叛乱期间，他用可怕的饥饿感感染了狂妄的种族。在兰度'戈尔被摧毁之前，它向死灵发出了下述：
 
-一旦那些倒霉蛋不幸屈服于这股诅咒，他们就会彻底沦为名为“剥皮者”的嗜血野兽，大脑里只剩下对残杀、鲜血和四处横飞的肉块的极致渴望。这群疯子不仅会发了疯般地屠戮视线内的所有活物，更会干出让所有文明种族头皮发麻的作呕行径——他们会小心翼翼地剥下其他物种的皮肤，把滑腻的内脏当成荣誉的披风挂在自己冰冷的金属骨架上。
+*To those who have **turned their faces away**. To those who are faithless and wretched in their jealousies. To those who have denied **us**. To those who have denied me. I will wreak vengeance. I will wrench your souls and break your bones. I will cast hunger through your accursed existence. Down the eons, you will not forget. I will grant you this gift from love turned aside and make you like me, break you in my image as you have broken me. I shall cast the fear of myself into you and all of your kind. I am Llandu'gor. I am the hunger. I am the flayer, and from this moment, you shall be too.*
 
-**尽管这帮怪物早已丧失了大部分高级心智，但他们却掌握着一种极其变态的战略级能力：随时潜入被称为“幽灵之风”的猩红异次元。**借助这种诡异的维度穿梭，剥皮者大军能在银河系的任何角落毫无征兆地凭空杀出，让防线瞬间崩溃。为了拔除这颗悬在头顶的定时炸弹，无数顶尖的死灵墓穴技师耗费了成千上万年的光阴在实验室里死磕，结果却依然是一无所获。目前已知的线索中，似乎只有那个名叫瓦尔古尔的异类藏着破局的密码。坊间传闻，这家伙是全宇宙唯一一个硬抗下了剥皮者诅咒、却依然保持着清醒自我意识的狠角色。至于他到底是怎么做到的？这恐怕是整个死灵帝国最高级别的机密。
+*对于那些转过脸去的人。致那些背信弃义、**因嫉妒而变得可悲的人**。对于那些否认我们的人。对于那些否认我的人。我会复仇。我要撕裂你们的灵魂，折断你们的骨头。我会让饥饿穿透你那受诅的存在。**历经万古**，你永远不会忘记。我会把这份被抛弃的爱的礼物送给你，让你像我一样，按照我的形象摧毁你，就像你摧毁我一样。我会把对自己的恐惧抛给你和你所有的同类。我是兰度'戈尔。我是饥饿者。我是剥皮者，从这一刻起，你也将是。*
 
-## 跨越维度的精神污染：从金属皮肤到机械教的沦陷
+## Virology 病毒学
 
-千万别以为只要穿上重甲就能对这种病毒免疫，剥皮者的传播途径简直诡异到了极点，它不仅能通过死灵活体金属皮肤的物理接触进行感染，甚至能顺着思想的涟漪直接入侵心智。不少资深墓穴技师在无数次惨痛教训后得出结论，这种诅咒的爆发往往取决于感染者自身的精神防线。有时候，一整个王庭会在几分钟内集体陷入疯癫；而有时候，那些意志力强悍的死灵却能在绝望中苦苦挣扎好几年，才最终被彻底吞噬。
+The Flayer virus causes those who succumb to it to become little more than feral beasts known as Flayed Ones. They exhibit an intense hunger for gore, blood, and carnage. Flayed Ones will even debase themselves by wearing the skins and viscera of other species. While largely mindless, Flayed Ones can access their own red dimension dubbed the Ghostwind to travel about the galaxy. Thus far no known cure for the virus exists, despite some Necron crypteks spending millennia researching the condition. Some believe that the possibility of a cure exists with Valgûl, who is said to have been the only Necron to succumb to the curse but keep his sense of self.
 
-**更让人细思极恐的是，这种病毒不仅对金属骷髅有效，甚至连**[机械神教](/lore/warhammer-40k-mechanicus-titans-visual)**的那些铁疙瘩都没能幸免。**曾有火星的技术神甫在作死研究活体金属时不幸中招，这群原本只信仰万机之神的狂热分子，竟然开始一边疯狂自残，一边对着兰度'戈尔的残影顶礼膜拜，这场绝密实验背后的真相至今仍被死死封锁。
+剥皮者病毒使那些屈服于它的人变成了被称为剥皮者的野兽。他们表现出对流血、鲜血和屠杀的强烈渴望。剥皮者甚至会通过穿着其他种族的皮肤和内脏来玷污自己。虽然基本上是无意识的，但剥皮者可以进入他们自己的红色维度，即幽灵之风，在银河系中旅行。到目前为止，还没有已知的病毒治疗方法，尽管一些死灵墓穴技师花费了数千年的时间研究这种疾病。有人认为，瓦尔古尔有治愈的可能性，据说他是唯一一个屈服于诅咒但保持自我意识的死灵。
 
-当这群堕落者彻底蜕变为剥皮者后，他们潜意识里依然会近乎本能地去崇拜那位赐予他们诅咒的祖先星神。这种盲目的崇拜甚至闹出过极其荒诞的乌龙：在一场绞肉机般的战局中，一台被鲜血和碎肉厚厚覆盖的[混沌](/lore/warhammer-40k-chaos-visual-lore)骑士“死亡军刀”，硬生生凭借着那副极其掉san的尊容，赢得了整个剥皮者教派的顶礼膜拜。那群疯子直接把这台战争机器当成了兰度'戈尔在现实宇宙的实体化身，甘愿为其冲锋陷阵。而就在那些被感染的死灵即将彻底丧失理智的前夕，他们的发声模块都会卡死般地重复着同一段毛骨悚然的低语，那正是星神留给《战锤40K》宇宙最恶毒的临终遗言……
+The Flayer virus spreads through contact with the living metal skin of the Necrons, though it could also be spread by mere thought. Some crypteks believe it can not merely be spread through proximity however, and to succumb to it depends on the mental state of the infected. It can rapidly sweep through courts and cause immediate madness, while in other cases Necrons can take many years to fully succumb. In one bizarre case, Adeptus Mechanicustech-priests experimenting with living metal became infected with the Flayer virus and engaged in self-mutilation and worship of Llandu'gor; the exact nature of their experiments is unclear.
 
-相关阅读换一换
-[战锤40K考据：宏伟马库拉格城邦的绝境繁华与地缘解构](https://wh40knews.com/lore/warhammer-macragge-civitas-lore)[战锤40K小说解读：帝皇之子血肉狂降与卡舍津绝命跳帮的绝望死斗](https://wh40knews.com/lore/warhammer-40k-kasrkin-emperors-children)[战锤40K小说《信仰楷模》剧情硬核解析：神龛世界的奢靡阴影与修女悲歌](https://wh40knews.com/lore/warhammer-40k-paragon-faith-chapter-one)[战锤旧世界新星：铸链者弗丽达尔](https://wh40knews.com/lore/frydaal-chainmaker-warhammer-old-world-lore)[战锤40K电弧鞭硬核考据：撕裂载具的火星电磁绞肉机](https://wh40knews.com/lore/warhammer-40k-arc-scourge)[战锤40K《唯有战争》汉化整合版发布：告别生肉，核心规则与扩展书一键实装](https://wh40knews.com/lore/only-war-translation-complete-release)[战锤40K前传史诗：泰图斯连长血战太空死灵，被诅咒的星神碎片与新星玛格诺尔的陷落](https://wh40knews.com/lore/warhammer-40k-titus-necron-campaign-lore)[星际战士：银河最强战力的血肉史诗](https://wh40knews.com/lore/warhammer-40k-space-marine-lore)
+剥皮者病毒通过与死灵的活金属皮肤接触传播，尽管它也可能通过思维传播。然而，一些墓穴技师认为它不能仅仅通过邻近传播，而屈服于它取决于感染者的精神状态。它可以迅速席卷王庭并立即导致疯狂，而在其他情况下，死灵可能需要多年才会完全屈服。在一个奇怪的案例中，机械神教的技术神甫在试验活金属时感染了剥皮者病毒，并开始自残和崇拜兰度'戈尔；他们实验的确切性质尚不清楚。
+
+After they become Flayed Ones, the fallen Necron will then actively begin worshiping their progenitor star god. In one case, a Chaos Knight known as Death's Sabre earned the admiration of a Flayer Cult which believed the flesh-covered knight to be a manifestation of Llandu'gor.
+
+在他们成为剥皮者之后，堕落的死灵将积极开始崇拜他们的祖先星神。在一个案例中，一位被称为死亡军刀的混沌骑士赢得了剥皮者教派的钦佩，该教派认为这位被血肉覆盖的骑士是兰度'戈尔的化身。
+
+Shortly before their minds are consumed by the Flayer virus, infected Necrons will begin repeatedly saying the same words over again:
+
+在他们的思维被剥皮者病毒吞噬之前不久，被感染的死灵将开始一遍又一遍地重复同样的话：
+
+*I am Llandu'gor.*
+
+*我是兰度'戈尔*

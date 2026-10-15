@@ -3,27 +3,54 @@ title: "战锤40K复仇者打击战斗机硬核考据：撕裂异端重甲的帝
 url: https://wh40knews.com/lore/warhammer-avenger-strike-fighter
 source: wh40knews
 lang: zh
+published: 2026-09-17T10:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/1
+The Avenger Strike Fighter is an Imperial Navy ground attack aircraft.
 
-在浩瀚无垠且充满绝望的[战锤40K](/lore/warhammer-40k-hd-art-collection)宇宙中，当人类帝国的地面部队陷入被异端重甲碾压的死局时，头顶撕裂大气层的尖啸往往是他们唯一的救赎。帝国海军列装的复仇者打击战斗机（Avenger Strike Fighter），从不仅仅是一架只会倾泻火力的飞行铁棺材，更是将暴力美学推向极致的空中绞肉机。这款跨越万年岁月的重型多用途战机，凭借着低空狗斗的绝对统治力和丧心病狂的载弹量，彻底粉碎了无数异星种族与混沌叛军的防线。
+复仇者打击战斗机是帝国海军的一种地面攻击机。
 
-## 撕裂重甲的低空火网狂欢
+Avenger Strike Fighters 复仇者打击战斗机
 
-只要谈及大气层内的低空突防，复仇者打击战斗机就是所有敌对地面装甲的终极梦魇。它毫不妥协地舍弃了轻盈的机动身段，换来的是远超同级别[人类帝国](/lore/warhammer-imperium-lore-analysis)战机的夸张火力网。**其机首标配的复仇者爆矢炮与双联激光炮，构成了一套毫不讲理的破甲逻辑。** 试想一下，那门爆矢炮以每秒二十发的恐怖射速，将致命的钚芯反装甲爆矢弹如暴雨般砸向敌方阵地，任何自诩坚固的装甲板都会在瞬间沦为千疮百孔的废铁。若是遭遇极端战况，机修工们还能将激光炮无缝替换为双联自动炮，甚至有变体机型直接怼上多管激光武器，将火力倾泻的爽感直接拉满。
+## Overview 概述
 
-### 从轨道呼啸而至的绝命猎手
+The Avenger is a heavy multirole aircraft suitable in almost any atmospheric warzone. Regarded as a robust design, the Avengers main role is conducting high-speed, low-level attacks on ground targets. It exceeds most other Imperial aircraft of its size in firepower, and it is particularly effective against armoured targets due to the Avenger bolt cannon and twin Lascannons it carries. The twin Lascannons can be replaced with twin Autocannons. The bolt cannon shoots plutonium-cored anti-armour bolt-shell at a firing rate of twenty rounds per second. There is a variant that replaces the bolt cannon with a multi-las weapon.
 
-除了机首那撕碎一切的主炮，复仇者打击战斗机的机体挂载更是把火力不足恐惧症治得服服帖帖。机翼下的重型塔架常年挂满航空炸弹、火箭弹以及各类空地导弹，若是需要执行超视距的长途奔袭，还能外挂副油箱强行拔高作战半径。**为了防备敌方战机的咬尾背刺，机尾那挺怒吼的重型伐木枪时刻准备着将追击者扫成马蜂窝。** 更有意思的是，尽管它并非纯粹的虚空作战载具，但高度密封的机舱环境足以支撑它直接从轨道舰队一跃而下，撕裂行星大气层完成垂直空降。一旦加装了重型分子多普勒雷达，这台杀戮机器便能在伸手不见五指的黑夜中，精准收割每一个试图遁入暗影的猎物。
+复仇者是一种重型多用途飞机，几乎适用于任何大气层战区。被视为一种坚固的设计，复仇者的主要作用是对地面目标进行高速、低空的攻击。它在火力上超过了大多数其他帝国飞机，并且由于它携带的复仇者爆矢炮和双联激光炮，它对装甲目标特别有效。双联激光炮可以用双联自动炮代替。爆矢炮以每秒20发的射击速度发射钚芯反装甲爆矢弹。有一种变体用多管激光武器取代了爆矢炮。
 
-## 跨越纷争时代的血肉信仰
+Avenger Fighters 复仇者战斗机
 
-当复仇者机群掠过战场，它们首选的猎物永远是那些扎堆的重装编队，或是敌方重兵把守的弹药库和高价值战略堆场。这款战机的设计蓝图古老得足以让大多数机械教士顶礼膜拜，据说其原型最早可以追溯到纷争时代的神圣泰拉。**在那个充斥着背叛与鲜血的叛教时代，正是这款战机伴随着塞巴斯蒂安·托尔的征讨大军，用炽热的炮火为信仰与真理硬生生蹚出了一条血路。** 历经万年战火的洗礼，这款战机非但没有退环境，反而凭借其极其可靠的实战表现，牢牢占据了帝国海军空中支援任务的核心C位。
+Additional weaponry consists of a rear-mounted Heavy Stubber to defend against enemy fighters and wing-mounted pylons that can carry bombs, rockets, and air-to-air or air-to-ground missiles as well as additional fuel tanks to increase range. While not a dedicated void craft, it is environmentally sealed and can enter a planets atmosphere from orbit. The Avenger can be modified with heavy modar equipment to operate at night.
 
-### 修女会点名要求的降维打击
+额外的武器包括一个后置的重型伐木枪，用于防御敌方战斗机，以及可以携带炸弹、火箭、空对空或空对地导弹的翼装塔架，以及额外的油箱，以增加范围。虽然不是专用的虚空机，但它是环境密封的，可以从轨道进入行星大气层。复仇者可以用重型分子多普勒雷达装备改装，以便在夜间运行。
 
-在漫长的征战岁月里，复仇者不仅打出了傲人的战损比，更因其诞生于宗教战争时期的传奇背景，被赋予了不可言喻的神圣光环。**每当**[战斗修女](/lore/warhammer-40k-sororitas-lore)**们在异端横行的**[底巢](/lore/warhammer-40k-underhive-battle)**展开残酷的血肉净化时，她们最信任的空中保镖永远是复仇者打击战斗机。** 那些狂热的修女甚至会越过常规的指挥链路，直接向海军点名要求复仇者编队提供超低空火力掩护。当钚芯爆矢弹与异端的惨叫交织在一起时，这种简单粗暴的火力覆盖，或许就是对战锤40K残酷宇宙中帝皇意志最完美的诠释。
+Avenger Strike Fighters 复仇者打击战斗机
 
-相关阅读换一换
-[战锤40K小说设定考据：撕裂虚空的宏伟舰船与极致毁灭美学](https://wh40knews.com/lore/warhammer-40k-void-warfare-lore-analysis)[战锤40K《先知》剧情硬核解析：恐惧之眼边缘的亚空间绝望死斗](https://wh40knews.com/lore/warhammer-40k-farseer-ambush)[战锤40K异星密会剧情硬核解构：妄图用全人类献祭混沌的万年大棋](https://wh40knews.com/lore/warhammer-40k-cabal-lore)[战锤40K神学黑幕：欧姆尼赛亚究竟是帝皇的马甲，还是被铁人目击的古老真神？](https://wh40knews.com/lore/omnissiah-lore-mechanicus-truth)[战锤40K《火与石》考据：火蜥蜴智库的反击与夜曲末日预言](https://wh40knews.com/lore/warhammer-salamanders-fire-stone-lore)[战锤40K小说剧情硬核解析：塔耳塔洛斯巢都生还者的绝望悲歌与空白符文](https://wh40knews.com/lore/warhammer-40k-tartaros-survival)[战锤40K小说剧情硬核解构：考尔降临蓬托斯阿凡尼斯与万年羁绊](https://wh40knews.com/lore/warhammer-40k-cawl-lore-analysis)[战锤40K小说解读：兽人氏族内斗与高夫军阀的血肉狂欢](https://wh40knews.com/lore/warhammer-40k-ork-clan-infighting)
+Its main targets are armoured vehicle formations and high-value strategic assets such as munitions or fuel dumps. The Avenger is an ancient design, believed to originate from Holy Terra during the Age of Strife. It was adopted by forces supporting Sebastian Thor during the bloody wars of faith and schism known as the Age of Apostasy.
+
+其主要目标是装甲载具编队和弹药或燃料堆等高价值战略资产。复仇者是一种古老的设计，据信起源于纷争时代的神圣泰拉。在被称为叛教时代的血腥信仰和分裂战争中，被支持塞巴斯蒂安·托尔的部队使用。
+
+Avenger Strike Fighters 复仇者打击战斗机
+
+It is a very effective design and is now a staple of any Imperial Navy air support mission. Due to its reputation of holiness, the Avenger is often specifically requested by the Adepta Sororitas should they require close support in their purgations.
+
+这是一种非常有效的设计，现在是任何帝国海军空中支援任务的支柱。由于其神圣的声誉，复仇者经常被修女会明确要求，如果她们在净化中需要近距离支援。
+
+## Variants 变体
+
+ - 
+
+Cypra Mundi Pattern 凯普拉·蒙迪型
+
+ - 
+
+Tellurian Pattern 大地型
+
+ - 
+
+An STC for the Inferno pattern Avenger was found by Deathwing terminators on the Space Hulk Olethros. This variant is "strictly reserved for Dark Angels support". 
+
+ - 
+
+太空废船毁灭号上的死翼终结者发现了炼狱型复仇者的STC。此变体“严格保留给黑暗天使支援”。

@@ -3,43 +3,192 @@ title: "战锤40K阿维鲁斯驳船硬核解构：撕裂帝国后勤防线的飞
 url: https://wh40knews.com/lore/warhammer-40k-arvus-lighter
 source: wh40knews
 lang: zh
+published: 2026-09-14T11:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/3
+The Arvus Lighter is a light cargo hauler used by the Imperial Navy to transport personnel and supplies. One of a wide variety of pinnaces, brigs, couriers and dories used by the Navy, the Arvus Lighter is the equivalent of the Imperial Guard's Trojan, fulfilling many of the same roles. Like the Trojan the Arvus has many affectionate nicknames such as "Flying Swine," "the Hog," "the Little Pig" and "the Onager," and Navy superstition holds that the craft's machine spirit is truculent and stubborn. The nicknames it has garnered are largely due to its reputation for durability and reliability in the field. The arvus is employed in the millions across the Imperium.
 
-在《战锤40K》（Warhammer 40k）那个人命比草贱的绝望宇宙里，如果一艘星际舰艇连个自卫武器都不带，你多半会觉得这玩意儿出门就会被亚空间恶魔当点心生吞了。但偏偏有这么一款“破船”，不仅在危机四伏的星海中混得风生水起，甚至成了帝国精锐部队眼里的香饽饽！它就是阿维鲁斯驳船（Arvus Lighter）——一台彻底把“性价比”三个字刻进机魂深处的绝地运载工具。
+阿维鲁斯驳船是帝国海军用来运输人员和物资的轻型货物运输者。阿维鲁斯驳船是海军使用的各种舰载艇、双桅船、信使和平底船之一，相当于帝国卫队的特洛伊，扮演着许多相同的角色。与特洛伊一样，阿维鲁斯也有许多亲切的绰号，如“飞猪”、“猪”、“小猪”和“野驴”，海军迷信认为这艘飞行器的机魂是凶猛而固执的。它之所以获得绰号，很大程度上是因为它在该领域的耐用性和可靠性。整个帝国有数百万人使用阿维鲁斯。
 
-**在**[人类帝国](/lore/warhammer-imperium-lore-analysis)**的庞大战争机器中，活着就是最大的真理。**
+Arvus Lighter 阿维鲁斯驳船
 
-## 帝国海军的暴脾气“飞猪”
+## Overview 概述
 
-千万别被它那短粗胖的滑稽外形给骗了，在帝国后勤的无尽绞肉机编制里，阿维鲁斯驳船可是实打实的骨干力量。作为帝国海军广泛装备的轻型货运穿梭机，它的战略定位几乎等同于星界军手里用来拉货的“特洛伊”支援载具。那些常年在虚空中舔血的舰队老兵们，给这台皮实耐造的铁王八起了无数个接地气的绰号——“飞猪”、“小猪”甚至“野驴”。这可不是什么嘲讽，而是实打实的战场口碑！
+The Arvus is a small, solid, reliable workhorse utility cargo shuttle, used by the ships of the Imperial Navy for transferring cargos of supplies or small units of personnel from ship-to-ship or ship-to-planet. Squat and durable, the Arvus has two powerful engines for carrying heavy loads. It has no armaments and is not expected to engage the enemy. It is commonly seen on the decks of large Imperial Navy ships or making repeat runs from surface to ship transporting supplies and men. The Arvus Lighter has surprisingly resilient armour and powerful engines, which ensure elite troops and officer cadres can be deployed right at the front lines without ground fire posing too much of a problem.
 
-据那些成天捣鼓[机械教](/lore/warhammer-40k-omnissian-axe-lore)黑科技的技术神甫透露，这玩意的机魂异常凶暴且死脑筋。正是这种头铁的特质，赋予了它在极端战场环境下近乎变态的耐用性与可靠性。试想一下，当无数高配战机在密集的防空火力下疯狂暴死时，这头“飞猪”却能顶着漫天弹雨，硬生生把关键物资和军官干部塞进前线阵地。
+阿维鲁斯是一种小型、坚固、可靠的耐用货运穿梭机，帝国海军的舰船使用它将物资或小型单位从一艘船转移到另一艘船或从一艘船运送到另一个行星。阿维鲁斯结实耐用，有两个强大的引擎，用于承载重物。它没有武器，预计不会与敌人交战。它通常出现在大型帝国海军舰船的甲板上，或者在运输物资和人员的地表上进行重复航行。阿维鲁斯驳船拥有令人惊讶的弹性装甲和强大引擎，确保精锐部队和军官干部可以直接部署在前线，而地面火力不会造成太大的问题。
 
-## 抠门到极致的暴力美学
+Arvus Lighters and a Rogue Trader ship 阿维鲁斯驳船和一艘行商浪人舰船
 
-没有武器系统？没有花里胡哨的电子反制设备？这种看似“背刺”驾驶员的设计，恰恰是阿维鲁斯最核心的战略优势。舍弃掉所有吃资源的冗余升级后，这台飞行器的量产成本被无限压低，帝国指挥官们可以像撒豆子一样在战区内进行饱和式部署。在绝对的数量与战术灵活性面前，这点载具战损简直比九牛一毛还要无足轻重。
+A lack of weapons and other fancy equipment might seem like a drawback, but the sheer frugality of the Arvus design is its greatest strength. Cutting back on resource-intensive upgrades means commanders can field them in considerable numbers for much greater operational flexibility, while losses are easily replaced. It has a longer range, too, carrying full life support systems for orbital travel and hazardous planetary environments. The hull of the Arvus is vacuum-sealed and can withstand the worst of planetary environmental conditions. This allows crews to survive inside of the wreckage of a downed Arvus up to weeks at a time before rescue by using the aircraft as an emergency shelter.
 
-更离谱的是它的维生系统简直强到不讲道理。这铁疙瘩不仅拥有极长的轨道航行续航，其真空密封的厚重船体更能硬抗最恶劣的行星极端气候。就算不幸被敌方火力糊了一脸坠毁在无人区，坚固的机身也能瞬间化身为不可摧毁的紧急避难所。只要不是直接被砸成肉泥，里面的乘员靠着全套维生设备，在残骸里硬撑个几星期等救援完全不是梦，这种保命神级设定让无数大头兵直呼真香。
+缺乏武器和其他精致的装备似乎是一个缺点，但阿维鲁斯设计的纯粹节俭是它最大的优势。减少资源密集型升级意味着指挥官可以大量部署它们，以获得更大的作战灵活性，同时损失很容易被弥补。它也有更长的航程，为轨道航行和危险的行星环境提供完整的生命支持系统。阿维鲁斯的船体是真空密封的，可以承受最恶劣的行星环境条件。这使得乘员可以在被击落的阿维鲁斯残骸中一次存活数周，然后将飞机用作紧急避难所进行救援。
 
-## 榨干机魂的极限改装潜能
+Arvus Lighter 阿维鲁斯驳船
 
-官方标准配置下绝对不配武器，这其实是军方高层玩的一个心眼——就是为了强行掐断飞行员脑子里那些不切实际的狗斗幻想。你一个开货运驳船的，老老实实拉货就行了，遇到敌机赶紧爆气开溜才是王道！但规矩是死的，人是活的。一旦这玩意被部署到环境极其险恶的敌对世界，前线的后勤大爷们分分钟能给你手搓出花来。
+As standard the Arvus is unarmed, intended to discourage pilots from getting involved in a fight they should avoid instead, although some will be modified to carry weapons when operating on hostile worlds. A wide variety of other adaptations also exist for the lighter, such as converting the cargo hold to carry fuel and turning it into a tanker or elongating the hull to carry more cargo at the expense of speed and handling. In need it can also be used as an assault boat, although it is not designed for this purpose.
 
-为了压榨出每一滴战术价值，阿维鲁斯的变体型号简直五花八门。有的直接把货舱掏空塞满高能燃料，摇身一变成了高危轨道加油机；有的则简单粗暴地拉长机身，宁可彻底牺牲掉原本就不富裕的操控性和速度，也要在肚子里多塞几吨军火。到了火烧眉毛的防线崩溃边缘，这头“飞猪”甚至能客串一把突击登陆艇，载着满腔怒火的精锐狠狠砸进敌人的阵营。
+作为标准配置，阿维鲁斯是无武装的，旨在阻止飞行员参与他们应该避免的战斗，尽管有些将被改装为在敌对世界作战时携带武器。对于驳船，还存在各种各样的其他改装，例如将货舱改装为运输燃料，并将其改造成油轮，或者以牺牲速度和操控性为代价延长船体来运输更多货物。在需要时，它也可以用作突击艇，尽管它不是为此目的而设计的。
 
-而在内部结构上，它可谓把“简陋”两个字发挥到了极致。狭窄憋屈的单人驾驶舱仅靠一个小舱口与后方货舱相连，标准的导航、传感和警报设备就是全部家当。不过为了保住那些金贵的精英干员，部分高配版也会大出血地加装弹射座椅、诱饵弹发射器甚至是复合装甲驾驶舱。后方的液压坡道一放，足足12名全副武装的猛男就能嗷嗷叫着冲向战场。
+Solar Auxilia Arvus Lighter 太阳辅助军阿维鲁斯驳船
 
-## 沦为亚空间绞肉机的异端型号
+The ship's interior is very basic and does not include many advanced systems beyond standard navigational and sensor equipment and proximity alarms. The Arvus Lighter is capable of transporting up to 12 passengers. It is crewed by a single pilot who controls the ship from a small cramped cockpit, connected to the cargo compartment by a small hatchway. The cockpit's screen can also swing up to allow access from the front, while the cargo compartment can be accessed by the rear ramp and transport twelve individuals. Some Arvus Lighters can also be fitted with an Ejector Seat, Flare or Chaff Launchers, an Armoured Cockpit or Illum Flares.
 
-既然这东西在帝国境内泛滥成灾，那些隐匿在黑暗中的异端势力自然也不会放过这种高性价比的耐造神车。在[混沌](/lore/warhammer-40k-chaos-game)阵营那群迷失者和被诅咒的叛军手里，坚固的阿维鲁斯同样是主力轨道运输载具。只不过在亚空间的严重腐化下，它的命运变得更加血腥和疯狂。
+该船的内部非常基础，除了标准的导航和传感设备以及接近报警器外，不包括许多先进的系统。阿维鲁斯驳船最多可搭载12名乘客。它由一名飞行员驾驶，他从一个狭小的驾驶舱控制船只，驾驶舱通过一个小舱口连接到货舱。驾驶舱的屏幕也可以向上摆动，以便从前方进入，而货舱可以通过后坡道进入，并运送12人。一些安维鲁斯驳船还可以配备弹射座椅、照明弹或箔条发射器、装甲驾驶舱或光闪光。
 
-那些极度嗜血的异端战团，根本不在乎什么飞行员生还率或是飞行力学。他们会把各种东拼西凑的破铜烂铁和重火力强行焊在阿维鲁斯身上，将其强行改造成一次性的自杀式突击艇。其中臭名昭著的MK23c姆潘德克斯（Mpandex）型号，更是沦为了混沌信徒发动行星空降时撕裂帝国防线的梦魇。
+Valkyrie and Arvus Lighters during atmospheric entry 进入大气层时的女武神和阿维鲁斯驳船
 
-**在这片连星星都在流血的银河里，无论是为了帝王还是诸神的注视，阿维鲁斯驳船永远在绝望中轰鸣。**
+## Technical Specifications 技术规格
 
-当战火彻底点燃深渊，无论是满载着狂热的信仰还是腐败的疯狂，这头倔强的钢铁野兽都将继续撕裂《战锤40K》那令人窒息的黑暗穹顶！
+ - 
 
-相关阅读换一换
-[战锤40K绿皮泰坦考据：从技师小子的废铁神像到神之化身加冈特](https://wh40knews.com/lore/warhammer-40k-ork-gargant-titan-lore)[战锤40K深度：极限战士VS火蜥蜴？一场以鲜血浇筑的“叛逆”推演](https://wh40knews.com/lore/warhammer-40k-ultramarines-vs-salamanders-remus-battle)[硬核解构黑石要塞：从古圣底牌到撕裂卡迪亚的终极星舰](https://wh40knews.com/lore/warhammer-blackstone-fortress-lore)[战锤40K霹雳重型战斗机硬核解构：服役万年的帝国空中绞肉机与凡人悲歌](https://wh40knews.com/lore/warhammer-thunderbolt-fighter-lore)[战锤40K《亡者不息》深度重述：当克里格上校选择抗命，连僵尸猫都成了致命梦魇](https://wh40knews.com/lore/warhammer-40k-relentless-dead-rewrite-krieg-zombies)[【战锤40K】拒绝灭亡的异端方舟：亚诺兰与“荒星之道”的银河求生录](https://wh40knews.com/lore/arnoland-craftworld-eldar-lore-guide)[战锤40K《巫灵狩猎》硬核精读：火蜥蜴绝地求生与黑龙纵身跃入深渊的极致疯狂](https://wh40knews.com/lore/warhammer-40k-wych-hunt)[战锤40K小说解读：凡躯绝命逃生与嗜血狂魔降临的血肉绞肉机](https://wh40knews.com/lore/warhammer-40k-novel-cage-survival)
+Type:General Purpose Cargo Shuttle - Small
+
+ - 
+
+类别：通用货运穿梭机-小型
+
+ - 
+
+Vehicle Name:Arvus Lighter
+
+ - 
+
+载具名称：阿维鲁斯驳船
+
+ - 
+
+Forge World of Origin:Bakka
+
+ - 
+
+起源铸造世界：巴卡
+
+ - 
+
+Known Patterns:IV-XXVII
+
+ - 
+
+已知型号：IV-XXVII
+
+ - 
+
+Crew:Pilot
+
+ - 
+
+乘员：驾驶员
+
+ - 
+
+Powerplant:2x RX-60-22 Rocket Engines
+
+ - 
+
+动力装置：两台RX-60-22火箭引擎
+
+ - 
+
+Weight:15 tonnes empty
+
+ - 
+
+重量：15吨空舱
+
+ - 
+
+Length:8.52m
+
+ - 
+
+长度：8.52米
+
+ - 
+
+Wingspan:8.2m
+
+ - 
+
+翼展：8.2米
+
+ - 
+
+Height:3.68m
+
+ - 
+
+高度：3.68米
+
+ - 
+
+Max Speed:1600kph at 5,000 feet
+
+ - 
+
+最大速度：5000英尺时1600公里/小时
+
+ - 
+
+Range:22,000km in atmosphere
+
+ - 
+
+射程：22000公里大气层
+
+Armour 装甲
+
+ - 
+
+Superstructure:15mm
+
+ - 
+
+上部结构：15毫米
+
+ - 
+
+Hull:15mm
+
+ - 
+
+船体：15毫米
+
+## Variants and patterns 变体和型号
+
+Besides the standard model, the Arvus has a longbody variant.
+
+除了标准型号外，阿维鲁斯还有一个长机身变体。
+
+ - 
+
+Lathes-pattern Arvus Lighter, Lathes sub-type XK-1112 — 8.5 metres long and 8.2 metres wide with a carrying capacity of twelve passengers. The crew consists of one pilot and one co-pilot/loadmaster.
+
+ - 
+
+拉斯型阿维鲁斯驳船，拉斯亚型XK-1112，长8.5米，宽8.2米，可搭载12名乘客。乘员由一名飞行员和一名副驾驶/装卸长组成。
+
+ - 
+
+'Little Grox' Variant — A field modification that removes all passenger seating, most of the armour and the few standard safety systems to better serve the logistic needs of overstretched Astra Militarum regiments. This variant is despised by its pilots, who have far less flattering nicknames than 'Little Grox'.
+
+ - 
+
+“小格洛克斯”变体 — 一种野战改装，取消了所有乘客座位、大部分装甲和少数标准安全系统，以更好地满足超负荷运转的星界军的后勤需求。这种变体受到飞行员的鄙视，他们的绰号远不如“小格罗克斯”那么讨人喜欢。
+
+ - 
+
+Onager Lighter - a similar model of shuttlecraft.
+
+ - 
+
+野驴驳船 - 类似的穿梭机设计。
+
+## Usage by the Forces of Chaos 被混沌部队使用
+
+The Lost and the Damned and other renegades are known to use Arvus Lighters. As sturdy orbital transfer shuttles, Arvus Lighters serve as the primary aerial transports of any renegade army. More aggressive heretic armies employ them as improvised assault craft when making planetary assaults, fitting them with jury rigged weapons. Known patterns used by the forces of Chaos include the MK23c Mpandex
+
+众所周知，迷失者和被诅咒者以及其他叛徒也会使用阿维鲁斯驳船。作为坚固的轨道转移穿梭机，阿维鲁斯驳船是任何变节军队的主要空中运输机。更具侵略性的异端军队在进行行星攻击时将其用作简易突击艇，并为其配备了应急操纵武器。混沌部队使用的已知型号包括MK23c姆潘德克斯
+
+Renegade Arvus Lighter 变节者阿维鲁斯驳船

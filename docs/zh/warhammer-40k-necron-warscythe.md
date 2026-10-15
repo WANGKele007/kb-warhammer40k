@@ -3,25 +3,44 @@ title: "战锤40K死灵战镰硬核解构：活金属重构近战神话与人死
 url: https://wh40knews.com/lore/warhammer-40k-necron-warscythe
 source: wh40knews
 lang: zh
+published: 2026-09-11T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/5
+A Warscythe is a type of Necron weapon composed of living metal and similar to the Phase Blades used by the Imperium.
 
-在《战锤40K》这个把近战砍杀视为终极浪漫的绝望宇宙里，如果你问什么武器能把优雅和暴力缝合得最为完美，太空死灵的战镰绝对是绕不开的终极答案。这把由活金属锻造的双手大杀器，本质上就是帝国引以为傲的相位刃的“祖宗级”完全体。它不仅是排面的象征，更是将纯粹的物理破坏力推向极致的亚空间绝命造物。
+战镰是一种由活金属组成的死灵武器，类似于帝国使用的相位刃。
 
-## 活金属与熵场发生器交织的绝命美学
+Necron Warscythe 死灵战镰
 
-作为惧亡者最高阶级的专属玩具，你通常只能在[死灵霸主](/lore/warhammer-40k-necron-overlords-lore)、高傲的领主以及那些死忠的巫妖卫手里看到这玩意。这帮金属骨架直接舍弃了光之杖那种不痛不痒的远程对射，把所有科技树全点在了近身肉搏的极致压迫感上。整把武器与他们驾驶的星神巨舰一样，由纯粹的活金属浇筑而成，刃口深处那台微型熵场发生器更是堪称无视防御的降维打击。当战镰挥舞时，动力核心疯狂过载，闪烁着代表使用者王朝专属纹章的刺眼光芒，重型能量力场在它面前简直像纸糊的一样可笑。
+## Overview 概述
 
-**无论是帝国**[黎曼鲁斯坦克](/lore/warhammer-40k-leman-russ)**的加厚装甲板，还是坚如磐石的地下掩体侧墙，战镰只需一记轻描淡写的横劈，就能将这些铁疙瘩像切黄油般彻底劈开。**
+Warscythes are used by high-ranking Necrons, including Overlords, Lords and Lychguards. It is of a similar design to the Staff of Light, although it has no ranged attack and is more formidable in melee. They are made of the same living metal as their ships and bodies and can carry itself effortlessly through all types of armour, including heavy energy fields, thanks to its own entropic field generator. A well-directed attack can take off the end of a Leman Russ Battle Tank or scythe open the side of a bunker. A Warscythe's power core blazes with the heraldic color of its wielder's Dynasty.
 
-### 万年不朽的能量场与人死镰存的讽刺悲歌
+高级死灵，包括霸主、领主和巫妖卫，都会使用战镰。它的设计与光之杖相似，尽管它没有远程攻击，但在近战中更可怕。它们由与船只和身体相同的活金属制成，由于其自身的熵场发生器，可以毫不费力地穿过各种类型的盔甲，包括重型能量立场。一次有针对性的攻击可以摧毁黎曼鲁斯主战坦克的末端，也可以用镰刃打开掩体的侧面。战镰的力量核心闪耀着其使用者王朝的纹章色彩。
 
-官方在设定上还埋了个极具反差感的核心痛点，战镰那狂暴的能量立场产生了一个堪称无解的副作用。这把武器本身几乎就是个不可摧毁的绝对实体，无数凡人将士用绝望换来了血淋淋的实锤数据。曾有数次详细的战报记录表明，那些被帝国星界军集火死磕的战镰，硬吃下高功率激光炮乃至涡轮激光的正面轰击后，依然连一道划痕都不带有的。但官方没明说的“刀子”就在这里，这种逆天级别的物理防御仅仅覆盖武器本身，丝毫没有分给握着它的主人。
+Necron Lord with a Warscythe 装备战镰的死灵领主
 
-在绞肉机般的残酷战场上，经常会上演一出极其嘲讽的惨剧。高阶死灵主帅在密集的火力网中被打成满地冒着电火花的金属残渣，而那把闪耀着王朝光辉的战镰却毫发无损地斜插在焦土之中，默默嘲笑着凡人火力的羸弱与主人的脆弱。这种“装备比人命硬”的绝望设定，属实把[人类帝国](/lore/warhammer-imperium-lore-analysis)面对异形科技时的无力感，以及惧亡者那冰冷又讽刺的种族底色拔高到了新的层次。
+A curious side effect of the warscythe’s power field is to render the weapon almost impossible to destroy. There are several well-documented instances of warscythes surviving direct hits from lascannons, and even from turbo-lasers, with little harm to show for it. Unfortunately, this protection does not extend to the wielder, and it is quite common for a warscythe to survive a battle where its master does not.
 
-说到底，在这片永远燃烧的星海中，无论肉身还是机械终将迎来腐朽，唯有《战锤40K》里这些沾满鲜血的冰冷凶器，才能真正跨越千万年的岁月，成为凝视着整个银河陨落的终极见证者。
+战镰能量立场的一个奇怪的副作用是使武器几乎不可能被摧毁。有几个有充分记录的实例表明，战镰在激光炮甚至涡轮激光的直接打击下幸存下来，几乎没有造成什么伤害。不幸的是，这种保护并没有延伸到使用者身上，而且战镰在主人没有的幸存的战斗中幸存下来是很常见的。
 
-相关阅读换一换
-[灰骑士至高大导师：泰坦星上的绝对主宰与马卡多的九人遗产](https://wh40knews.com/lore/grey-knights-supreme-grand-master-lore)[每日异端：审判庭眼皮底下的快乐，今日份亚空间精神污染请查收](https://wh40knews.com/lore/warhammer-40k-daily-heresy-memes)[火蜥蜴血洗科摩罗暗礁，战锤40K黑暗灵族命丧血肉账本](https://wh40knews.com/lore/salamanders-dark-eldar-lore)[终末的女武神同人：当帝皇、琦玉与史蒂夫参战，这不仅是诸神黄昏，更是众神的葬礼](https://wh40knews.com/lore/ragnarok-fanfic-emperor-saitama-crossover)[战锤40K金牛装甲运输车硬核解构：大远征与叛乱时代的凡人重甲绞肉机](https://wh40knews.com/lore/aurox-armoured-transport-lore)[战锤40K考据：流散者文明的共生悲歌与大远征底下的血色背刺](https://wh40knews.com/lore/warhammer-40k-diasporex-lore)[战锤40K杀戮小队：族群秘会Genestealers Broodcoven模型深度鉴赏](https://wh40knews.com/lore/kill-team-genestealers-broodcoven-showcase)[战锤40K小说《先知》解构：无防护灵魂引擎与恶魔王子的绝地死斗](https://wh40knews.com/lore/warhammer-40k-farseer-engines)
+Necron Overlord with a Voidscythe 装备虚空镰的死灵霸主
+
+## Variants 变体
+
+ - 
+
+Pariahs carry a model of Warscythe with a built-in Gauss Blaster.
+
+ - 
+
+流放者携带了一个内置高斯爆破者的战镰设计。
+
+ - 
+
+A more traditionally scythed-shape variant of the Warscythe known as the Voidscythe is also used by Overlords.
+
+ - 
+
+霸主也使用一种更传统的镰刀形态的战镰变体，称为虚空镰。

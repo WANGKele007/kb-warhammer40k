@@ -3,31 +3,88 @@ title: "【战锤40k】LEX翻译：乌尔夫海姆之战"
 url: https://wh40knews.com/lore/warhammer-40k-ulvheim-battle
 source: wh40knews
 lang: zh
+published: 2026-09-07T11:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/6
+The Battle of Ulvheim also known as the Last Battle of the Pit, was a battle of the Indomitus Crusade.
 
-在《战锤40K》（Warhammer 40K）那令人窒息的宏大叙事中，乌尔夫海姆之战绝对是被官方埋在设定集深处的一把淬毒匕首。这场被老玩家戏称为深坑终战的绞肉局，不仅仅是[不屈远征](/lore/warhammer-indomitus-crusade-analysis)中一次寻常的战术碰撞，更是罗伯特·基里曼落子帝国暗面的一场绝命豪赌。当纳克蒙德裂隙的防线被战火彻底撕裂，一条名为阿提兰之门的全新亚空间通道成了帝国最后的救命稻草。在这条生死线上的博弈，将帝国、混沌与死灵的三方因果死死绞杀在了一起。
+乌尔夫海姆之战也被称为深坑终战，是不屈远征的一场战斗。
 
-回顾早先的劳科斯深坑血战，基里曼的远征军好不容易在这里砸下了一颗钉子，并将防守重任交给了年轻却极其凶悍的[狼矛](/lore/warhammer-40k-ulvheim-lore)战团。大裂隙的另一头早已是群魔乱舞的绝望死局，阿提兰之门的发现无疑是黑暗中燃起的一根火柴。为了彻底夯实这条战略大动脉，基里曼下达了那个疯狂的指令，也就是让贝利撒留·考尔用死灵方尖碑的异端黑科技来强行稳定亚空间大门。此时的考尔正游荡在废弃的世界引擎中疯狂薅死灵的羊毛，而奥特拉玛英杰德西穆斯·菲利克斯则带着维斯帕托亲选火速驰援乌尔夫海姆，与战团长伊里克·斯蒂安诺夫麾下的阿斯塔特们共同构筑起最后的血肉防线。
+ - 
 
-### 亚空间算计与死灵黑科技的硬核碰撞
+Conflict:Indomitus Crusade
 
-恶魔领主造物者瓦什托尔显然不会看着帝国如此轻易地重塑交通网，这场战争从一开始就是针对考尔的精准陷阱。随着深坑底部的亚空间壁垒被撕裂，混沌的先头部队如潮水般涌出。那些扭曲的恶魔侦察兵伴随着庞大的[灵魂研磨者](/lore/warhammer-40k-soul-grinder)轰然踏上现实维度的土地，将灵魂抵押给瓦什托尔的恶魔王子恩'斯拉戈尔顺势掀起了全面入侵的狂潮。
+ - 
 
-**混沌军团的斩首行动极其明确，他们直接将毁灭的矛头对准了乌尔夫海姆地表正在铺设的方尖碑网络。**
+冲突：不屈远征
 
-在这场纯粹的消耗战中，狼矛战团与菲利克斯的精锐被迫卷入了最惨烈的近身肉搏，爆弹枪的轰鸣与链锯剑的撕裂声在亚空间的腐化气息中显得无比苍白。防线在恶魔的无尽冲击下濒临崩溃，帝国的星际战士们几乎要被这片血肉狂欢彻底吞噬，战术败局似乎已经无可挽回。
+ - 
 
-### 机械降神与虚无能量的绝地反洗地
+Date:~015.M42
 
-就在现实维度即将被亚空间彻底倒灌的读秒阶段，探索者之王号如同撕裂黑夜的利刃般硬生生从网道中杀出。考尔不仅带着他那令人咋舌的个人私兵，其中包括海量护教军与杀戮效率极高的战斗自动机，更带来了塔兰尼斯家族那遮天蔽日的骑士泰坦阵列。这种粗暴且不讲道理的机械降神，瞬间在绝望的战场上砸出了一片真空区。
+ - 
 
-**大贤者落地的瞬间，便将刚从世界引擎中解析出的死灵底层数据直接注入了方尖碑阵列，这波神级微操直接将战局推向了高潮。**
+日期：~015.M42
 
-随之爆发的虚无能量如同超新星爆炸般席卷了整个乌尔夫海姆，这种绝对理性的死灵黑科技对亚空间实体造成了毁灭性的降维打击。所有的恶魔在凄厉的尖啸中被强行剥离出现实宇宙，而正与菲利克斯进行生死决斗的恶魔王子恩'斯拉戈尔，甚至连遗言都没来得及交代就在这股反灵能风暴中被彻底抹除。这场豪赌最终以考尔的立场完全封死劳科斯深坑、阿提兰之门彻底稳定而告终。
+ - 
 
-考尔与菲利克斯站在满地灰烬的战场上，没有进行任何胜利者的寒暄，只是冷冷地宣布了他们即将跨过大门并追随原体杀入帝国暗面的决绝意志。在《战锤40K》（Warhammer 40K）这台永不休止的绝望绞肉机里，每一场惨胜的终点永远只是下一场更庞大血肉狂欢的垫脚石。
+Location:Ulvheim
 
-相关阅读换一换
-[战锤40K泰伦恶行虫硬核考据：撕裂防线的活体装甲与绝望绞肉机](https://wh40knews.com/lore/warhammer-tyranid-malefactor-lore)[幻想知乎问题-假如你穿越《战锤40K》，你是什么心情？想法？怎么做？（二版）](https://wh40knews.com/lore/guilliman-warhammer-40k-alternate-heresy)[战锤40K设定考据：瓦斯'塔罗斯——钛帝国眼中的史诗大捷，为何只是人类帝国账面上的“微不足道”？](https://wh40knews.com/lore/vastalos-prefectia-tau-lore-analysis)[战锤40K哈米吉多顿星系硬核考据：绿皮狂潮下的血肉绞肉机与绝地堡垒全解构](https://wh40knews.com/lore/warhammer-40k-armageddon-lore)[战锤40K空战实录：哈昆巢都上空的钢铁挽歌与生死极速](https://wh40knews.com/lore/jagdea-aerial-combat-story-breakdown)[战锤40K卡'班哈之陨：圣血天使与灰骑士的跨界联手，以及那根刺穿大魔心脏的传奇腿骨](https://wh40knews.com/lore/warhammer-40k-kabandha-fall-lore)[战锤40K帝国王座世界泰拉深度考据：从地球废墟到血肉绞肉机的万年演变](https://wh40knews.com/lore/warhammer-40k-terra-lore)[战锤40K小说精读：政委瓦利安绝命逃亡与雷兹兰六号撤退惨剧](https://wh40knews.com/lore/warhammer-40k-commissar-escape)
+ - 
+
+地点：乌尔夫海姆
+
+ - 
+
+Outcome:Imperial victory
+
+ - 
+
+结果：帝国胜利
+
+ - 
+
+Combatants:Imperium of Man/Cogs of Vashtorr
+
+ - 
+
+作战方：人类帝国/瓦什托尔的齿轮
+
+ - 
+
+Commanders:Tetrarch Decimus Felix, Archmagos Belisarius Cawl, High Jarl Irik Stianolf, Jarl Bjarni Arvisson/Daemon Prince N'Thragor (KIA)
+
+ - 
+
+指挥官：英杰德西穆斯·菲利克斯，大贤者贝利撒留·考尔，高酋长伊里克·斯蒂安诺夫，酋长比亚尼·阿尔维松/恶魔王子恩'斯拉戈尔
+
+ - 
+
+Strength:Wolfspear, Chosen of Vespator, Skitarii, Legio Cybernetica, House Taranis elements/Cult of the ArkifaneSoul Grinders
+
+ - 
+
+力量：狼矛，维斯帕托亲选，护教军，智控军团，塔兰尼斯家族成员/造物者教派灵魂研磨者
+
+ - 
+
+Casualties:Unknown, Austen, Cadmus, Troncus/All killed or banished
+
+ - 
+
+伤亡：未知，奥斯汀，卡德摩斯，特隆库斯/全部被杀或放逐
+
+### Overview 概述
+
+Following the earlier Battle of the Pit of Raukos, Roboute Guilliman's Indomitus Crusade was able to establish a presence in the Pit of Raukos, which became guarded by the WolfspearSpace MarineChapter. A new route through the Great Rift into Imperium Nihilus was discovered nearby, dubbed the Attilan Gate, making the region extremely strategically important with the Nachmund Gauntlet beset by war. Guilliman dispatched Belisarius Cawl to attempt to stabilize the Gate with NecronPylon technology.
+
+在早些时候的劳科斯深坑之战之后，罗伯特·基里曼的不屈远征得以在劳科斯深坑建立存在，由狼矛星际战士战团守卫。附近发现了一条穿过大裂隙进入帝国暗面的新路线，被称为阿提兰之门，这使得该地区对被战争困扰的纳克蒙德裂隙具有极其重要的战略意义。基里曼派遣贝利撒留·考尔试图用死灵方尖碑技术稳定大门。
+
+As Cawl attempted to acquire more Necron technology from a derelict World Engine, Tetrarch of UltramarDecimus Felix arrived at Ulvheim to reinforce the Wolfspear forces under Chapter MasterIrik Stianolf. Soon after Felix's arrival, forces ofVashtorr the Arkifane began to emerge from the Pit of Raukos as part of a plan by the Daemon lord to draw out Cawl. After fighting through a scout force of Daemons and a Soul Grinder, the full invasion began under the Vashtorr-pledged Daemon PrinceN'Thragor. The Chaos forces struck directly at Cawl's Pylon network on Ulvheim and the Wolfspear alongside Felix's Chosen of Vespator were about to be overrun. However it was then that the Zar-Quaesitor emerged from the Warp, carrying Cawl and his personal army of Skitarii, Battle-Automata, and House TaranisKnights. As the reinforcements arrived, Cawl was able to land on Ulvheim and use his newly acquired Necron data to activate the Pylon array. The ensuing blast of null energy banished all the Daemons and obliterated N'Thragor as he was battling Felix.
+
+当考尔试图从一台废弃的世界引擎中获得更多的死灵技术时，奥特拉玛英杰德西穆斯·菲利克斯抵达乌尔夫海姆，增援战团长伊里克·斯蒂安诺夫的指挥下狼矛部队。菲利克斯抵达后不久，作为恶魔领主引出考尔计划的一部分，造物者瓦什托尔的部队开始从劳科斯深坑中出现。经过一支由恶魔和灵魂研磨者组成的侦察部队的战斗，在被抵押给瓦什托尔的恶魔王子恩'斯拉戈尔的带领下，全面入侵开始了。混沌部队直接袭击了考尔在乌尔夫海姆的方尖碑网络，与菲利克斯的维斯帕托亲选并肩作战的狼矛即将被压倒。然而，就在那时，探索者之王号从亚空间中出现，带着考尔和他的个人军队护教军、战斗自动机和塔兰尼斯家族骑士。随着增援部队的到来，考尔能够降落在乌尔夫海姆，并使用他新获得的死灵数据来激活方尖碑阵列。随之而来的虚无能量爆炸放逐了所有的恶魔，并在恩'斯拉戈尔与菲利克斯战斗时消灭了他。
+
+After the battle, it was revealed that Cawl's field had completely sealed the Pit of Raukos and stabilized the Attilan Gate. Cawl and Felix both announced their intentions to travel into the Gate to follow Guilliman into Imperium Nihilus.
+
+战斗结束后，据透露，考尔的立场已经完全封锁了劳科斯深坑，并稳定了阿提兰之门。考尔和菲利克斯都宣布他们打算进入大门，跟随基里曼进入帝国暗面。

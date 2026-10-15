@@ -3,33 +3,84 @@ title: "战锤40K卡塔昌刀硬核解构：撕裂丛林的凡人血肉兵器"
 url: https://wh40knews.com/lore/warhammer-40k-catachan-knives-lore
 source: wh40knews
 lang: zh
+published: 2026-09-20T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/9/24
+*"I've seen **Orks** the size of **Sentinels**, that could punch a man's head clean off. Seen them **Tyranids** swarming over the ridge at **Shatterpeak**, all blades and fangs and spittin' acid that turned tanks into metal sludge. I was right in the middle of **Kalda City** when the firestorm came down, and went toe-to-toe with **Chaos** worshipers so crazed with their false religion that they'd keep fighting a man even as they burned up like rations on a cookfire. Through all that I learned one thing that always holds true. Don't matter how big, or crazed, or unnatural your enemy is, he can't kill you if you saw his damn head off with your Catachan fang." *— Corporal'Razorback' Mahoney, Catachan XLI.
 
-在《战锤40K》（Warhammer 40,000）那被鲜血与绝望浸透的宏大叙事里，总有些凡人蝼蚁试图用纯粹的物理学常识去对抗亚空间的牛鬼蛇神。对于星界军中那群把异星猛兽当晚饭啃的卡塔昌丛林战士而言，激光枪不过是会发光的烧火棍，真正能让他们在死亡世界硬撼泰伦虫族的，是那把别在腰间的卡塔昌刀。今天咱们就来硬核解构一下这玩意儿，看看这块只产自猛男老家的特种合金，到底藏着多少让异形破防的潜台词。
+*“我见过哨兵大小的欧克，它可以把一个人的头打没。看到泰伦在碎峰的山脊上蜂拥而至，所有的刀刃、尖牙和吐出的酸液把坦克变成了金属污泥。大火来临时，我就在卡尔达城中心，与混沌崇拜者面对面，他们疯狂地信奉他们的虚假宗教，即使他们像炉灶上的口粮一样燃烧，他们也会继续与一个人战斗。通过这一切，我学到了一件永远正确的事情。无论你的敌人有多大，有多疯狂，有多不自然，如果你把他那该死的脑袋用你的卡塔昌尖牙砍掉，他就杀不死你。”* - “豪猪”马奥尼下士，卡塔昌XLI。
 
-## 丛林法则下的硬通货：卡塔昌刀的阶级隐喻
+Amongst the many weapons of the Catachan Jungle Fighters, their Catachan Knives are one of the most valued.
 
-卡塔昌刀绝不是流水线上量产的工业垃圾，这玩意儿的锻造钢材只存在于那颗绿色的噩梦星球上。一把开过光的原厂卡塔昌刀，就算你拿去劈砍千百个[纳垢](/lore/warhammer-40k-spacewolves-nurgle-lore)恶魔的烂肉，它的锋刃也绝不会崩口生锈。这种极致的可靠性直接导致它在整个[人类帝国](/lore/warhammer-imperium-lore-analysis)的黑市上被炒上了天价。别看那些在各个星区坑蒙拐骗的行商浪人手里总攥着几把所谓的“原品”，懂行的老屁股都知道，想搞到真正的正品？你只能去卡塔昌人的尸体上扒。但这特么比单刷混沌[星际战士](/lore/warhammer-40k-spacemarine-visual)还要命，毕竟对这群猛男来说，刀在人在，刀亡人亡。卡塔昌人宁愿被砍掉右臂，也绝不可能把这把刀拱手让人。在这颗死亡之星上，学会自己锻造一把顺手的刀是成年的唯一考核标准。虽然基础版型大差不差，但不同家族的工匠总会根据个人的肌肉发力习惯进行微调。
+在卡塔昌丛林战士的众多武器中，他们的卡塔昌刀是最有价值的武器之一。
 
-## 撕裂防线的血肉绞肉机：刀型全考据
+## Overview 概述
 
-当我们翻开[审判庭](/lore/warhammer-40k-daily-heresy-visuals)的装备档案，那些细分的型号简直就是一部暴力的演化史。首当其冲的就是那把名震千百个星系的“卡塔昌尖牙”。足足二十英寸长的冰冷特种钢，这不仅是这群丛林幽灵最泛用的制式武器，更是他们解决内部矛盾的绝对真理。把刀往决斗坑里一插，谁先见血谁就滚蛋，当然，顺手把同僚大动脉割断的情况也屡见不鲜。
+The steel alloy used for these knives is only found on Catachan. A well-honed Catachan blade will not rust and its edge will remain keen even after continuous use. Catachan knives are highly valued and sought after throughout the Imperium. Many counterfeit copies are sold by roaming traders, but the only way to get an authentic Catachan knife is to take it from a Catachan.
 
-如果你以为这帮肌肉棒子只会正面硬刚，那“午夜死神”绝对能让你死个明白。这把通体哑光黑的小型利刃，简直就是为渗透背刺量身定制的阴间玩意儿。为了追求极致的放血效率，它的刀身被反人类地打造成了三角形，被这玩意捅上一刀，哪怕是[欧克兽人](/lore/warhammer-40k-ork-visual-archive)的体质也别想轻易止血。更阴损的是，卡塔昌的老阴比们最喜欢给它淬上母星特产的见血封喉毒液，主打一个众生平等。
+用于这些刀的钢合金仅在卡塔昌上发现。经过精心打磨的卡塔昌刀不会生锈，即使在连续使用后，其边缘也会保持锋利。卡塔昌刀在整个帝国都受到高度重视和追捧。许多仿造的复制品都是由漫游商人出售的，但要获得一把真正的卡塔昌刀，唯一的方法就是从卡塔昌人那里获得。
 
-至于“魔鬼之爪”，这玩意儿在设定上已经彻底脱离了“刀”的范畴。卡塔昌人管它叫刀，但在任何人眼里这都是一把长达四英尺的重型斩剑。名字直接碰瓷了母星最恐怖的顶级掠食者，其内部甚至丧心病狂地采用了中空设计并注入了水银。当这把刀挥舞起来时，水银的流动配重能把离心力拉扯到极致，普通人双手都未必拿得稳，但在卡塔昌精英小队手里，它就是近战清场的终极绞肉机。就连向来以近战蛮力自傲的欧克兽人，在吃过亏后都得尊称它一声“切割者”（Da Cutta）。它的原厂设计思路甚至直接影响了卡塔昌动力剑的铸造标准。
+This is not an easy task, however, as the Catachans place a tremendous value on their knives. It is said that a Catachan will rather give up his or her right arm than their knife. That is because for a Catachan Jungle Fighter, their knife is not simply a tool or a weapon but also a mark of their status. Each Catachan learns the craft of making knives from their parents and making your own knife is considered one of the tests of adulthood. While the basic design of the knives remains the same, there are subtle variations between family groups and individuals, depending on the height and preferences of the user.
 
-除此之外，设定集里还零星记录了十八英寸的“切割者”，以及名为“切脏者”的屠夫特供。但最让人津津乐道的，绝对是传奇猛男斯莱·马博专属的那把“毒害之刃”。这把特制的淬毒凶器，不知道在亚空间边缘送走了多少自命不凡的异形督军。
+然而，这并不是一件容易的事，因为卡塔昌人非常重视他们的刀。据说，卡塔昌人宁愿放弃他或她的右臂，也不愿放弃他们的刀。这是因为对于卡塔昌丛林战士来说，他们的刀不仅仅是一种工具或武器，也是他们地位的标志。每个卡塔昌人都会从父母那里学习制作刀的手艺，而制作自己的刀被认为是成年的考验之一。虽然刀的基本设计保持不变，但根据使用者的身高和喜好，家庭群体和个人之间存在微妙的差异。
 
-## 玩家常见疑问 (FAQ)
+## Variants 变体
 
-Q: 卡塔昌刀真有设定里吹的那么神？连星际战士的装甲都能破？
+### Catachan Fang 卡塔昌尖牙
 
-A: 别被宏大叙事忽悠了。面对动力甲，凡人的物理力量依然是硬伤。但卡塔昌刀的含金量在于其极致的材料学奇迹和特殊地形下的斩杀效率，这玩意儿是用来在丛林里悄无声息地割喉的，不是让你去跟[无畏机甲](/lore/warhammer-40k-iron-dragon-lore)拼刺刀的。
+Measuring up to twenty inches of gleaming steel, the Catachan Fang is the most common type of knife used by the Catachan regiments. It is renowned as a symbol of the Catachan Jungle Fighters across a thousand systems and is equally useful for cutting your way through jungle or enemies of humanity. This knife is also used for settling disputes between Catachans: one knife is placed in the centre of a fighting pit and the combatants must each strive to get hold of it. The duel ends when one fighter draws blood, but some duels still end with death.
 
-在这个充斥着亚空间邪神和轨道轰炸的疯狂宇宙里，《战锤40K》的卡塔昌刀用最原始的钢铁碰撞，死死守住了人类凡人军团那微不足道却又无比刚烈的底线。
+测量长达20英寸的闪耀的钢，卡塔昌尖牙是卡塔昌兵团使用的最常见的刀。它被誉为跨越一千个星系的卡塔昌丛林战士的象征，对于穿越丛林或人类之敌同样有用。这把刀也用于解决卡塔昌人之间的纠纷：一把刀放在战斗坑的中心，战斗人员必须各自努力抓住它。当一名战斗人员流血时，决斗结束，但有些决斗仍然以死亡告终。
 
-相关阅读换一换
-[战锤40K杀戮小队：基因窃取者教派“族群裔兵”模型细节全解析](https://wh40knews.com/lore/kill-team-genestealer-brood-brothers)[战锤40K剧情考据：帝国之拳的深渊救赎与死亡守望的极致背刺](https://wh40knews.com/lore/warhammer-imperial-fists-lore)[战锤40K短篇精读：卡尔加在恐惧之眼边缘的忏悔与复仇誓言](https://wh40knews.com/lore/marneus-calgar-eye-of-terror-story)[战锤40K小说试读：当太阳领主下马步战，用一条“人命填出来的路”告诉阿提拉骑兵什么是帝国的代价](https://wh40knews.com/lore/lord-solar-leontus-novel-excerpt-analysis)[战锤40K女禁军节奏再起？比起性别对立，GW的割韭菜吃相才是真难看](https://wh40knews.com/lore/warhammer-40k-female-custodes-controversy-analysis)[战锤40K官方小说《秘密战争》终章精翻：当黑暗天使的头骨出现在钛族机甲座舱](https://wh40knews.com/lore/warhammer-40k-secrets-war-ending)[战锤40K小说《流浪者中队》精读：帝国高层的政治秀与精英飞行员的必死局](https://wh40knews.com/lore/warhammer-vagabond-squadron-lore-analysis)[战锤40K小说《飞越极限》：当帝国宣传官遇见最不想见的政委，揭开王牌飞行员沙德的绝望真相](https://wh40knews.com/lore/warhammer-40k-above-and-beyond-story-3633)
+Catachan Fang 卡塔昌尖牙
+
+### Night Reaper 午夜死神
+
+Smaller than other typical designs, the blackened blade of the Night Reaper is especially suitable for infiltration and night missions, when light reflecting from a blade can mean the difference between life and death. The blade itself is triangular in shape, so any wound caused by it is unlikely to knot or heal. Catachans are also known to poison these knives using one of the many venoms native to their nightmarish world, making them even more deadly.
+
+与其他典型设计相比，午夜死神的黑色刀刃更小，特别适合渗透和夜间任务，因为刀刃反射的光线可能意味着生与死的区别。刀刃本身是三角形的，所以它造成的任何伤口都不太可能扎牢或愈合。众所周知，卡塔昌人也会用他们噩梦般的世界中固有的多种毒液之一涂毒这些刀，使它们更加致命。
+
+Night Reaper 午夜死神
+
+### Devil's Claw 魔鬼之爪
+
+The Catachans refer to these massive blades as knives. To everyone else, they're hefty swords.
+
+卡塔昌人将这些巨大的刀刃称为刀。对其他人来说，它们是沉重的剑。
+
+Devil's Claw 魔鬼之爪
+
+Named after the Catachan Devil - the fearsome predator of the Catachan jungles, this is the largest type of the traditional knives of Catachan. Anywhere between three and four feet long, the mercury-weighted Devil's Claw is closer to a sword than a knife. The blade is hollow and half filled with mercury to give it greater swinging power that would take most humans two hands to even lift the weapon. It is used mainly on the battlefield in close quarters and it has even achieved a fearsome reputation amongst Orks, who call it 'Da Cutta'. Catachan Power Swords are often identical in design to the Devil's Claw. The elite Catachan Devil Squads are also partly named after these knives, which they wield in battle.
+
+这款刀以卡塔昌魔鬼命名，它是卡塔昌丛林中可怕的捕食者，是卡塔昌传统的刀中最大的一种。在三到四英尺长的地方，水银加重的魔鬼之爪比刀更接近剑。刀刃是中空的，半充汞，使其具有更大的摆动力，大多数人甚至需要双手才能举起武器。它主要在战场上近距离使用，甚至在欧克中获得了可怕的声誉，他们称之为“切割者”。卡塔昌动力剑的设计通常与魔鬼之爪相同。精英卡塔昌魔鬼小队也部分以他们在战斗中挥舞的这些刀命名。
+
+ - 
+
+Catachan Mk I "Devil's Claw" Sword 卡塔昌Mk I“魔鬼之爪”剑
+
+ - 
+
+Catachan Mk IV "Devil's Claw" Sword 卡塔昌Mk IV“魔鬼之爪”剑
+
+ - 
+
+Catachan Mk VII "Devil's Claw" Sword 卡塔昌Mk VII“魔鬼之爪”剑
+
+### Dicer 切割者
+
+An eighteen inch Catachan Knife.
+
+一把十八英寸的卡塔昌刀。
+
+### Envenomed Blade 毒害之刃
+
+The Envenomed Blade is a special poison-coated Catachan knife carried by the legendary GuardsmanSly Marbo.
+
+毒害之刃是一把特殊的涂有毒药的卡塔昌刀，由传奇卫兵斯莱·马博携带。
+
+### Gutslicer 切脏者
+
+A type of Catachan Knife.
+
+一种卡塔昌刀。

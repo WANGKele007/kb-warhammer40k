@@ -3,37 +3,360 @@ title: "战锤40K灵族先知硬核解构：逆天改命的亚空间微操大师
 url: https://wh40knews.com/lore/warhammer-40k-farseer-lore-5167
 source: wh40knews
 lang: zh
+published: 2026-09-05T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/3
+Farseers are AsuryaniPsykers, and among the most powerful mystics in the galaxy. They are most often known for using their vast psychic powers to see the possibilities of the future to be able to manipulate events to better ensure the survival of the Eldar. Whenever cataclysm has threatened the Eldar, it has always been forseen and subsequently vanquished, redirected, or ameliorated at the direction of the Farseers – often ending threats before they begin.
 
-放眼整个[战锤40K](/lore/warhammer-imperium-lore-analysis)宇宙的残酷舞台，阿苏焉尼灵族（Asuryani）绝对是天天走钢丝的极端生存户。而在这群极度依赖亚空间灵能却又怕得要死的尖耳朵里，先知（Farseer）无疑是撑起整个种族存续的究极底牌。这帮银河系顶级的潜修者，硬是靠着逆天改命的灵能预知力，把无数足以让灵族彻底暴死的灾厄掐灭在摇篮里。每次大吞噬者或者混沌军团企图吃干抹净时，他们总能未卜先知，通过微操时间线完成极其离谱的规避动作。
+先知是阿苏焉尼灵能者，也是银河系中最强大的潜修者之一。他们最出名的是利用自己巨大的灵能力量看到未来的可能性，从而能够操纵事件，更好地确保灵族的生存。每当大灾难威胁到灵族时，它总是被预见到，随后在先知的指引下被征服、重定向或改善 - 通常在威胁开始之前就结束了。
 
-## 迷失于先知之路的宿命狂徒
+Eldar Farseer 灵族先知
 
-说到底，先知的本质就是一群在“先知之道”上飙车飙到彻底迷失方向的前战巫。这和那些彻底沦为杀戮兵器的支派神龛主教简直如出一辙，只不过他们沉迷的是窥探命运的无尽深渊。每一个方舟世界都把这极少数的先知当成活体国宝供着。如果你在战场上看到骑着灵族悬浮摩托一路狂飙的，那就是传说中的先知驰空者（Farseer Skyrunners），机动性拉满的法系大核。
+## Overview 概述
 
-平日里，这帮大佬几乎从来不干人事儿，甚至连清醒的时间都不多。他们绝大部分岁月都在一种极致的恍惚状态中度过，将自己的精神本体剥离，任其在方舟世界那错综复杂的灵骨网络中疯狂游荡。在这里，他们就是主宰整个方舟灵能脉络的超级处理器。靠着在无尽的时间线里推演沙盘，他们精确计算出可能威胁方舟的任何亚空间波动，提前拨动命运的齿轮。虽然平时懒得出面打架，但如果方舟真被逼到了亡族灭种的悬崖边，这群平时足不出户的老骨头就会亲自下场。要知道，他们随手捏碎次等生物脑壳的威力，绝对能让任何敢于轻视战锤40K灵族法系爆发的敌人当场怀疑人生。
+A Farseer is a former Warlock who has become lost on the Path of the Seer, much like the Exarchs who have become lost on the Path of the Warrior. Farseer on Eldar Jetbikes are known as Farseer Skyrunners. Farseers are amongst the most powerful of Seers and every Craftworld has a handful of Farseers among their number.
 
-## 降维打击的星海微操大师
+先知是指迷失在先知之路上的前战巫，就像迷失在战士之路上的主教一样。灵族悬浮摩托上的先知被称为先知驰空者。先知是最强大的预言家之一，每个方舟世界都有少数先知。
 
-只要在灵族的道途上走得够远，大部分修道者都会选择跳槽去体验新生活。但总有那么几个狠人，执意披上先知的那身符文斗篷，把自己的余生死死焊在了这条无法回头的巫师之途上。一旦做出这个决定，他们就会把全部精力砸在深挖灵能力量上。每天的日常就是疯狂抛洒先知符文，在亿万种可能的未来中进行着哪怕是帝国超算都会宕机的海量推演。
+Farseer 先知
 
-这种宏观视角的降维打击，在战术层面表现得极其不讲武德。他们会指引方舟的舰队跨越星海，只为提前轰碎一个还在吃泥巴的人类前哨站，或者随手用灵能给某个兽人战争老大植入个疯狂的念头。结果呢？那个本该掀起Waaagh!狂潮的绿皮军阀，硬是以为搞哥毛哥显灵，带着小弟们屁颠屁颠地跑去给帝国防线添堵了。在外人眼里，灵族的攻势往往莫名其妙且极具侵略性，那是因为先知们的布局往往针对的是几百年后的蝴蝶效应。可以说，整个方舟世界的政治博弈，完全就是建立在这群神棍的占卜数据上的。
+Much of their time is spent in a trance-like state where their spirits roam at will throughout the Wraithbone where they direct the psychic-energy flow throughout the entire Craftworld. As such, they are not normally in a waking state though their visionary skills allow them to direct their fellow Eldar in avoiding dangers that can fall upon the Craftworlds. This is by way of exploring potential future paths that lie ahead and determining which paths need to be altered. Their duties mean that Farseers normally do not fight the wars of the Eldar but in times of desperate need, they can be seen on the battlefield where they use their incomparable power to aid their race in combat. Eldar armies are sometimes accompanied by a single Farseer, which is due to the fact that more cannot be spared as they are tasked with guiding the future of their Craftworld. However, their powers are greater than Warlocks and are able to concentrate on casting Seer Runes to determine courses of action that would be most fortunate for their forces.
 
-作为银河系独一档的占卜天花板，先知们就是灵族抵御深渊的最后一道叹息之墙。没有这群老家伙在幕后疯狂算计，这个衰败的帝国残党早就在[亚空间大博弈](/lore/warhammer-40k-chaos-warp-great-game)里被各路神仙碾成渣了。而且千万别以为他们只是躲在后面放buff的辅助，这些银河系顶流灵能者一旦动怒，把敌人的脑花搅成浆糊也就是一个响指的功夫。
+他们的大部分时间都在恍惚状态中度过，他们的精神在灵骨中随意游荡，在那里他们引导着整个方舟世界的灵能能量流。因此，他们通常不会处于清醒状态，尽管他们的远见卓识使他们能够引导他们的灵族同伴避免可能降临到方舟世界的危险。这是通过探索潜在的未来之路，并确定哪些路途需要改变。他们的职责意味着先知通常不会参加灵族的战争，但在急需的时候，他们可以在战场上被看到，他们利用无与伦比的力量在战斗中帮助他们的种族。灵族军队有时会由一名先知陪同，这是因为他们的任务是指引他们的方舟世界的未来，更多的人无法幸免。然而，他们的力量比战巫强大，能够集中注意力铸造先知符文，以确定对他们的部队来说最幸运的行动方案。
 
-### 晶体先知：拥抱灵骨的终极浪漫
+Farseer of the Craftworld Ulthwé 方舟世界乌斯维的先知
 
-岁月是把无情的杀猪刀，对掌握命运的先知也一样。随着年龄的不断增长，老家伙们的精神跟方舟世界那庞大的幽灵骨核心彻底绑定，肉体会逐渐陷入不可逆的深度休眠。那些老得不能再老的先知，最终会默默退入水晶穹顶的深处。在那里，极为悲壮的一幕会上演：他们的肉身开始物理意义上的结晶化。
+Typically, after a number of years, Seers pass to some other life as part of their quest to explore the rich possibilities of the Eldar Path. However, some amongst their number can end this journey by adopting the mantle of the Farseer, which leads them being trapped on the Witch Path and thus unable to change their future role. Thus, these individual Eldar focus their remaining years on learning and exploring their psychic powers. Much of their time is spent casting Seer Runes whilst making endless calculations and prognostications where they attempt to guide the fortunes of their Craftworld. This sees them attempting to discern and anticipate the future by watching out for difficulties that lie ahead in coming events. Farseers guide the armies and fleet of the Craftworld into pre-emptive strikes such as against a Human outpost before their masters make their unholy alliance, a minor Ork warlord who would otherwise grow to a Waaagh! or even implanting a specific thought into a more dangerous Warboss's mind to direct them elsewhere as the orks think its their gods guiding their actions while the Eldar do not lift a finger to directly intercept them. All these are careful strategies of manipulation which appears random and aggressive to outsiders. As their calculations are based on predicted events that can be hundreds of years into the future, their immediate effect can be hard to determine. Despite this being the case, Farseers are seen as a vital part of a Craftworld who base all their political decisions around their predictions.
 
-在漫长的岁月长河中，先知最终会在穹顶的林地中彻底扎根，化作一尊永恒的水晶雕像。当肉体归于死寂，他们的灵魂却得到了终极的释放，彻底融入了方舟世界那被称为无限回路的灵能传导网络中，化作护佑同族的不朽英灵。这也是为什么总有年轻的灵族会踏入水晶穹顶，只为了朝圣那些在灵骨林地中结晶的远古先知，缅怀他们为种族燃尽一切的绝命绝唱。
+通常，几年后，先知会转向其他生活，作为探索灵族道途丰富可能性的一部分。然而，他们中的一些人可以通过披上先知的斗篷来结束这段旅程，这导致他们被困在巫师之途上，因此无法改变他们未来的角色。因此，这些灵族个体将他们剩余的岁月集中在学习和探索他们的灵能力量上。他们的大部分时间都花在铸造先知符文上，同时进行无休止的计算和预测，试图指引他们的方舟世界的命运。这使他们试图通过警惕未来事件中的困难来辨别和预测未来。先知会引导方舟世界的军队和舰队进行先发制人的打击，例如对人类前哨的打击，在他们的主人结成邪恶的联盟之前，否则，一个小的欧克军阀会成长为一个Waaagh！或者甚至将一个特定的想法植入一个更危险的战争头目的思维中，引导他们到其他地方，因为欧克认为是他们的神在指引他们的行动，而灵族没有伸手直接拦截他们。所有这些都是谨慎的操纵策略，对外人来说似乎是随机和侵略性的。由于他们的计算基于数百年后的预测事件，因此很难确定其直接影响。尽管如此，先知被视为方舟世界的重要组成部分，他们的所有政治决策都基于他们的预测。
 
-## 镌刻在星海的传奇名录
+Farseer 先知
 
-在无尽的黑暗纪元中，无数先知用血肉和灵魂铺就了方舟世界的求生之路。
+Farseers are unparalleled masters of divination, interpreting one future from a myriad of possible ones. It is they who direct their people, protecting them from disasters that have not yet occurred, and protecting the existence of the race as a whole. Without them, the species would surely be extinct. Their abilities are not always limited to the interpretation of events to come, but are also some of the most potent psykers in the Galaxy, capable of crushing lesser minds to pulp with but an effortless whim.
 
-其中最为人津津乐道的，莫过于阿莱托克方舟世界的埃尔多拉斯·星灾（Eldorath Starbane）。他的名字本身就是一段交织着亚空间阴谋与灵族血泪的硬核史诗，在[战锤40K《先知》剧情硬核解析：恐惧之眼边缘的亚空间绝望死斗](/lore/warhammer-40k-farseer-ambush)的背景下，更是将这种逆天挣扎的悲壮感拉到了极致。想要在残酷的战锤40K宇宙中苟活，先知们的每一次施法，都是在向注定毁灭的命运怒吼。
+先知是无与伦比的占卜大师，从无数可能的未来中解读一个未来。正是他们指引着他们的人民，保护他们免受尚未发生的灾难的影响，并保护整个种族的生存。没有他们，这个种族肯定会灭绝。他们的能力并不总是局限于对即将发生的事件的演绎，他们也是银河系中最强大的灵能者之一，能够轻而易举地粉碎次等思维。
 
-相关阅读换一换
-[基因窃取者与孵化巢：潜伏在帝国暗面的生物梦魇与终极渗透](https://wh40knews.com/lore/genestealers-brood-tyranid-cult-lore)[战锤40K混沌大博弈与人类帝国残酷法则硬核解构](https://wh40knews.com/lore/warhammer-40k-chaos-game)[战锤40K考据：狮王莱昂死斗午夜游魂剧情硬核解构](https://wh40knews.com/lore/warhammer-lion-curze-lore)[战锤40K故事：沙漠掠袭者与卡达尔的死亡陷阱](https://wh40knews.com/lore/warhammer-40k-desert-raiders-story)[战锤40K小说设定考据：撕裂虚空的宏伟舰船与极致毁灭美学](https://wh40knews.com/lore/warhammer-40k-void-warfare-lore-analysis)[《战锤40K》小说《温柔的慈悲》剧情考据：火蜥蜴绝望沦为暗网肉猪的极道背刺](https://wh40knews.com/lore/warhammer-gentle-mercy-lore)[战锤40K考据：四王议会的起源、背刺与血色终局](https://wh40knews.com/lore/warhammer-mournival-lore-guide)[战锤40K泰伦虫族考据：吞噬银河的贪婪狂潮与万族绝地大逃杀](https://wh40knews.com/lore/warhammer-40k-tyranids-lore)
+Farseer Skyrunner 先知驰空者
+
+### Crystal Seers 晶体先知
+
+As Farseers grow older, their minds become so intertwined with the wraithbone core of their Craftworld that their physical bodies become dormant. Those of great age typically retreat into the Dome of Crystal Seers where their bodies begin to crystalise. During this gradual process, a Farseer takes root amongst the trees of the biodome and eventually turns entirely into crystal. In this state, their spirit is freed into the Craftworld itself where it is preserved forever within the psycho-conductive wraithbone Infinity Circuit. This fact sometimes leads to Eldar wandering into the Dome in order to see the Farseers of Old, whose bodies are preserved in the wraithbone tree glades.
+
+随着先知年龄的增长，他们的思维与方舟世界的幽灵骨核心交织在一起，以至于他们的身体都处于休眠状态。那些年龄较大的人通常会躲进水晶穹顶，在那里他们的身体开始结晶。在这个渐进的过程中，先知在生物馆的树木中扎根，最终完全变成晶体。在这种状态下，他们的精神被释放到方舟世界本身，在那里它被永远保存在灵能传导灵骨无限回路中。这一事实有时会导致灵族走进穹顶，去看老先知，他们的身体被保存在灵骨树空地中。
+
+Farseer 先知
+
+## Notable Farseers 著名先知
+
+Farseer 先知
+
+ - 
+
+Alladrios Kulcassian of Alaitoc
+
+ - 
+
+阿莱托克的阿拉德里奥斯·库尔卡西安
+
+ - 
+
+Almic of Saim-Hann
+
+ - 
+
+塞姆-罕的阿尔米克
+
+ - 
+
+Alishazier of Ulthwé
+
+ - 
+
+乌斯维的阿里沙泽尔
+
+ - 
+
+Anath'lan of Biel-tan
+
+ - 
+
+比耶-坦的阿纳特'兰
+
+ - 
+
+Arenal 阿雷纳尔
+
+ - 
+
+Ariniae 阿利尼亚
+
+ - 
+
+Athenys of Ulthwé
+
+ - 
+
+乌斯维的阿忒尼斯
+
+ - 
+
+Auric Stormcloud of Ulthwé
+
+ - 
+
+乌斯维的奥瑞克·风暴云
+
+ - 
+
+Avenelle 阿韦纳
+
+ - 
+
+Bel-Annath of Mymeara
+
+ - 
+
+迈耶拉的贝尔-安纳斯
+
+ - 
+
+Caerys of Ulthwé
+
+ - 
+
+乌斯维的凯里斯
+
+ - 
+
+Catritheyn of Alaitoc
+
+ - 
+
+阿莱托克的卡崔希恩
+
+ - 
+
+Ehriahna of Alaitoc
+
+ - 
+
+阿莱托克的埃利阿纳
+
+ - 
+
+Eldrad Ulthran of Ulthwé
+
+ - 
+
+乌斯维的埃尔德拉德·乌斯兰
+
+ - 
+
+Eiladar Ys 埃拉达·伊斯
+
+ - 
+
+Envyan — of unknown Craftworld
+
+ - 
+
+恩维扬 — 未知方舟世界
+
+ - 
+
+Eldorath Starbane of Alaitoc
+
+ - 
+
+阿莱托克的埃尔多拉斯·星灾
+
+Eldorath Starbane of Alaitoc 阿莱托克的埃尔多拉斯·星灾
+
+ - 
+
+Elleria of Ulthwé
+
+ - 
+
+乌斯维的埃勒里亚
+
+ - 
+
+Erandel Voidsinger of Kaelor
+
+ - 
+
+凯洛尔的埃兰德尔·虚空歌者
+
+ - 
+
+Ffaid Karhedra 法伊德·卡赫德拉
+
+ - 
+
+Gaeloch 盖洛克
+
+ - 
+
+Idranel of Ulthwé
+
+ - 
+
+乌斯维的伊德瑞奈尔
+
+ - 
+
+Illanor of Saim-Hann
+
+ - 
+
+塞姆-罕的伊拉诺尔
+
+ - 
+
+Illiyanne Natasé of Ulthwé
+
+ - 
+
+乌斯维的伊利亚纳·那塔塞
+
+ - 
+
+Iqbraesil of Iyanden
+
+ - 
+
+伊扬登的伊克布雷西尔
+
+ - 
+
+Iraelun of Alaitoc
+
+ - 
+
+阿莱托克的伊瑞伦
+
+ - 
+
+Kaorelle 卡奥瑞尔
+
+ - 
+
+Kalrimon 卡尔里蒙
+
+ - 
+
+Kelmon of Iyanden
+
+ - 
+
+伊扬登的凯尔蒙
+
+ - 
+
+Lathriel of Biel-tan
+
+ - 
+
+比耶-坦的拉特里尔
+
+ - 
+
+Lsathranil of Ulthwé
+
+ - 
+
+乌斯维的拉萨拉尼
+
+ - 
+
+Macha of Biel-tan
+
+ - 
+
+比耶-坦的玛查
+
+ - 
+
+Morcan Fiorinintal 莫尔坎·菲奥里宁塔尔
+
+ - 
+
+Tylanriel Tarnalys 泰兰瑞尔·塔尔纳利斯
+
+ - 
+
+Tyladrhas 泰拉德拉思
+
+ - 
+
+Starbane of Alaitoc
+
+ - 
+
+阿莱托克的星灾
+
+ - 
+
+Taec Silvereye of Iyanden
+
+ - 
+
+伊扬登的泰克·银眼
+
+ - 
+
+Taldeer of Ulthwé
+
+ - 
+
+乌斯维的塔迪尔
+
+ - 
+
+Taolis Eversong of Idharae
+
+ - 
+
+伊德哈尔的陶利斯·永歌
+
+ - 
+
+Trialeorn of Saim-Hann
+
+ - 
+
+塞姆-罕的特里亚隆
+
+ - 
+
+Turial of Ulthwé
+
+ - 
+
+乌斯维的图瑞尔
+
+ - 
+
+Tyladhras of Biel-tan
+
+ - 
+
+比耶-坦的泰拉卓拉斯
+
+ - 
+
+Yhunai of Saim-Hann
+
+ - 
+
+塞姆-罕的伊胡奈
+
+ - 
+
+Ylocu Shaie of Alaitoc
+
+ - 
+
+阿莱托克的伊洛库·夏伊

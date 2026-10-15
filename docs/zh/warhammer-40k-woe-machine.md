@@ -3,23 +3,92 @@ title: "【战锤40k】LEX翻译：灾祸魔机"
 url: https://wh40knews.com/lore/warhammer-40k-woe-machine
 source: wh40knews
 lang: zh
+published: 2026-09-07T10:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/6
+*The scale of the enemy woe machines is almost unimaginable, the sheer cruelty... extraordinary: great flywheels fixed with blades, scissoring jaws, vast wheels designed purely for crushing, insectoid crawlers breathing flame from draconian snouts.**They are the mechanisms of an insane torturer made real and magnified to giant proportions. The Imperial Guard is many things, but in the end, it is only flesh and bone and blood, and these... are fashioned simply to strip and rend and break those mortal substances quite utterly.** *- *Marshal *Blackwood, 757.M41, in his private journal.
 
-在《战锤40K》绝望的远未来战场上，从来不缺各种反人类的机械怪物，但能让久经沙场的[帝国卫队](/lore/warhammer-40k-leman-russ)直接吓到狂掉SAN值的，绝对要数继承者阿斯弗德尔亲手操刀的“灾祸魔机”（Woe Machine）。这个代号在安息日世界远征期间简直就是绞肉机的代名词，阿斯弗德尔不仅是个把战术玩出花的狠角色，他在军工设计上的天赋更是让人毛骨悚然。当时军务部的分析官们甚至扒出黑料，高度怀疑这货曾在帝国的某个铸造世界进修过，甚至跟[机械神教](/lore/warhammer-40k-akashic-omniscopia-lore)的高层有着见不得光的深度绑定。当然了，火星上的那些技术神甫们对这种打脸的指控绝对是疯狂否认，恨不得把提出这种猜测的人直接塞进伺服颅骨里永久静音。
+敌人的灾祸魔机的大小几乎是不可想象的，纯粹的残忍...非同寻常：固定刀刃的巨大飞轮，锋利的下颚，专为压碎而设计的巨轮，类昆虫爬行者从龙嘴中吐息火焰。它们是疯狂折磨者的构造体，被真实地放大到巨大的比例。帝国卫队有很多东西，但最终，它只是血肉之躯，还有这些...只是被制造为了彻底拆卸、撕裂和破坏那些凡人。- 布莱克伍德元帅，757.M41，在他的个人日志中。
 
-## 碾碎理智的混沌钢铁巨兽
+"Woe Machine" was the peculiar appellation given to the bizarre war machines created by Heritor Asphodel during the Sabbat Worlds Crusade.
 
-跟它们那个心理扭曲的创造者如出一辙，这些被称为灾祸魔机的玩意儿，在外观上就是纯粹的破坏欲与恐怖美学的完美结合体。当帝国部队在阿什克二世号上首次跟这群钢铁怪物对撞时，原本引以为傲的步兵防线瞬间蒸发，常规火力打在上面连个漆皮都刮不掉。眼看着防线即将全线崩盘，布莱克伍德元帅当场情绪失控，扯着嗓子通过通讯器疯狂向战帅斯莱多砸去紧急求援，死皮赖脸地要求泰坦军团立刻空降洗地。在这场神仙打架的战局中，帝国神之机器与这些灾祸魔机之间爆发了堪称毁天灭地的重甲“决斗”。那种庞大钢铁疯狂撕咬、重型火力肆意倾泻的绝望画面，给现场幸存的凡人老兵留下了根本无法治愈的心理创伤，远比他们身上被弹片撕裂的物理创伤要致命百倍。
+“灾祸魔机”是对继承者阿斯弗德尔在安息日世界远征期间创造的奇怪战争机器的特殊称呼。
 
-### 撕裂阿斯塔特防线的绝命兵器
+Besides being a brilliant tactician, Asphodel's talent for designing war machines was so great that some Imperial analysts speculated a past connection with an Imperial Forge world or even with the Adeptus Mechanicus (though the latter speculation was hotly denied by Mechanicus adepts).
 
-到了M41第765年的巴尔霍特之战，这群生冷不忌的异端造物再次被推上了主战场的大银幕。当时帝国大军正对寡头城堡发起决死突击，阿斯弗德尔反手就掀开了底牌，把灾祸魔机直接塞进了战线最前端。这一次，它们展现出的狂暴动能和诡异火力，甚至硬生生把[星际战士](/lore/warhammer-40k-space-marine-lore)里的硬骨头——银色守卫战团给逼退了，足见其底层数值膨胀到了何种离谱的地步。再往后的时间线里，这个疯狂的战争建筑师直接接管了维吉哈斯特星上的铁兽巢都制造厂。他直接动员并榨干了整个巢都数以百亿计的凡人人口，将其转化为无休止的血肉干电池，只为批量暴兵生产全新的灾祸魔机，最终将邻近的维文巢都彻底从地图上物理抹除。
+除了是一位杰出的战术家，阿斯弗德尔在设计战争机器方面的天赋是如此之高，以至于一些帝国分析者猜测他过去与帝国铸造世界甚至与机械神教有联系（尽管机械教的专家强烈否认了后一种猜测）。
 
-## 锤石王：不可名状的重装梦魇
+Woe Machine 灾祸魔机
 
-在阿斯弗德尔那本堪称禁忌的异端造物图鉴中，**锤石王（Hammerstone Kings）**绝对是灾祸魔机谱系中最具代表性的王牌重型单位。千万别拿帝国军务部那种死板的分类学去套用它，这根本不是流水线上的量产货，每一台锤石王都散发着令物理法则崩塌的混沌恶臭。当这台极具压迫感的钢铁巨兽履带碾过防线时，伴随的不是正常的引擎轰鸣，而是万千冤魂的哀嚎和亚空间力量撕裂现实的刺耳尖啸。这些不可名状的衍生机型彻底颠覆了帝国装甲部队的底层战术逻辑，只要锤石王出现在地平线上，就意味着这场《战锤40K》的战役已经演变成了一场连灵魂都要被榨干的绝命血肉狂欢。
+## Overview 概述
 
-相关阅读换一换
-[战锤40K小说剧情硬核解构：机械教窃取乌兰诺与万戈里奇的绝命刺探](https://wh40knews.com/lore/warhammer-40k-ullanor-mechanicus-heist)[战锤40K考据：若战帅荷鲁斯赢下泰拉围城，帝国将进入无束阿斯塔特统治的疯狂时代](https://wh40knews.com/lore/astartes-unfettered-reign-lore)[战锤40K圣地巡礼：克罗诺斯战役全史，七军混战背后的赢家只有血鸦](https://wh40knews.com/lore/kronus-dark-crusade-lore-history)[《战锤40K：双鹰》硬核解构：凡人飞行员向死而生的血肉空战](https://wh40knews.com/lore/warhammer-double-eagle-lore)[战锤40K秘闻：基里曼与华胥国的终极对话，伊朗维亚文明的降维打击警告](https://wh40knews.com/lore/guilliman-meets-huaxu-iranvia-warning)[战锤40K官方短篇《亡者不息》大结局：克里格铁锹战僵尸，审判官以恐惧制裁恶灵](https://wh40knews.com/lore/warhammer-40k-relentless-dead-ending)[战锤40K小说《双鹰》高潮选段：雅格迪亚的苏醒与66中队的血债](https://wh40knews.com/lore/warhammer-40k-jagdea-double-eagle-story)[战锤40K伪经考据：当墨菲定律击碎黄金王座，十二军团的逆转悲歌](https://wh40knews.com/lore/warhammer-40k-fanfic-false-god-legions)
+Like their creator, these machines were both destructive and terrifying in appearance. They were first encountered on Ashek II, against which the Imperial Guard's infantry forces proved so impotent that MarshalBlackwood transmitted urgent pleas to WarmasterSlaydo for Titan reinforcement. The "duels" between the Imperial Titans and Asphodel's Woe Machines traumatized many of the witnessing Guardsmen far beyond any wounds they had taken.
+
+与它们的创造者一样，这些机器在外观上既具有破坏性又令人恐惧。他们首先在阿什克二世号上被遇到，帝国卫队的步兵部队对其无能为力，以至于布莱克伍德元帅向战帅斯莱多发出紧急请求，要求增援泰坦。帝国泰坦和阿斯弗德尔的灾祸魔机之间的“决斗”给许多目击者造成的创伤远远超过了他们所受的任何创伤。
+
+These grotesque machines were later encountered during the Battle of Balhaut in 765.M41, when Asphodel unleashed them against the Imperial forces assaulting the Oligarchy citadel. They were powerful enough to drive back even the Silver GuardSpace Marines.
+
+这些怪诞的机器后来在765年至M41年的巴尔霍特之战中被发现，当时阿斯弗德尔向袭击寡头城堡的帝国部队释放了这些机械。他们的力量足以击退银色守卫星际战士。
+
+Still later, Asphodel produced several new woe machines from the manufactories of HiveFerrozoica on Verghast, where the Heritor mobilised the city's entire population to exterminate its neighbour, Vervunhive.
+
+再后来，阿斯弗德尔在维吉哈斯特的铁兽巢都的制造厂生产了几台新的灾祸魔机，继承者动员了该城的全部人口消灭了它的邻居维文巢都。
+
+## Known Types of Woe Machine 已知灾祸魔机的类型
+
+### Hammerstone Kings 锤石王
+
+ - 
+
+Blighting King 疫病王
+
+ - 
+
+Inheritor King 继承王
+
+ - 
+
+Poison King 毒素王
+
+ - 
+
+Treading King 践踏王
+
+### Other 其他
+
+ - 
+
+Abattoir Tree 屠宰场树
+
+ - 
+
+Blight-Ball 疫病球
+
+ - 
+
+Coffin-Worm 棺材蠕虫
+
+ - 
+
+Flensing-Wheel 解剖轮
+
+ - 
+
+Gallowspider 绞架蜘蛛
+
+ - 
+
+Murdernaut Assault Machine 杀戮突击机
+
+ - 
+
+Nadzybar's Fist Assault Engine 纳兹巴尔之拳突击引擎
+
+ - 
+
+Rackmouth 架口
+
+ - 
+
+Skybreaker Gun-Train 破天者枪炮列车

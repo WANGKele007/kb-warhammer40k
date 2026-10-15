@@ -3,29 +3,40 @@ title: "【战锤40k】LEX翻译：追踪坦克"
 url: https://wh40knews.com/lore/warhammer-40k-stalk-tank-lore
 source: wh40knews
 lang: zh
+published: 2026-09-07T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/6
+The Stalk Tank was a light armoured vehicle fielded by the Blood Pact during the Sabbat Worlds Crusade.
 
-在《战锤40K》（Warhammer 40K）那令人窒息的安息日世界远征中，[人类帝国](/lore/warhammer-imperium-lore-analysis)的星界军步兵面对的绝不仅仅是枪林弹雨，更有足以撕裂理智的钢铁异形。血契（Blood Pact）作为混沌阵营中极具组织度的叛军武装，将一种名为“追踪坦克”（Stalk Tank）的轻型装甲载具推上了前线绞肉机。这台钢铁怪兽犹如一只从噩梦中爬出的剧毒蜘蛛，用其荒诞的机械结构和纯粹的杀戮效率，向帝国防线倾泻着无尽的恐怖。
+追踪坦克是安息日世界远征期间由血契部署的轻型装甲载具。
 
-## 亵渎者的微缩倒影：撕裂血肉的六足梦魇
+A page from Tech-Adept Gwelt's sketchbook, showing a stalk tank variant 技术专家格温尔特的速写本中的一页，展示了一种追踪坦克变体
 
-但凡在战场上直面过混沌[星际战士](/lore/warhammer-40k-space-marine-lore)那些庞大恶魔引擎的老兵，都会在追踪坦克身上闻到那股极其相似的[亚空间](/lore/warhammer-40k-warp-essences-lore)恶臭。这台轻型载具彻底抛弃了传统的履带底盘，六条犹如节肢动物般粗壮的活塞机械腿赋予了它极其扭曲的机动性。其微型炮塔上搭载的双联脉冲激光完全是为了屠戮凡人而生，光束横扫之处不仅能将帝国步兵犹如热刃切黄油般拦腰斩断，甚至连高能激光爆破瞬间产生的超强过压，都足以将周遭的活人像破布口袋一样狠狠抛向半空。
+## Overview 概述
 
-**这种不讲道理的动能冲击，让每一条战壕都沦为了凡人部队无死角的修罗场。**
+Resembling a smaller, nimbler version of the DefilerDaemon Engine utilized by Chaos Space Marines, a typical stalk tank was powered by six spider-like piston limbs, and armed with double pulse-lasers in mini-turrets, capable of slicing infantry in two. The pulse-laser's impact blasts even produced enough overpressure to lift persons into the air.
 
-### 底盘的极端异化：灵能榨汁机与重火力平台
+类似于混沌星际战士使用的亵渎者恶魔引擎的一个更小、更灵活的版本，一个典型的追踪坦克由六个蜘蛛状活塞肢提供动力，并在微型炮塔中配备双脉冲激光，能够将步兵切成两半。脉冲激光的冲击爆炸甚至产生了足够的超压，将人抬到空中。
 
-在基础款的杀戮机器之外，哪怕在《战锤40K》那无穷无尽的异端武器库里，血契针对追踪坦克的魔改操作也算得上令人作呕。常规型号通常会将一名驾驶员通过粗暴的神经插管死死焊在驾驶舱内，将其彻底降格为载具的生物零件。而那些专门用于电子战的变体，更是直接拆除了武器发射架，在底盘顶部安装了一个极其诡异的玻璃钢气泡舱。里面囚禁着被强行塞入战场的野生灵能者，浑身上下插满数百根粗暴的线缆。这台“灵能榨汁机”不仅会在前线发出刺耳的亚空间尖啸，更能源源不断地释放强效干扰波，彻底瘫痪星界军的音阵通讯链路。而在火力极端化的改装路线上，部分追踪坦克甚至会顶着一个极其不协调的超大头部炮塔，强行搭载等离子武器或多管激光，化身为移动的重火力阵地。
+The vehicle was driven by a single pilot, often hard-wired into the cockpit; other variants were designed to carry battlefield psykers into combat. These variants lacked weapon pods, instead featuring a glassteel bubble in which the psyker is seated, connected to hundreds of plug wires. They were used for electronic warfare, jamming vox-links. Stalk Tanks can also alternatively be armed with an oversized head turret featuring a plasma weapon or multi-laser.
 
-## 廉价的恐惧引擎：铸造世界沦陷后的产能狂欢
+这种载具由一名驾驶员驾驶，通常固定在驾驶舱内；其他变体旨在将战场上的灵能者带入战斗。这些变体没有武器发射架，而是有一个玻璃钢泡，灵能者坐在里面，连接着数百根插线。它们被用于电子战，干扰音阵链路。追踪坦克也可以配备超大的头部炮塔，配备等离子武器或多管激光。
 
-不要指望这种轻装甲单位能和[黎曼鲁斯坦克](/lore/warhammer-40k-leman-russ)正面对轰，它的战场定位极其明确且恶毒——为血契步兵提供极致的机动火力压制。尤其是在血契大军彻底吞噬并占领了乌尔戴什（Urdesh）铸造世界后，这台造价低廉、工艺粗糙的杀戮机器迎来了疯狂的量产爆兵期。凭借着六条活塞机械腿的逆天越野能力，追踪坦克甚至能够轻松攀爬帝国宏伟的巢都阶梯，将战火烧进那些传统装甲部队根本无法涉足的建筑死角。
+Stalk Tank 追踪坦克
 
-**它不是为了对抗重甲而生，而是为了在巷战中将凡人步兵的心理防线彻底碾碎。**
+Cheap and quick to manufacture in large numbers, especially after the Blood Pact occupied the forge worldUrdesh, stalk tanks fulfilled a "niche" role on the battlefield, providing mobile support to Blood Pact infantry forces, rather than engaging enemy tanks. The Stalk-Tank could even climb grand staircases.
 
-曾在塔尔纳瓜行星与第九罗恩深潜者团共同执行观测任务的[机械教](/lore/warhammer-40k-omnissian-axe-lore)技术专家罗穆卢斯·格温尔特，在他的前线速写本中留下了对这台异端装甲的深刻绝望。追踪坦克所承载的战略意义早已超越了其纸面上的火力数据，它完全就是血契军械库中一件登峰造极的心理威慑核武。那庞大且极其怪诞的非人造物外观，用最纯粹的视觉冲击和无情杀戮，死死地统治着绞肉机般的战壕生态。哪怕过了整整一个千纪，这种被亚空间阴影笼罩的钢铁蜘蛛，依然是《战锤40K》中最令凡人窒息的梦魇绝唱。
+大量生产廉价且快速，特别是在血契占领乌尔戴什铸造世界之后，追踪坦克在战场上发挥了其“生态位”作用，为血契步兵部队提供机动支援，而不是与敌方坦克交战。追踪坦克甚至可以爬上宏伟的楼梯。
 
-相关阅读换一换
-[战锤40K考据：马库拉格赫拉皇冠山脉的绝境地貌与血肉底色](https://wh40knews.com/lore/warhammer-40k-heras-crown)[卡塔琳娅·格雷法克斯：从异形死囚到激进派审判官的血肉史诗](https://wh40knews.com/lore/warhammer-40k-greyfax-lore)[战锤40K黎曼鲁斯坦克硬核解构：帝国卫队重甲绞肉机与异端改件全考据](https://wh40knews.com/lore/warhammer-40k-leman-russ)[战锤40K人物志：科赫兰·赫苏拉，照亮荷鲁斯叛乱长夜的星炬女主人](https://wh40knews.com/lore/cohran-hursula-astronomican-mistress)[战锤40K伪经考据：当墨菲定律击碎黄金王座，十二军团的逆转悲歌](https://wh40knews.com/lore/warhammer-40k-fanfic-false-god-legions)[战锤40K考据：历史真理部索拉娜的凡人史诗与阿提兰绝密档案](https://wh40knews.com/lore/warhammer-40k-solana-lore)[战锤40K《灵魂猎手》第十八章深度赏析：当战争贤者渴望安息，圣血天使的阴影已至](https://wh40knews.com/lore/night-lords-soul-hunter-chapter-18)[战锤40K黑暗灵族巡逻包深度开箱：科摩罗掠奴舰队的性价比天花板与入坑指南](https://wh40knews.com/lore/drukhari-combat-patrol-box-review)
+MechanicusAdeptRomulus Gwelt, on observation with the 9th Roane Deepers on Tarnagua, compiled several important observations of the enemy armour:
+
+机械教专家罗穆卢斯·格温尔特在塔尔纳瓜与第九罗恩深潜者团一起观察时，对敌方装甲进行了几次重要观察：
+
+*Of all the nefarious engines of destruction I have seen the Archenemy field, the so-called stalk tanks are the most divisive. Light and fast, they deploy like an infantryman, or at least like a fire team, yet the type of normal fire [which would kill an infantry man] is soaked up by their segmented armour plating. In my experience, it takes an anti-tank missile at least, normally a shoulder-fired round, to damage one of these mechanisms. They occupy, as it were, a space in the food chain between fighting man and battle tank, a light, supportive, fluid role, and one that we do not have an equivalent response to. If the Ruinous Powers win this Great and Holy War, I would attribute a portion of that victory to the niche predator that is the stalk tank.*
+
+*在我见过的所有邪恶的毁灭引擎中，所谓的追踪坦克是最具分裂性的。轻而快，他们像步兵一样部署，或者至少像火力组一样部署，但普通火力（能杀死步兵）被他们的分割装甲板所吸收。根据我的经验，至少需要一枚反坦克导弹，通常是肩射弹，才能损坏其中一个构造。可以说，它们在战士和战斗坦克之间的食物链中占据了一个空间，一个轻便、支援、流动的角色，我们对此没有同等的响应。如果毁灭力量赢得了这场伟大而神圣的战争，我会将这场胜利的一部分归功于追踪坦克这一生态位掠食者。*
+
+In addition to their weaponry, stalk tanks were, like everything in the Blood Pact's armoury, a potent terror weapon, dominating enemy infantry with their size and grotesque appearance.
+
+除了武器外，追踪坦克和血契军械库中的所有武器一样，是一种强力恐怖武器，以其体型和怪诞的外观统治着敌方步兵。

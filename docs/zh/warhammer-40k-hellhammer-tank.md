@@ -3,23 +3,58 @@ title: "《战锤40K》狱锤坦克硬核解构：撕裂巢都防线的帝国巷
 url: https://wh40knews.com/lore/warhammer-40k-hellhammer-tank
 source: wh40knews
 lang: zh
+published: 2026-09-15T10:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/2
+The Hellhammer is an Imperial GuardSuper Heavy Tank built on the chassis of the Baneblade.
 
-在《战锤40K》那犹如绞肉机般的黑暗残酷宇宙中，能在满地残骸的巢都废墟里横着走的载具屈指可数，而帝国卫队的“狱锤（Hellhammer）”超重型坦克绝对是其中最不讲理的钢铁野兽。这台直接套用[毒刃](/lore/warhammer-40k-baneblade-tank-lore)底盘的钢铁怪物，从设计之初就不是为了在开阔平原上玩什么骑士冲锋，它生来就是为了在最逼仄、最压抑的城市巷战里，把那些苟延残喘的异端连人带掩体一起蒸发。每当这台超重型巨兽履带碾过碎石的轰鸣响起，防线对面的牛鬼蛇神就该明白，今天哪怕是跑到亚空间里也躲不过被轰成渣的命运。
+狱锤是一种帝国卫队超重型坦克，建在毒刃的底盘上。
 
-## 巷战绞肉机的火力绝望狂欢
+Hellhammer 狱锤
 
-若你想弄明白狱锤坦克为什么能在复杂的城市环境中横行霸道，就得先看看它那堪称丧心病狂的武库配置。这台战车的绝对主位交给了令敌人闻风丧胆的狱锤主炮，这玩意儿就是专门用来治各种不服的终极真理。无论防守方躲在多厚的钢筋混凝土堡垒后，还是穿着自以为坚不可摧的重型动力甲，只要被主炮锁定，瞬间的高温与冲击波就会在一个极度集中的区域内制造出绝对的死亡真空。**而且帝国军务部的疯子们显然觉得光有一门主炮还不够塞牙缝，他们丧心病狂地在侧舷加装了同轴自动炮、粉碎者炮、双联重型爆矢枪、激光炮甚至双联重型火焰枪，这套火力网一旦铺开，连只苍蝇都休想活着飞出交火区。**
+## Overview 概述
 
-在动力心脏的选型上，狱锤坦克同样展现出了帝国重工业那种简单粗暴的暴力美学。一台庞大的110平方千尺法厄同型自适应热燃烧器在机魂的低语中疯狂运转，再配上格拉维斯型奇迹共振晶体发生单元的辅助支持，为这台移动要塞提供源源不断的狂暴动能。为了应对瞬息万变的战场环境，除了标配的烟雾发射器和探照灯外，车组还能灵活挂载猎杀者导弹或是枢轴式的重型伐木枪与风暴爆矢枪。更有甚者，极度缺乏安全感的车组会选择直接拆掉侧舷武器换取更厚重的装甲，或者干脆再硬塞进两个挂满激光炮和双联重火焰枪的额外侧舷，彻底将自己武装成一个四面喷火的移动刺猬。
+The Hellhammer was built to provide short-ranged fire support in difficult conditions (like city fights). It certainly excels at this role, as its main weapon, the Hellhammer cannon, can exterminate defenders no matter where they are hiding or what armour they are wearing (although the devastation is contained within a small area). However, its formidable armament doesn't end there - it is also armed with co-axial Autocannons, Demolisher cannons, Twin-linkedHeavy Bolters and Lascannons and Twin-linkedHeavy Flamers in each of the side sponsons.
 
-## 亚空间腐化与异形的废品大改造
+狱锤是为在困难条件下（如城市战斗）提供短程火力支援而制造的。它当然擅长这个角色，因为它的主要武器狱锤炮可以消灭守军，无论他们躲在哪里，穿什么盔甲（尽管破坏范围很小）。然而，其强大的武器并不止于此 — 它还在每个侧舷装备了同轴自动炮、粉碎者炮、双联重型爆矢枪和激光炮以及双联重型火焰枪。
 
-然而在残酷无情的银河系里，越是强大的武器，就越容易招来各路妖魔鬼怪的垂涎，连神圣的狱锤坦克也逃不过被染指的宿命。在前线的血肉战局中，帝国守军已经不止一次绝望地目击到，那些堕落的[混沌](/lore/warhammer-40k-chaos-meta)星际战士正驾驶着涂满亵渎符文的狱锤坦克冲向昔日的战友。当[亚空间](/lore/warhammer-40k-warp-essences-lore)的腐化之力渗透进机魂的钢铁回路，这台曾经守护人类防线的巨兽便彻底沦为邪神散播恐惧的绝命绞肉机，每一发炮弹都夹杂着灵魂被撕裂的哀嚎。
+The Hellhammer's primary powerplant is a Phaeton pattern 110 square kilo-cubits Adaptable Thermic Combuster, supported by a Gravis pattern Thaumic Resonance Crystal Generation Unit. Besides the standard Smoke Launchers and Searchlight it can be adapted to mount a Hunter-Killer Missile and/or a pintle-mountedHeavy Stubber/Storm Bolter. Some Hellhammers will replace the side sponsons with extra armour or even add two additional side sponsons, each armed with a Lascannon and twin-linked Heavy Flamers.
 
-除了被混沌的黑暗力量扭曲，这台超重型巨兽还经常沦为某些粗鄙[异形](/lore/warhammer-40k-xenos-meta-lists)的终极战利品。众所周知，那些脑子里只长肌肉的[欧克兽人](/lore/warhammer-40k-ork-roster-breakdown)最喜欢干的事情，就是从战场废墟里把各种被击毁的帝国载具残骸捡回去一顿瞎搞。在搞毛二哥的神秘力场加持下，这些被缴获的帝国骄傲被生生拆解、拼凑，最终焊上一堆破铜烂铁，摇身一变成了绿皮引以为傲的“赃车”甚至是移动的战斗堡垒。看着自家引以为傲的钢铁巨兽被生生缝合成了这副鬼样子，在这片没有理智可言的银河里，《战锤40K》的狱锤坦克注定要背负着毁灭与被毁灭的无尽血肉诅咒。
+狱锤的主要动力装置是一个110平方千尺的法厄同型自适应热燃烧器，由格拉维斯型奇迹共振晶体发生单元支持。除了标准的烟雾发射器和探照灯外，它还可以安装猎人杀手导弹和/或枢轴式重型伐木枪/风暴爆矢枪。一些狱锤用额外装甲取代侧舷，甚至增加两个额外的侧舷，每个侧舷都配备一门激光炮和双联重型火焰枪。
 
-相关阅读换一换
-[火鹰战团：从忠诚派杀神到咒缚军团的血肉悲歌](https://wh40knews.com/lore/warhammer-40k-fire-hawks)[帝皇的人性假面与神性囚笼：重读《最后的教堂》与《棋局已定》](https://wh40knews.com/lore/emperor-humanity-last-church-analysis)[战锤40K沃坦联盟军火库全解：从暴走矮人到陆地列车的重金属狂潮](https://wh40knews.com/lore/leagues-of-votann-unit-roster-guide)[战锤40K太阳系万年血肉悲歌考据：从黄金时代到荷鲁斯叛乱的绝望绞肉机](https://wh40knews.com/lore/warhammer-40k-solar-system-lore)[战锤40K设定考据：封建世界——当黑火药遇上仿生义肢，星际战士的复古兵源地](https://wh40knews.com/lore/warhammer-40k-feudal-world-lore)[战锤40K启示录级狂欢实锤！钢铁勇士携大军降临恐惧之眼](https://wh40knews.com/lore/warhammer-40k-iron-reign)[战锤40K等离子反应堆硬核解构：帝国能源体系的绝望绞肉机与狂暴巨兽](https://wh40knews.com/lore/warhammer-40k-plasma-reactor-lore)[战锤40K《灵魂猎手》第十八章深度赏析：当战争贤者渴望安息，圣血天使的阴影已至](https://wh40knews.com/lore/night-lords-soul-hunter-chapter-18)
+Hellhammer 狱锤
+
+## Known Hellhammers 已知狱锤
+
+ - 
+
+Jungle Reaper — Catachan XXXV Super-Heavy Armoured Regiment.
+
+ - 
+
+丛林收割者号 — 卡塔昌第35超重型装甲兵团。
+
+ - 
+
+Ostrakhan's Rebirth — Command tank of the Seventh Paragonian Super-Heavy Tank Company.
+
+ - 
+
+奥斯特拉罕的重生号 — 第七帕拉戈尼亚超重型坦克连队的指挥坦克。
+
+## Usage by the Forces of Chaos 被混沌部队使用
+
+The forces of Chaos have been observed fielding Hellhammers.
+
+已经观察到混沌部队正在部署狱锤。
+
+Chaos Space Marine Hellhammer 混沌星际战士狱锤
+
+## Usage by Xenos 被异型使用
+
+The Orks are known to use captured Baneblade variants to turn them into Looted Wagons and Battlefortresses:
+
+众所周知，欧克会使用缴获的毒刃变体将其变成赃车和战斗堡垒：
+
+Ork Looted Hellhammer 欧克赃车狱锤

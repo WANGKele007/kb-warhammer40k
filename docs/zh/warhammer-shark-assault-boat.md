@@ -3,25 +3,24 @@ title: "战锤40K鲨鱼突击艇硬核考据：撕裂星海防线的帝国绝命
 url: https://wh40knews.com/lore/warhammer-shark-assault-boat
 source: wh40knews
 lang: zh
+published: 2026-09-17T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/9/28
+The Shark Assault Boat is the Imperial Navy's standard Assault Boat.
 
-在浩瀚无垠的星海绞肉机中，[战锤40K](/lore/warhammer-40k-imperium-factions-lore)的人类帝国海军从来不缺用凡人命填出来的暴力载具。当我们剥开那些宏大叙事的华丽外衣，鲨鱼突击艇（Shark Assault Boat）这台标准的帝国战术兵器，无疑是将粗暴美学发挥到了极致的绝命载具。它没有任何花里胡哨的妥协，存在的唯一目的就是把最疯狂的跳帮部队强行塞进敌方舰船的腹腔。
+鲨鱼突击艇是帝国海军的标准突击艇。
 
-## 撕裂装甲的深空铁棺材
+Shark Assault Boat 鲨鱼突击艇
 
-这台长度达到五十五米的战争载具，本质上就是一个被重型装甲包裹的超级引擎与兵员舱的终极缝合怪。帝国军工体系赋予了它最原始的使命，让其彻底放弃了多余的繁文缛节，成为横行星海的纯粹杀戮机器。每一寸钢铁外壳都在诉说着粗暴的实用主义，静静等待着下一场奔赴死亡的冲锋。
+Typically 55 metres in length the Shark consists primarily of a large engine and an armoured troop compartment that is studded with magnetic clamps and Melta Charges. When the Shark reaches an enemy ship, the clamps latch on to the enemy hull as the charges, in concert with las-breachers, blast a hole through which assault troops can storm the vessel. Consequently, nearly all patterns of the Shark carry only defensive weapons with most of the space within the hull dedicated to armour, engines, or carrying capacity.
 
-艇身外侧密密麻麻地挂载着磁性夹具与热熔炸药，当这头凶兽以一种自杀式的姿态抵近敌方战舰时，夹具会瞬间死死咬住那坚不可摧的异端装甲。随后热熔炸药与激光突破装备会陷入狂暴的协同作业，硬生生在舰体上撕开一道血肉缺口，让突击部队如同贪婪的群狼般涌入敌人内部。为了保证这种近乎疯狂的跳帮成功率，这玩意儿几乎舍弃了一切进攻性火力，将所有宝贵的内部空间全部砸在了装甲厚度、动力输出以及载员容量上，只保留最基础的防御武器用来苟延残喘。
+鲨鱼通常长55米，主要由一个大型一起和一个装甲部队舱组成，布满磁性夹具和热熔炸药。当鲨鱼到达敌舰时，夹具会锁在敌舰身上，夹具作为炸药卡在敌方船体上，与激光突破者协作炸一个洞，突击部队可以通过这个洞突袭战舰。因此，几乎所有型号的鲨鱼都只携带防御性武器，艇体内的大部分空间都用于装甲、引擎或运载能力。
 
-### 亚空间绞肉机的战术博弈
+Tactically, Sharks are often accompanied by fighters to help the assault craft breach an enemy vessel's defences. To enable this tactic, the assault boats typically have engines capable of matching a starfighter's acceleration, although they are harder to maneuver.
 
-想要在战锤40K那火网密布的太空中把这口铁棺材送到敌人脸上，单靠它自己无脑冲锋显然是死路一条。从实战角度拆解，这头巨兽往往需要大批虚空战斗机群进行贴身护航，用血肉之躯撕开敌方防御阵列的火力网。为了完美咬合这种高强度的战术协同，它的动力引擎被强行拉升到了能够媲美星际战斗机加速度的变态级别。**这种极端的动力压榨换来的惨痛代价，就是其操纵手感极其僵硬，飞行员犹如在冰面上驾驶一头完全失控的重型装甲巨兽。**
+从战术上讲，鲨鱼经常由战斗机陪同，帮助突击艇突破敌方战舰的防御。为了实现这种战术，突击艇通常具有能够匹配星际战斗机加速度的引擎，尽管它们更难操纵。
 
-## 舰队编制与造价鸿沟
+Sharks are rarely seen on anything smaller than a Battleship-sized carrier, and even then only at significant cost. On rare occasions, even a Sword Class Frigate will carry a small complement of assault boats.
 
-在整个帝国海军的庞大序列里，你很难在那些杂鱼级别的舰艇上捕捉到这玩意儿的恐怖身影。受限于其极其高昂的造价与后勤维护成本，通常只有那些体量达到[战舰](/lore/warhammer-40k-void-warfare-lore-analysis)级别的星海航母，才有资格将其纳入常态化的核心编制。而在某些极度绝望或特殊的战略节点上，即便是火力贫弱的剑级护卫舰，也会破釜沉舟地搭载极少量的突击部队，只为在必死的死局里面博取一线生机。面对这片永远在流血的银河，这台冰冷的机械巨兽依然在忠实地延续着战锤40K宇宙中最纯粹的暴力杀戮。
-
-相关阅读换一换
-[战锤40K小说硬核解析：哈米吉多顿幽灵的背叛与修女绝命悲歌](https://wh40knews.com/lore/warhammer-40k-armageddon-novel-lore)[战锤40K故事：沙漠掠袭者与卡达尔的死亡陷阱](https://wh40knews.com/lore/warhammer-40k-desert-raiders-story)[战锤40K基因窃取者教派：从扭曲怪物到潜伏伪人的混血种演变史](https://wh40knews.com/lore/warhammer-40k-genestealer-cults-hybrids-lore)[战锤40K官方小说揭秘：死亡守望的冷血任务与凡人矿工的绝望悲歌](https://wh40knews.com/lore/warhammer-40k-deathwatch-lore)[阿里曼：术士——当记忆被篡改，肉体沦为伺服颅骨的容器](https://wh40knews.com/lore/ahriman-sorcerer-lore-analysis)[战锤40K瘟疫军医考据：死亡守卫的极道活体温床与基因大盗](https://wh40knews.com/lore/warhammer-40k-plague-surgeon)[战锤40K新作《信仰之矛》：莫雯·瓦尔与午夜领主的奥菲莉亚七号星之战](https://wh40knews.com/lore/morvenn-vahl-spear-faith-novel)[战锤40K小说剧情硬核解构：星际战士极限空降与钢铁勇士要塞死斗](https://wh40knews.com/lore/warhammer-40k-spacemarine-drop-assault)
+鲨鱼很少出现在任何比战列舰规模的航母更小的东西上，即使是这样，也要付出巨大的代价。在极少数情况下，即使是剑级护卫舰也会携带少量突击艇。

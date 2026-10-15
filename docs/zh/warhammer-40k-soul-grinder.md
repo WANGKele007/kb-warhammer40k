@@ -3,31 +3,66 @@ title: "战锤40K灵魂研磨者硬核解构：撕裂现实的混沌钢铁巨兽
 url: https://wh40knews.com/lore/warhammer-40k-soul-grinder
 source: wh40knews
 lang: zh
+published: 2026-09-08T10:00:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/10/5
+The Soul Grinder is a daemonic war machine used by the daemons of Chaos, said to originate from the Forge of Souls.
 
-玩过【战锤40K】(Warhammer 40K)桌面或是沉迷背景设定的老屁股们都清楚，恶魔在物理宇宙的续航一直是个大问题。直到灵魂铸炉的齿轮开始疯狂转动，一种将纯粹的亚空间恶意与冰冷机械强行揉捏在一起的绝命造物诞生了。这玩意儿可不是什么普通的炮灰，而是彻底撕裂了现实维度法则的灵魂研磨者（Soul Grinder）。谁能想到，高傲的混沌恶魔为了在现世多赖一会，竟然甘愿把自己塞进一具钢铁躯壳里？
+灵魂研磨者是混沌恶魔使用的一种恶魔战争机器，据说起源于灵魂铸炉。
 
-## 撕裂防线的混沌重甲巨兽
+Soul Grinder 灵魂研磨者
 
-在那帮不可名状的[混沌](/lore/warhammer-40k-chaos-game)大军里，灵魂研磨者扮演的绝对是压路机级别的狠角色，其战术地位基本对标凡人军队里的主战坦克。这头庞然大物下半身由六条粗壮的机械节肢支撑，上半身则保留了恶魔那令人掉san的粗犷人形结构，披挂着厚重到令人发指的重型装甲。不少新入坑的锤佬第一眼总会把它和混沌亵渎者搞混，但实际上这两者在编制里的出生地截然不同。亵渎者说白了那是百战百胜的阿巴顿亲自下单定制的军火，而灵魂研磨者可是正儿八经从灵魂铸炉里爬出来的终极兵器，其令人发指的耐久度、丧心病狂的火力和手撕装甲的纯粹蛮力，根本不是那些随处可见的低阶恶魔能碰瓷的。
+## Overview 概述
 
-### 灰烬平原的终极内卷与铁契三誓
+In daemon armies, the Soul Grinder plays a role roughly equivalent to that of a battle tank in conventional armies. It is well armoured, appearing as a six-legged construct with a roughly humanoid upper body. There is a passing resemblance to the Chaos Defiler, but the background states that Defilers were commissioned by Ezekyle Abaddon while Soul Grinders are from the Forge of Souls. Soul Grinders possess impressive durability, firepower, and strength compared to the rank and file daemons.
 
-如果你以为这身无敌机甲是白给的，那可就大错特错了。在灵魂铸炉外围那片不见天日的灰烬平原上，无数恶魔为了争夺与机械躯体融合的机会，常年上演着最血腥的内耗绞肉机。毕竟凡人的血肉之躯在[亚空间](/lore/warhammer-40k-chaos-warp-great-game)能量的反噬下根本撑不了多久，但这身由最坚硬的钢铁和陶钢铸就的复合外壳，却能像一个完美的物理锚点，让恶魔在现实宇宙里几乎无限制地赖着不走。当然，天下从来没有免费的午餐。在被正式投放进物理宇宙去大杀四方之前，每一个新鲜出炉的灵魂研磨者都必须向铸炉大师屈膝，立下那臭名昭著的铁契三誓，从此彻底沦为受人牵制的终极杀戮机器。
+在恶魔军队中，灵魂研磨者扮演的角色大致相当于传统军队中的战斗坦克。它的装甲很好，显现一个六条腿的结构，上半身大致像人。与混沌亵渎者有一点相似之处，但背景表明，亵渎者是由以泽凯尔·阿巴顿委托的，而灵魂研磨者来自灵魂铸炉。与普通恶魔相比，灵魂研磨者拥有令人印象深刻的耐久、火力和力量。
 
-## 榨干机魂的亚空间重火力武库
+Soul Grinder 灵魂研磨者
 
-至于这台怪兽的武装配置，简直就是把一切能引发火力恐惧症的玩意儿全堆了上去。它的近战模块标配了与其庞大体型完美适配的次元剑和动力铁爪，无论你开的是运兵车还是重型无畏，在它面前都如同纸糊一般脆弱。而在远程压制方面，手臂上搭载的收割者速射炮能瞬间把阵地洗成血泊，面部镶嵌的致命喉炮更是能把任何掩体轰成渣滓。不仅如此，这家伙还能用那颗令人毛骨悚然的独眼释放出名为“亚空间凝视”的高能射线，或是张开血盆大口喷吐出被称为“痛苦折磨”的亚空间烈焰。更有甚者，少数个体还能从极远处直接呕吐出大团大团足以致死和引发深度变异的剧毒脓水，这种被称为“粘液轰炸”的生化打击，简直就是防守方的终极噩梦。
+In the ash plain outside the Forge of Souls, daemons battle each other for the chance of fusing with the mechanical constructs of the daemonic smiths. This is because, unlike mortal bodies, these steel and ceramite shells can sustain a daemon in realspace almost indefinitely. Before being released, each new Soul Grinder must take the Three Oaths of the Iron Pact with the Masters of the Forge:
 
-## 玩家常见疑问 (FAQ)
+在灵魂铸炉外的灰烬平原上，恶魔为了与恶魔铁匠的机械构造体融合而相互战斗。这是因为，与凡人的身体不同，这些钢铁和陶钢外壳几乎可以无限期地维持现实空间中的恶魔。在被释放之前，每一个新的灵魂研磨者都必须和铸造大师接受铁契三誓：
 
-Q: 灵魂研磨者在桌面规则里对标其他势力的什么单位？能单挑骑士泰坦吗？
+ - 
 
-A: 它的核心定位本质上是重型火力支援和阵地撕裂者，别指望它单枪匹马去硬刚满编的骑士泰坦。但凭借其出色的耐久和近战反甲能力，配合地形掩护去绞杀敌方的重装载具绝对是性价比极高的选择，只要操作得当，这就是一台没有感情的血肉收割机。
+All the souls harvested by the great blades of the Soul Grinder will be used for the fueling of the Forge 灵魂研磨者的巨刃所收割的所有灵魂都将用于为铸炉提供燃料
 
-当恶魔的狂乱与齿轮的冰冷完美融合，留给物理宇宙的只有永无止境的绝望挽歌。在【战锤40K】这片漆黑的星海中，灵魂研磨者永远是那个让你在战场上最不想听到的钢铁咆哮。
+ - 
 
-相关阅读换一换
-[火蜥蜴与黑龙战团血战网道：战锤40K异形绞肉机剧情硬核解构](https://wh40knews.com/lore/warhammer-salamanders-black-dragons-lore)[战锤40K小说硬核解读：灰骑士预言与黄金面具的极致腐化](https://wh40knews.com/lore/warhammer-grey-knights-lore-analysis)[战锤40K小说硬核解构：阿贾库斯堡垒的血肉绞肉机与凡人悲歌](https://wh40knews.com/lore/warhammer-40k-ork-fortress-lore)[战锤40K小说考据：审判官贾克的泰拉绝命潜入与静滞力场生存指南](https://wh40knews.com/lore/warhammer-inquisitor-draco-terra-lore)[战锤40K芬里斯冰原生存实录：太空野狼降临与卡尼克斯兽考据](https://wh40knews.com/lore/warhammer-40k-fenris-survival-lore)[战锤40K小说解读：太空野狼绝地死斗与高层背刺](https://wh40knews.com/lore/warhammer-spacewolves-lore)[战锤40K小说《先知》剧情解构：恶魔王子的PUA与灵族唤神死局](https://wh40knews.com/lore/warhammer-40k-farseer-lore)[战锤40K小说硬核解析：哈米吉多顿幽灵的背叛与修女绝命悲歌](https://wh40knews.com/lore/warhammer-40k-armageddon-novel-lore)
+All the wrecked remains of all war machines destroyed by the adamantium claws of the Soul Grinder will be offered to the Forge 所有被灵魂研磨者的精金爪摧毁的战争机器的残骸都将被供给给铸炉
+
+ - 
+
+Should any of the Chaos Gods attack the Forge of Souls and try to rule it, the Soul Grinder must discard all of their previous loyalties and fight in its defence. 如果任何混沌诸神攻击灵魂铸炉并试图统治它，灵魂研磨者必须抛弃他们之前的所有忠诚，为其防御。
+
+## Armament 军备
+
+The Soul Grinder is armed with close combat weapons appropriate for its size such as the Warpsword and Iron Claw, as well as other weapons such as the rapid firing arm-mounted Harvester Cannon and a deadly face-mounted Mawcannon. It also can fire bolts from their single eye, known as Warp Gaze, or unleash the fires of the warp from its gaping maw in Baleful Torment. Some can also vomit forth a mass of mutating ichor over large distances, an ability known as Phlegm Bombardment.
+
+灵魂研磨者配备了适合其大小的近战武器，如次元剑和铁爪，以及其他武器，如速射臂装式收割者炮和致命的面装式喉炮。它还可以从单眼发射闪电，称为亚空间凝视，或者在痛苦的折磨中从张开的腹部释放亚空间的火焰。有些还可以远距离吐出大量突变脓水，这种能力被称为粘液轰炸。
+
+Soul Grinder 灵魂研磨者
+
+## Known Soul Grinders 已知灵魂研磨者
+
+ - 
+
+Gotok Goremad — is a part of the Brazen Host
+
+ - 
+
+戈托克·血狂** **— 是黄铜之主的一部分
+
+ - 
+
+Helmaw Thunderheart — is a part of the Brazen Host
+
+ - 
+
+狱喉·雷心 — 是黄铜之主的一部分
+
+ - 
+
+Serophard 塞罗法德

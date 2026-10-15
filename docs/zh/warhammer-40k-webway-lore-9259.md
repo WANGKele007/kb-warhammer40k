@@ -3,23 +3,72 @@ title: "战锤40K网道硬核解构：撕裂亚空间与现实的时空迷宫"
 url: https://wh40knews.com/lore/warhammer-40k-webway-lore-9259
 source: wh40knews
 lang: zh
+published: 2026-09-13T13:15:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/9/22
+**网道由亚空间的质料构筑而成，穿梭、穿行于非物质世界与物质世界之间；它分属二者，又独立于二者。**
 
-在[《战锤40K》](/lore/warhammer-40k-imperium-lore)这台碾压一切理智的宏大绞肉机里，如果说有什么东西能让物理法则和亚空间狂潮同时吃瘪，那绝对是横亘在两界之间的终极Bug——网道。不要用三维宇宙的贫瘠思维去丈量它，这玩意儿根本不是什么简单的传送通道，而是一层笼罩在某种不可名状之物上的银亮帷幕。远古时期的[灵族](/lore/warhammer-40k-aeldari-hardcore-guide)硬生生摸索出了在这片帷幕表层滑行的黑科技，从此在这片不归属于任何一侧的迷宫里安营扎寨，谱写了一段跨越万年的生存狂妄史。
+***原文：******Engineered from the stuff of warp space, the webway burrowed between and through the immaterial and material worlds, part of both but separate from each.***
 
-## 撕碎唯物主义的银亮帷幕：时空法则的终极坟场
+***— Path of the Warrior***
 
-很多人把网道粗暴地理解为某种宇宙高速公路，这种比喻简直浅薄到了极点。官方设定早就给出过极其精准的定性：它是由亚空间的纯粹质料生生剥离、重塑而成的多维晶格。这意味着什么？这意味着网道就像一套极其复杂的发光毛细血管，深深扎根在现实宇宙的物理位面与非物质界的汹涌怒涛之间。支配银河的常规物理法则在这里就是个笑话，而[亚空间](/lore/warhammer-daily-heresy-analysis)的狂乱无序也无法轻易将触手伸进这片领域，它独立于二者，又玩弄着二者。
+**网道是一座存在于物质界与非物质界之间的迷宫；它兼有二者的属性，却不完全归属于任何一方。**
 
-当你真正踏入这片迷宫时，最先崩塌的绝对是时间感知。在这片充斥着发光丝蔓的界面里，时间流逝的刻度被彻底扭曲，你以为的瞬息之间，放在现实宇宙可能已经跨越了漫长岁月。这就是为什么那些连接着无数现实维度的古老门户，能够经由空间裂隙实现跨越星海的瞬时传送。它是万千世界的交汇点，也是隔绝外界干预的绝对壁垒。
+***原文：******The webway is a labyrinth that exists between the material and the immaterial realm, part of both and yet not wholly in either.***
 
-## 灵族的私家猎场与潜藏的深渊梦魇
+***— Codex: Eldar, 8th Edition***
 
-说到底，网道早就被打上了科摩罗主人们的专属烙印。历经无数个世代的疯狂扩张，那些高傲的尖耳朵硬是在各个维度的连接处，硬生生抠出了足以容纳宏伟宫殿、华美庄园甚至整座超级城市的庞大空间。在这片无穷无尽的迷宫结构里，他们是当之无愧的主宰，把这里打造成了最血腥也最隐秘的猎场。偶尔有几个不知死活的闯入者胆敢涉足，换来的只能是主人们轻蔑的嗤笑与无情的绞杀。
+**这便是网道，一个迷宫般的领域：无论是支配银河的物理法则，还是亚空间的非实在性，都无法对它加以约束。**
 
-但别以为这里就是绝对安全的避风港，在这张光鲜亮丽的现实丝线网络之下，同样潜伏着致命的溃疡。在那些深不见底的晶格角落，暗藏着由纯粹否定与腐坏构成的碎片，它们就像毒瘤一样扎根在网道的深处。当某些不可言说的黑暗再次沉入网道深海时，哪怕是最高傲的开拓者也只能转身逃离。他们只能死死攥住那唯一一条可供逃生的丝线，被迫穿梭于物质空间，逃向一个既不属于虚空，也不属于现实的未知夹缝。这种刀尖舔血的绝望感，才是[《战锤40K》](/lore/warhammer-40k-imperium-lore)这片终极迷宫最真实的底色。
+***原文：******It is the webway, a labyrinthine domain ungoverned by either the physics that hold sway in the galaxy or the unreality of the Warp.***
 
-相关阅读换一换
-[战锤40K硬核小说解构：领航者暗网博弈与邪教血肉狂欢](https://wh40knews.com/lore/warhammer-40k-navigator-chaos-cult)[诺阿顿的审判：当行商浪人的誓言撞上活体空间站的疯狂意志](https://wh40knews.com/lore/noatun-station-rogue-trader-story)[哈拉孔行星档案：低重力巢都与哈拉考尼战鹰的摇篮](https://wh40knews.com/lore/warhammer-40k-harakon-hive-world-lore)[战锤40K凡人空战解析：高G机动下的血肉博弈与官僚背刺](https://wh40knews.com/lore/warhammer-40k-sabbat-crusade-lore)[赦免者战团：基列德星系的血誓守护者与圣吉列斯诅咒的挣扎](https://wh40knews.com/lore/absolver-chapter-40k)[战锤40K小说《染血玫瑰》：当战斗修女直面恐虐血祭，全员堕落的小镇真相](https://wh40knews.com/lore/warhammer-40k-bloodied-rose-story)[战锤40K设定解密：审判官巡洋舰与阿斯特·萨巴蒂尔的特权武装](https://wh40knews.com/lore/inquisitorial-cruiser-astor-sabbathiel-lore)[战锤40K小说《元素议会》译文：土氏工匠窥探以太最高机密，被封锁的“塞拉”档案与影阳的默许](https://wh40knews.com/lore/elemental-council-tau-ethereal-secret)
+***— White Dwarf issue 53***
+
+**要知道，网道里的时间流逝方式十分怪异。（也就是指时空属性和亚空间以及现实宇宙不一样）**
+
+***原文：******Why, time passes strangely in the webway.***
+
+***— Path of the Warrior***
+
+**这些门户能够经由空间裂隙实现瞬时传送，是通往无数现实的入口。**
+
+***原文：******Gateways that enabled instantaneous travel through rifts in space, doorways to uncountable realities.***
+
+***— Codex: Lizardmen, 6th Edition***
+
+**网道，有时被称作迷宫维度，但它根本不是一个真正的维度。有人将它形容为一套极端复杂的动脉与毛细血管网络，一片遍布亚空间的、发光丝蔓构成的迷宫。这些比喻充其量只能算是粗浅。网道的本质，是横亘在物质界与汹涌亚空间潮汐之间的界面，一层笼罩着某种庞然大物的帷幕。远古灵族发现：生命可以栖身在这层银亮的帷幕表层，沿着帷幕的丝线穿行。**
+
+***原文：******The webway, sometimes called the labyrinth dimension, is not a true dimension at all. It has been described as an incredibly complex network of arteries and capillaries, a maze of glowing thread‑like tendrils that spread across the mystic between realms of the Warp‑spacers. These analogies are crude at best, for the webway is defined by the fact it sits between the material realm and the roiling tides of the Warp, an interface a veil cast over something too vast to see. The ancient Eldar discovered that it was possible to exist within that silvered surface, to move within the threads of that veil.***
+
+***— Codex: Eldar, 8th Edition***
+
+**它们顺着现实的丝线滑向那片黑暗之地——那是网道多维晶格之中，一块由否定与腐坏构成的碎片。**
+
+***原文：******They came slipping through the skeins of reality towards the dark place, a shard of negativity and putrescence in the multi‑dimensional lattice of the webway.***
+
+***— Masque of Vyle***
+
+**当那片黑暗再次沉入网道深处时，他们转身离开。唯一一条可供逃离的丝线引领他们穿过物质空间，抵达一个既不在虚空之内、也不在物质宇宙之中的领域。**
+
+***原文：******They turned their backs on the dark place as it sank into the webway once more. A single thread of escape led them through the material space to a realm outside both the void and the material universe.***
+
+***— The Masque of Vyle***
+
+**阿斯塔纳苏斯洞悉：网道拥有数量无限的通路。**
+
+***原文：******Ashtanathus’s insight into the webway’s infinite number of routes.***
+
+***— Masque of Vyle***
+
+**科摩罗的灵族早已成为网道的主人。这里是他们的猎场。尽管网道的结构无穷无尽，但他们发现，像这样放肆的闯入者实属罕见。**
+
+***原文：******The eldar of Commorragh had become the masters of the webway. It was their hunting‑ground and within its fabric, although infinite, they found that it was rare to encounter such impudence.***
+
+***— Path of the Dark Eldar***
+
+**历经漫长世代，网道不断得到拓展；宏伟的宫殿、华美的庄园，乃至整座整座的城市，都诞生在各个维度之间的连接地带。**
+
+***原文：******For long generations the webway had been expanded and great palaces, beautiful estates and entire cities had been birthed in the links between dimensions.***
+
+***— Path of the Outcast***

@@ -3,21 +3,18 @@ title: "战锤40K等离子反应堆硬核解构：帝国能源体系的绝望绞
 url: https://wh40knews.com/lore/warhammer-40k-plasma-reactor-lore
 source: wh40knews
 lang: zh
+published: 2026-09-10T10:30:00.000Z
+original_url: https://search.bilibili.com/article?vt=68111145&keyword=%E6%88%98%E9%94%A440k&from_source=webtop_search&spm_id_from=333.1007&search_source=5&order=pubdate
 ---
 
-发布时间: 2026/9/28
+Plasma reactors are a power-generation technology used across the Imperium. Their "fuel", super-energised plasma, is "a thousand times" more powerful than conventional nuclear fuel on a ton-for-ton basis.
 
-等离子反应堆是整个帝国使用的一种发电技术。它们的“燃料”，即超高能等离子体，在每吨的基础上比传统核燃料“强一千倍”。等离子反应堆通常出现在帝国战舰和空间站上，但也用于恐惧骑士、泰坦、帝国大厦等超重型载具、鱼雷、防御激光，并为整个设施或城市供电。它们也被沃坦联盟使用。如果等离子反应堆受损或被毁，可能会发生灾难性的熔毁，导致大规模爆炸。
+等离子反应堆是整个帝国使用的一种发电技术。它们的“燃料”，即超高能等离子体，在每吨的基础上比传统核燃料“强一千倍”。
 
-在《战锤40K》那令人窒息的黑暗宇宙中，所谓的等离子反应堆绝对不是什么温和的能源供给站，而是被机械神教强行禁锢在精金外壳里的狂暴恒星。这帮疯狂的帝国工程师硬生生把足以瞬间蒸发山脉的超高能等离子体塞进引擎，换来了比前千禧年传统核能狂暴一千倍的绝对出力。你以为这只是一块好用的电池？在那些见不得光的底巢深处，它那幽蓝色的辐射光芒不仅是动力的象征，更是随时可能拉着一整个巢都陪葬的绝命倒计时。
+Plasma reactors are commonly seen on Imperial warships and space stations, but also are used on Dreadknights, Titans, Super-Heavy vehicles such as the Capitol Imperialis, Torpedoes, Defense Lasers, and to power entire facilities or cities. They are also used by the Leagues of Votann.
 
-## 锁死在精金牢笼里的咆哮巨兽
+等离子反应堆通常出现在帝国战舰和空间站上，但也用于恐惧骑士、泰坦、帝国大厦等超重型载具、鱼雷、防御激光，并为整个设施或城市供电。它们也被沃坦联盟使用。
 
-当一艘[战锤40K](/lore/warhammer-40k-chaos-emperor-lore)帝国战舰撕裂网道降临时，其核心深处震耳欲聋的轰鸣绝非机械的规律运作，那是等离子反应堆在极限高压下发出的惨烈哀嚎。这种技术不仅填满了虚空巨舰和轨道空间站的动力舱，更被丧心病狂地塞进了灰骑士的恐惧骑士装甲与那些遮天蔽日的[泰坦](/lore/warhammer-40k-mechanicus-titans-visual)巨兽体内。从帝国大厦级别的超重型载具到撕裂虚空的鱼雷，甚至是轰碎异端舰队的防御激光矩阵，这玩意儿几乎撑起了帝国军工体系的半壁江山。那些游荡在星海边缘的沃坦联盟同样对这种大杀器爱不释手，毕竟在绝对的火力优势面前，连异形都知道什么叫“真香”。
+If plasma reactors or damaged or destroyed, there can be a catastrophic meltdown that results in a massive explosion.
 
-**要想在《战锤40K》这片绝望星海中获得无上的伟力，就必须时刻把脑袋别在裤腰带上与死神对赌。**
-
-这种狂暴能源的代价同样惨烈到了极点。一旦等离子反应堆的冷却矩阵被击穿或者磁场约束失效，等待这些乘员的绝对不是什么温柔的停机重启，而是如同亚空间恶魔降临般的灾难性熔毁。高温等离子体会瞬间汽化周围的一切血肉与金属，随后引发的大规模殉爆足以在物质宇宙中撕开一道刺目的伤疤。每一次启动这种引擎，都是在拿凡人的血肉之躯去驯服星辰，这就是《战锤40K》中最残酷的等价交换法则。
-
-相关阅读换一换
-[战锤40K小说《记账官》硬核解构：怀言者与纳垢的极致血肉博弈](https://wh40knews.com/lore/warhammer-40k-tallyman-lore)[战锤40K：螺旋黎明教派（二）](https://wh40knews.com/lore/warhammer-genestealer-spiral-dawn-lore)[战锤40K战场生存手册：全景地图战术点位与底层基础数据硬核拆解](https://wh40knews.com/lore/warhammer-40k-map-data-guide)[战锤40K黑暗灵族巡逻包深度开箱：科摩罗掠奴舰队的性价比天花板与入坑指南](https://wh40knews.com/lore/drukhari-combat-patrol-box-review)[战锤40K隐私立场设定解构：帝国权贵的绝密遮羞布与大贤者的防窃听黑科技。](https://wh40knews.com/lore/warhammer-40k-privacy-field-lore)[战锤40K更哒咔(Moredakka)兽人世界详解：原铸造世界莫达克斯的沦陷历史](https://wh40knews.com/lore/moredakka-ork-world-lore-guide)[黑暗一课：康拉德·科兹的恐惧哲学与午夜领主的灭世美学](https://wh40knews.com/lore/konrad-curze-lesson-in-darkness)[战锤40K短篇《圣凯瑟琳的巡礼》：在无尽战火与绝望长夜中，战斗修女如何通过“故事仪式”传承信仰薪火](https://wh40knews.com/lore/triumph-saint-katherine-sister-story)
+如果等离子反应堆受损或被毁，可能会发生灾难性的熔毁，导致大规模爆炸。
