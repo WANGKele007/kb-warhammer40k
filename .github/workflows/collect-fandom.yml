@@ -1,0 +1,50 @@
+name: collect-fandom
+
+# 全量采集 Fandom WH40K Wiki 正文 → docs/en/*.md
+on:
+  workflow_dispatch:
+    inputs:
+      max_files:
+        description: '限量采集(0 = 全量 7313 篇,调试时填小数字)'
+        required: false
+        default: '0'
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install --quiet requests
+
+      - name: Collect
+        env:
+          KB_MAX_FILES: ${{ github.event.inputs.max_files || '0' }}
+        run: python scripts/collect_fandom.py
+
+      - name: Report size
+        run: |
+          echo "文件数: $(find docs/en -name '*.md' | wc -l)"
+          du -sh docs/en
+
+      - name: Commit
+        run: |
+          git config user.name  "kb-bot"
+          git config user.email "kb-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无变化"
+          else
+            git commit -m "collect: fandom wh40k wiki [skip ci]"
+            git push
+          fi
